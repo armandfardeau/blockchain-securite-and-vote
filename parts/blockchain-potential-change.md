@@ -1,4 +1,4 @@
-# La BC au Cœur de ce changement
+# De la blockchain comme potentiel cœur de ce changement
 ---
 
 ## [La blockchain c’est quoi exactement ?](blockchain_potential_change/blockchain_en_details.md)

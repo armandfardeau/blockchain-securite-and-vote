@@ -1,4 +1,4 @@
- # Besoin d’outils sécurisés et impact
+ # Du besoin d’outils sécurisés de prise de décision collective et de leur potentiel impact
  ---
  
 ## [Pour la res publica](tools_and_impact/res_publica.md)
