@@ -24,7 +24,9 @@ La sécurité informatique consiste à garantir que
 les ressources matérielles ou logicielles d'une organisation sont uniquement utilisées 
 dans le cadre prévu. »
 >
->*JF Pillou, Tout sur les systèmes d'information* 
+>*JF Pillou, Tout sur les systèmes d'information*
+
+--- 
 
 La sécurité des systèmes d'information vise les objectifs suivants :
 
