@@ -18,11 +18,13 @@ l’entourent.
 
 * Sa finalité sur le moyen terme est la cohérence de l’ensemble du système d’information.
 
-Selon JF Pillou : « Le système d'information représente un patrimoine essentiel de l'organisation, 
+> « Le système d'information représente un patrimoine essentiel de l'organisation, 
 qu'il convient de protéger. 
 La sécurité informatique consiste à garantir que 
 les ressources matérielles ou logicielles d'une organisation sont uniquement utilisées 
 dans le cadre prévu. »
+>
+>*JF Pillou, Tout sur les systèmes d'information* 
 
 La sécurité des systèmes d'information vise les objectifs suivants :
 
