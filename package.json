@@ -4,6 +4,6 @@
   },
   "scripts": {
     "serve": "gitbook serve",
-    "build": "git branch -D gh-pages && git checkout -b gh-pages && ls | grep -v _book | parallel rm -r && mv _book/* . && rm -r _book && git add -A && git commit -m 'push website' && git push --set-upstream origin gh-pages && git push -f && git checkout master"
+    "build": "gitbook build && cp _book/* docs/"
   }
 }
