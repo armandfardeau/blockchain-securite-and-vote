@@ -15,6 +15,8 @@ falsification ou la modification par les nœuds de stockage.
 
 ![Schéma d'une blockchain](../../images/blockchain-definition-1.png)
 
+---
+
 Une blockchain est donc un 
 registre distribué et sécurisé de toutes les transactions effectuées depuis le démarrage 
 du système réparti.
