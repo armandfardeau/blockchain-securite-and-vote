@@ -3,13 +3,16 @@
     "website": "styles/website.css"
   },
   "plugins": [
-    "download-pdf-link"
+    "download-pdf-link",
+    "language-picker"
   ],
   "pluginsConfig": {
     "download-pdf-link": {
       "base": "https://github.com/armandfardeau/blockchain-securite-and-vote/raw/master/book.pdf",
-      "label": "Télécharger le PDF",
-      "multilingual": false
+      "label": {
+        "en": "Download PDF",
+        "fr":"Télécharger le PDF"
+      }
     }
   }
 }
