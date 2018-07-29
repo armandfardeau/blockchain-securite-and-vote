@@ -3,7 +3,9 @@
     "gitbook-cli": "^2.3.2"
   },
   "scripts": {
+    "plugins": "gitbook install",
+    "pdf": "gitbook pdf",
     "serve": "gitbook serve",
-    "build": "gitbook build && rm -r docs && mkdir docs && cp -r _book/* docs/"
+    "build": "yarn run pdf && gitbook build && rm -r docs && mkdir docs && cp -r _book/* docs/"
   }
 }
