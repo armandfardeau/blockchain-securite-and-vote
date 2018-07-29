@@ -4,6 +4,6 @@
   },
   "scripts": {
     "serve": "gitbook serve",
-    "build": "git checkout gh-pages && ls | grep -v _book | parallel rm -r && mv _book/* . && rm -r _book"
+    "build": "git branch -D gh-pages && git checkout -b gh-pages && ls | grep -v _book | parallel rm -r && mv _book/* . && rm -r _book && ga -A && gcmsg 'push website' && git checkout master"
   }
 }
