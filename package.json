@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "scripts": {
+    "serve": "gitbook serve",
+    "build": "git checkout gh-pages && ls | grep -v _book | parallel rm -r && mv _book/* . && rm -r _book"
+  }
+}
