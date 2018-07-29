@@ -1,4 +1,5 @@
 # Définition : blockchain
+---
 
 Une (ou un) blockchain, ou chaîne de blocs est 
 une technologie de stockage et de transmission d'informations sans organe de contrôle.

@@ -1,4 +1,5 @@
 # Définition : prise de décision collective
+---
 
 La prise de décision collective est une situation où des individus sont rassemblés en 
 un groupe pour résoudre des problèmes.

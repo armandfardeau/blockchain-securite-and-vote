@@ -1,4 +1,5 @@
 # Définition : vote
+---
 
 Le vote (terme dérivé de l'anglais vote, provenant du latin votum signifiant « vœu ») 
 désigne une méthode permettant à un groupe une prise de décision commune. 

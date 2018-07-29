@@ -1,4 +1,5 @@
 # Définition : modalité de sécurisation
+---
 
 Nous entendons les modalité de sécurisation comme les différents méthodes 
 et moyens déployés dans le but de sécuriser.
