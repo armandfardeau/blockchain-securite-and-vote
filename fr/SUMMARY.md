@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](../en/Readme.md)
+* [Introduction](Readme.md)
 
 * [Définitions](parts/definitions.md)
     * [Blockchain](parts/definitions/blockchain.md)
