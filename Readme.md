@@ -1,8 +1,8 @@
 # La blockchain comme modalité de sécurisation de la prise de décision collective par votes.
 
-Nombre d’observateurs s’accordent pour considérer que nous entrons dans une période de crise de confiance vis-à-vis des services offerts par internet. 
+Nombre d’observateurs s’accordent pour considérer que nous entrons dans une période de crise de confiance vis-à-vis des services offerts par internet.
 
-Failles de sécurités, atteintes à la vie privée, manipulations de l’opinion, cybercriminalité, cyberguerre … sont aujourd’hui des enjeux largement médiatisés hors des cercles d’initiés. 
+Failles de sécurités, atteintes à la vie privée, manipulations de l’opinion, cybercriminalité, cyberguerre … sont aujourd’hui des enjeux largement médiatisés hors des cercles d’initiés.
 
 Le temps de la croyance aveugle dans les bienfait de la révolutions internet et des fantasmes semble révolu.
 
@@ -16,22 +16,24 @@ Si cette approche est apparue dans la mouvance du BitCoin, il s’agit avant tou
 
 Nous explorerons ici les perspectives ouvertes par l’usage de la blockchain comme outils de sécurisation de la prise de décision collective aussi bien dans le cadre public que privé.
 
-Des services sécurisés et décentralisés de vote offre un large champ potentiel de création de nouveau modes d’interaction autour d’un des enjeux majeurs de toute société structurée : la prise de décision. 
+Des services sécurisés et décentralisés de vote offre un large champ potentiel de création de nouveau modes d’interaction autour d’un des enjeux majeurs de toute société structurée : la prise de décision.
 
-## Du besoin d’outils sécurisés de prise de décision collective et de leur potentiel impact
-* Pour la res publica 
+## [Définition des termes du sujet](parts/definitions.md)
+
+## [Du besoin d’outils sécurisés de prise de décision collective et de leur potentiel impact](tools-and-impact.md)
+* Pour la res publica
 * Pour la gouvernance des entreprises
 * Pour les modes de management basé sur le consensus
 * Pour le cercle privé
 
-## De la blockchain comme potentiel cœur de ce changement 
-* La blockchain c’est quoi exactement ? 
-* Quid de la sécurité de la blockchain ? 
-* Quid de ses impacts énergétiques ? 
+## [De la blockchain comme potentiel cœur de ce changement](blockchain-potential-change.md)
+* La blockchain c’est quoi exactement ?
+* Quid de la sécurité de la blockchain ?
+* Quid de ses impacts énergétiques ?
 * Vers une normalisation ?
 
-## Quelques scénarios d’usages :
-* Gouvernance des entreprises 
-* Management collaboratif de projet 
-* Démocratie participative 
+## [Quelques scénarios d’usages](use-cases.md)
+* Gouvernance des entreprises
+* Management collaboratif de projet
+* Démocratie participative
 * Vie associative et gestion des collectives.

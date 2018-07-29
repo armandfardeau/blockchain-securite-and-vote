@@ -1,0 +1,1 @@
+# Définition : modalité de sécurisation

@@ -1,0 +1,1 @@
+# Définition : prise de décision collective
