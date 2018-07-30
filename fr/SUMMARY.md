@@ -29,4 +29,6 @@
     
  * [Conclusion](conclusion.md)
  
+ * [Glossaire](GLOSSARY.md)
+ 
  * [Annexes](annexes.md)
