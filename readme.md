@@ -8,6 +8,7 @@ How to install:
 * `yarn run serve`
 
 
-This project is deployed on github-pages, check your settings and use docs folder as gh-pages source
-in order to deploy you must build first: 
+This project is deployed on github-pages.
+check your settings and use docs folder as gh-pages sourcein order to deploy you must build first: 
+
 `yarn run build`
