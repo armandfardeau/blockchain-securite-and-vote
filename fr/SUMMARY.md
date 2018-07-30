@@ -9,7 +9,9 @@
     * [Vote](parts/definitions/vote.md)
 
 * [Du besoin d’outils sécurisés de prise de décision collective et de leur potentiel impact](parts/tools-and-impact.md)
-    * [Les origines de la crise de confiance et l'aspiration à la transparence](parts/tools_and_impact/crise_confiance_transparence.md)
+    * [Les origines de la crise de confiance](parts/tools_and_impact/crise_confiance.md) 
+    * [Une aspiration à la transparence](parts/tools_and_impact/aspiration_transparence.md) 
+    * [Du statut de la preuve au vote](parts/tools_and_impact/preuve_vote.md) 
     * [Pour la res publica](parts/tools_and_impact/res_publica.md)
     * [Pour la gouvernance des entreprises](parts/tools_and_impact/gouvernance_entreprises.md)
     * [Pour les modes de management basé sur le consensus](parts/tools_and_impact/management_base_consensus.md)

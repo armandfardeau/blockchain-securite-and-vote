@@ -1,5 +1,7 @@
 # La blockchain comme modalité de sécurisation de la prise de décision collective par votes.
 
+---
+
 Nombre d’observateurs s’accordent pour considérer que nous 
 entrons dans une période de crise de confiance vis-à-vis des services offerts par internet.
 
@@ -39,6 +41,8 @@ Des services sécurisés et décentralisés de vote offre un large champ potenti
 nouveau modes d’interaction autour d’un des enjeux majeurs de toute société structurée : 
 la prise de décision.
 
+---
+
 ## Table des matières
 
 ### [Introduction](Readme.md)
@@ -51,7 +55,9 @@ la prise de décision.
 * [Vote](parts/definitions/vote.md)
 
 ### [Du besoin d’outils sécurisés de prise de décision collective et de leur potentiel impact](parts/tools-and-impact.md)
-* [Les origines de la crise de confiance et l'aspiration à la transparence](parts/tools_and_impact/crise_confiance_transparence.md)
+* [Les origines de la crise de confiance](parts/tools_and_impact/crise_confiance.md) 
+* [Une aspiration à la transparence](parts/tools_and_impact/aspiration_transparence.md) 
+* [Du statut de la preuve au vote](parts/tools_and_impact/preuve_vote.md) 
 * [Pour la res publica](parts/tools_and_impact/res_publica.md)
 * [Pour la gouvernance des entreprises](parts/tools_and_impact/gouvernance_entreprises.md)
 * [Pour les modes de management basé sur le consensus](parts/tools_and_impact/management_base_consensus.md)
@@ -70,6 +76,8 @@ la prise de décision.
 * [Vie associative et gestion des collectives.](parts/use_cases/vie_associative_et_gestion_des_collectivites.md)
  
 ### [Conclusion](conclusion.md)
+
+### [Glossaire](GLOSSARY.md)
  
 ### [Annexes](annexes.md)
 
