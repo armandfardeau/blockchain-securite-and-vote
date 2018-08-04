@@ -5,7 +5,8 @@
   "plugins": [
     "download-pdf-link@git+https://github.com/armandfardeau/gitbook-plugin-download-pdf-link.git",
     "language-picker",
-    "disqus"
+    "disqus",
+    "hints"
   ],
   "pluginsConfig": {
     "disqus": {

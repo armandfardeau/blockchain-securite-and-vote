@@ -43,6 +43,10 @@ la prise de décision.
 
 ---
 
+{% hint style='info' %}
+Ce travail est en cours et de nombreuses sections ne sont pas dans leur état définitif
+{% endhint %}
+
 ## Table des matières
 
 ### [Introduction](Readme.md)
