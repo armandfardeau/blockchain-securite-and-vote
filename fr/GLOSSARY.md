@@ -33,11 +33,12 @@ Source : [School of Computing Science, Newcastle University UK](./sources/A_Smar
 ## Ethereum
 
 Définition : Ethereum est une plate-forme décentralisée qui gère des contrats intelligents (smart-contract) : des applications qui fonctionnent exactement comme programmé sans aucune possibilité de temps d'arrêt, de censure, de fraude ou d'interférence de tiers.
-source : [Ethreum project](https://www.ethereum.org/)
+Source : [Ethreum project](https://www.ethereum.org/)
 
 ## RSCOIN
 
 RSCoin, une crypto monnaie contrôlée par la Banque d'Angleterre dans le but de renforcer l'économie du pays et le commerce mondial, combine les avantages de la technologie du registre distribué distribué avec le contrôle des monnaies traditionnelles, gérées de manière centralisée.
+Source : [Rscoin project](https://iohk.io/projects/rscoin/)
 
 ## registre distribué
 
