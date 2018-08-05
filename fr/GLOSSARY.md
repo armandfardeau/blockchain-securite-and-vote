@@ -52,3 +52,9 @@ Composé de res et de publicus, souvent traduit mot-à-mot par « chose publique
 ## tiers de confiance
 
 Un tiers de confiance est un organisme dont le but est de garantir l'authenticité d'une chose.
+
+## open-source
+
+La désignation open source, ou « code source ouvert », s'applique aux logiciels (et s'étend maintenant aux œuvres de l'esprit) dont la licence respecte des critères précisément établis par l'Open Source Initiative, c'est-à-dire les possibilités de libre redistribution, d'accès au code source et de création de travaux dérivés. Mis à la disposition du grand public, ce code source est généralement le résultat d'une collaboration entre programmeurs.
+
+## Claude Shannon, Communication theory of secrecy system

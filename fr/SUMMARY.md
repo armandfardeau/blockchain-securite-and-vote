@@ -18,7 +18,7 @@
     * [Pour le cercle privé](parts/tools_and_impact/cercle_prive.md)
 
 * [De la blockchain comme potentiel cœur de ce changement](parts/blockchain-potential-change.md)
-    * [La blockchain c’est quoi exactement ?](parts/blockchain_potential_change/blockchain_en_details.md)
+    * [Qu'est ce que la blockchain ?](parts/blockchain_potential_change/blockchain_en_details.md)
     * [Quid de la sécurité de la blockchain ?](parts/blockchain_potential_change/blockchain_securite.md)
     * [Quid de ses impacts énergétiques ?](parts/blockchain_potential_change/impact_energetique.md)
     * [Vers une normalisation ?](parts/blockchain_potential_change/blockchain_normalisation.md)
