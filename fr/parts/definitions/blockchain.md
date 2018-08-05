@@ -28,8 +28,10 @@ dont l’accès et l’utilisation sont limitées à un certain nombre d’acteu
 Une blockchain publique peut donc être assimilée à un grand livre comptable public, 
 anonyme et infalsifiable. 
 
-Comme l’écrit le mathématicien Jean-Paul Delahaye, il faut s’imaginer « un très grand cahier, 
-que tout le monde peut lire librement et gratuitement, sur lequel tout le monde peut écrire, 
-mais qui est impossible à effacer et indestructible. »
+> il faut s’imaginer « un très grand cahier, 
+> que tout le monde peut lire librement et gratuitement, sur lequel tout le monde peut écrire, 
+> mais qui est impossible à effacer et indestructible. »
+
+> Jean-Paul Delahaye, Les blockchains, clefs d’un nouveau monde
 
 ![Schéma d'une blockchain](../../images/blockchain-definition-2.jpg)

@@ -64,3 +64,8 @@ Source : [Bell Systems Technical Journal](http://netlab.cs.ucla.edu/wiki/files/s
 
 ## hash
 On nomme fonction de hachage, de l'anglais hash function, une fonction particulière qui, à partir d'une donnée fournie en entrée, calcule une empreinte servant à identifier rapidement, bien qu'incomplètement, la donnée initiale.
+
+## Jean-Paul Delahaye, Les blockchains, clefs d’un nouveau monde
+Titre : Les blockchains, clefs d’un nouveau monde
+Auteur : Jean-Paul Delahaye
+Source : [ Pour la Science - n° 449](http://www.lifl.fr/~jdelahay/pls/2015/256.pdf)
