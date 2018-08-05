@@ -6,7 +6,8 @@
     "download-pdf-link",
     "language-picker",
     "disqus",
-    "hints"
+    "hints",
+    "word-count"
   ],
   "pluginsConfig": {
     "disqus": {
