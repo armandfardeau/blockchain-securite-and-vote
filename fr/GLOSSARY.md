@@ -44,3 +44,11 @@ Source : [Rscoin project](https://iohk.io/projects/rscoin/)
 
 Un registre distribué (aussi appelé registre partagé ; en anglais, distributed ledger ou shared ledger) est un registre simultanément enregistré et synchronisé sur un réseau d'ordinateurs, qui évolue par l'addition de nouvelles informations préalablement validées par l'entièreté du réseau et destinées à ne jamais être modifiées ou supprimées.
 Un registre distribué n'a ni administrateur central ni stockage de données centralisé.
+
+## re publica
+
+Composé de res et de publicus, souvent traduit mot-à-mot par « chose publique » quoique « bien public » soit plus idiomatique.
+
+## tiers de confiance
+
+Un tiers de confiance est un organisme dont le but est de garantir l'authenticité d'une chose.
