@@ -3,7 +3,7 @@
     "website": "styles/website.css"
   },
   "plugins": [
-    "download-pdf-link@git+https://github.com/armandfardeau/gitbook-plugin-download-pdf-link.git",
+    "download-pdf-link",
     "language-picker",
     "disqus",
     "hints"
