@@ -124,12 +124,15 @@ ordres sont agglomérés les uns aux autres, puis chiffrés, formant une chaîne
 stockée dans un « grand livre de transactions », lequel est redistribué à tous
 les services de polices en présence. 
 
+Une chaine est ainsi formée, contenant un hash de tous les ordres précédents.
+
 Ainsi, si un messager reçoit l’information "La perquisition aura lieu demain à 16h00", 
 et qu’il décide de ne la répercuter qu’à la moitié des autres et 
-d’envoyer un horaire différent à l’autre moitié, 
+d’envoyer un horaire différent à l’autre moitié, il changera la valeur de ce hash. 
 
 Les autres messagers partageant l'informations avec tous les services de police en présence, 
-il sera possible de déterminer les chaines incohérentes et d'identifier les corrompus.
+il sera possible de déterminer les chaines incohérentes et d'identifier les corrompus simplement en 
+comparant la valeur des hashs.
 
 Ceci implique bien entendu que le nombre de messagers honnêtes soit supérieur au nombre de corrompus.
 
