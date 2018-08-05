@@ -58,3 +58,9 @@ Un tiers de confiance est un organisme dont le but est de garantir l'authenticit
 La désignation open source, ou « code source ouvert », s'applique aux logiciels (et s'étend maintenant aux œuvres de l'esprit) dont la licence respecte des critères précisément établis par l'Open Source Initiative, c'est-à-dire les possibilités de libre redistribution, d'accès au code source et de création de travaux dérivés. Mis à la disposition du grand public, ce code source est généralement le résultat d'une collaboration entre programmeurs.
 
 ## Claude Shannon, Communication theory of secrecy system
+Titre : Communication theory of secrecy system
+Auteur : Claude Shannon
+Source : [Bell Systems Technical Journal](http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf)
+
+## hash
+On nomme fonction de hachage, de l'anglais hash function, une fonction particulière qui, à partir d'une donnée fournie en entrée, calcule une empreinte servant à identifier rapidement, bien qu'incomplètement, la donnée initiale.
