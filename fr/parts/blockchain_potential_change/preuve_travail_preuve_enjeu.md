@@ -26,14 +26,14 @@ de travail » (proof of work).
 On appelle les machines (ou institutions) qui
 effectuent ce travail de certification des « mineurs » de l'anglais mining.
 
-La preuve de travail est un objet cryptographique que le mineur expose,
-qui prouve qu’il a passé un certain temps sur le problème. 
-Fruit d'une invention d'Adam Back, inventeur du protocole Hashcash, la preuve de travail évite un
-clonage facile pour transformer un mineur adverse en une armée de clones.
+L'objet cryptographique crée par le mineur est la preuve du temps passé à la certification, 
+il constitue la preuve de travail. 
 
-Comme la blockchain repose sur le consensus, il est important de garantir des
-« véritables participants », et ainsi éviter qu’un fraudeur puisse changer la
-blockchain de manière rétroactive. 
+Il est essentiel de garantir la nature réelle du travail des 
+parties prenantes afin de préserver le consensus.
+
+Fruit d'une invention d'Adam Back, inventeur du protocole Hashcash, elle évite un
+clonage facile qui aurait pour conséquences de pouvoir controller la blockchain de manière rétroactive.
 
 Le mécanisme est même plus sophistiqué :
 à intervalles de temps réguliers, la difficulté augmente.
