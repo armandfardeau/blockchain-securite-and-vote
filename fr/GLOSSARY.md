@@ -69,3 +69,11 @@ On nomme fonction de hachage, de l'anglais hash function, une fonction particuli
 Titre : Les blockchains, clefs d’un nouveau monde
 Auteur : Jean-Paul Delahaye
 Source : [ Pour la Science - n° 449](http://www.lifl.fr/~jdelahay/pls/2015/256.pdf)
+
+## Adam Back, Inventeur du protocole Hashcash
+
+## mining
+
+## proof-of-work
+
+## proof-of-stake
