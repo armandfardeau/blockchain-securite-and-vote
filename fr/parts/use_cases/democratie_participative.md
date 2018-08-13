@@ -69,3 +69,36 @@ contrat de vote électronique.
 
 La nouvelle chaîne de blocs peut avoir une taille de bloc plus grande pour stocker plus de transactions sur la chaîne.
 et peuvent être maintenus d'une manière centralisée similaire à RSCoin.
+
+* ### La première élection basée sur la blockchain s'est déroulée en Sierra Leone
+
+> John Biggs, TechCrunch
+
+Le 7 mars 2018 s'est déroulé un vote en Sierra Leone enregistrant 70% de participation sur une blockchain.
+
+La technologie Agora, crée par Leonardo Gammar, stocke anonymement les votes dans un registre immuable, offrant ainsi un accès instantané aux résultats des élections.
+
+>Les votes/bulletins anonymes sont enregistrés sur la chaîne de blocage d'Agora, qui sera
+>accessible au public pour que toute partie intéressée puisse les examiner, les compter et
+>les valider. C'est la première fois qu'une élection gouvernementale utilise la technologie
+>blockchain."
+>
+> Leonardo Gammar, Agora
+
+Un mouvement d'aspiration à la transparence et de lutte contre la corruption s'élève en Sierra Leone. Ses citoyens aspirent à un climat de confiance dans le cadre des élections, habituellement controversé. 
+
+Cette experimentation permettra de tester les retombées en matière de perception d'intégrité dans le cadre de l'élection. Ainsi les citoyens et les parties prenangtes espèrent créer une légitimité autour de l'élection et réduire les retombées des partis d'opposition 
+
+
+Bien qu'il ne s'agisse que d'une preuve de concept, un POC
+Il ne s'agit pas d'un registre électoral complet, mais plutôt d'une pluralité de votes en quantitée acceptable. 
+
+Il est fascinant de voir la technologie mise en œuvre en Sierra Leone, un pays d'environ 7,4 millions d'habitants. 
+
+L'objectif ultime est de réduire les coûts du vote en supprimant les bulletins de vote en papier et en réduisant la corruption dans le processus de vote.
+
+Cette première experimentation démontre la faisabilité de l'opération dans un pays de plusieurs millions d'habitants où la corruption et la criminalité sont élevées.
+ 
+ Son créateur prend en exemple le retour en arrière de nombreux pays sur le vote électronique pour avancer le caractère incontournable des blockchains dans les processus de price de décision par le vote, arguant qu'il n'existe pas d'autres sytème de vote de bout en bout vérifiable et totalement transparente pour cet avenir.
+
+Toutefois il s'agit de remttre cette expérience en perspective, car une élection dans un pays n'est pas encore un mouvement massif. Cependant, Gammar et son équipe ont annoncé leur intention d'étendre leur produit à d'autres pays africains et, au reste du monde.

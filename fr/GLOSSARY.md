@@ -77,3 +77,13 @@ Source : [ Pour la Science - n° 449](http://www.lifl.fr/~jdelahay/pls/2015/256.
 ## proof-of-work
 
 ## proof-of-stake
+
+## John Biggs, TechCrunch
+
+Titre : Sierra Leone just ran the first blockchain-based election
+Auteur : John Biggs
+Source : [Techcrunch](https://techcrunch.com/2018/03/14/sierra-leone-just-ran-the-first-blockchain-based-election/)
+
+## Leonardo Gammar, Agora
+
+[site Agora](https://www.agora.vote/)
