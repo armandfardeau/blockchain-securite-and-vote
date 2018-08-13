@@ -1,7 +1,6 @@
 ## Du statut de la preuve au vote
 ---
-Si la transparence nécessite d'apporter la preuve de sa bonne foi, 
-la preuve mértite que l'on s'intéresse à son statut et aux conséquences qu'elle fait peser sur le vote.
+Si la transparence nécessite d'apporter la preuve de sa bonne foi, la preuve mértite que l'on s'intéresse à son statut et aux conséquences qu'elle fait peser sur le vote.
 
 ### Qu'est ce qu'une preuve?
 
@@ -12,15 +11,13 @@ C'est bien cette double nature qui nous intéresse ici au regard de la question 
 
 ### Le vote et la preuve
 
-Le rapport entre le vote et la preuve est comme nous l'avons évoqué, duale. Parce que la preuve doit 
-être présente autour du processus de vote et autour du vote en tant qu'acte matériel.
+Le rapport entre le vote et la preuve est comme nous l'avons évoqué, duale. Parce que la preuve doit être présente autour du processus de vote et autour du vote en tant qu'acte matériel.
 
 **Preuve entourant le processus :** 
 * Fiabilité
 * Traçabilité
 
-Ce processus doit être réfutable, c'est à dire qu'il doit présenter 
-des éléments tangibles et objectifs permettant sa potentielle disqualification ou non.
+Ce processus doit être réfutable, c'est à dire qu'il doit présenter des éléments tangibles et objectifs permettant sa potentielle disqualification ou non.
 
 Si le processus ne présente des critères de réfutabilité potenitelles, il est jugé corrompu à priori.
 
