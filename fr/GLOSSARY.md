@@ -71,16 +71,16 @@ Auteur : Jean-Paul Delahaye
 Source : [ Pour la Science - n° 449](http://www.lifl.fr/~jdelahay/pls/2015/256.pdf)
 
 ## Adam Back, Inventeur du protocole Hashcash
-[//]: # (TODO: COMPLETE GLOSSARY)
+Hashcash est un système de preuve du travail utilisé pour limiter les spams et les attaques par déni de service, et plus récemment. Hashcash a été proposé en 1997 par Adam Back.
 
 ## mining
-[//]: # (TODO: COMPLETE GLOSSARY)
+Miner des cryptomonnaies signifie réaliser des calculs cryptographiques pour vérifier la chaîne de blocs. On désigne par la présente à la fois la machine, la pratique, et la personne ou l'institution effectuant l'opération.
 
 ## proof-of-work
-[//]: # (TODO: COMPLETE GLOSSARY)
+En preuve de travail (PoW), l'algorithme récompense les participants qui résolvent des puzzles cryptographiques afin de valider les transactions et de créer de nouveaux blocs (i.e. l'exploitation minière).
 
 ## proof-of-stake
-[//]: # (TODO: COMPLETE GLOSSARY)
+Dans les blockchains publiques basées sur la preuve de mise en jeu (par exemple, l'implémentation prochaine d'Ethereum Casper), un ensemble de validateurs se relaient pour proposer et voter sur le bloc suivant, et le poids du vote de chaque validateur dépend de la taille de son dépôt (c'est-à-dire la mise en jeu).
 
 ## John Biggs, TechCrunch
 
@@ -89,8 +89,7 @@ Auteur : John Biggs
 Source : [Techcrunch](https://techcrunch.com/2018/03/14/sierra-leone-just-ran-the-first-blockchain-based-election/)
 
 ## Leonardo Gammar, Agora
-
-[//]: # (TODO: ADD DESCRIPTION)
+Agora est une entreprise qui s'engage à développer des élections sûres et transparentes dans le monde entier.
 [site Agora](https://www.agora.vote/)
 
 ## Usman W. Chohan, Proof-of-Stake Algorithmic Methods: A Comparative Summary
