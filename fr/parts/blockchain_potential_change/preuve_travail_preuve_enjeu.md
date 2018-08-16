@@ -65,3 +65,5 @@ Les services de mining sont disponibles dans le cloud à travers le cloud-mining
 ### Concernant la preuve de l’Enjeu :
 
 De l'anglais proof-of-stake.
+
+[//]: # (TODO: AJOUT PROOF OF STAKE)

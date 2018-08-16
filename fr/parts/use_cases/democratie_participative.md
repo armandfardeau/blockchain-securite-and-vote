@@ -68,3 +68,6 @@ Cette première experimentation démontre la faisabilité de l'opération dans u
  Son créateur prend en exemple le retour en arrière de nombreux pays sur le vote électronique pour avancer le caractère incontournable des blockchains dans les processus de price de décision par le vote, arguant qu'il n'existe pas d'autres sytème de vote de bout en bout vérifiable et totalement transparente pour cet avenir.
 
 Toutefois il s'agit de remttre cette expérience en perspective, car une élection dans un pays n'est pas encore un mouvement massif. Cependant, Gammar et son équipe ont annoncé leur intention d'étendre leur produit à d'autres pays africains et, au reste du monde.
+
+
+[//]: # (TODO: DEMOCRATY EARTH PART)

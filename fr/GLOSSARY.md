@@ -71,12 +71,16 @@ Auteur : Jean-Paul Delahaye
 Source : [ Pour la Science - n° 449](http://www.lifl.fr/~jdelahay/pls/2015/256.pdf)
 
 ## Adam Back, Inventeur du protocole Hashcash
+[//]: # (TODO: COMPLETE GLOSSARY)
 
 ## mining
+[//]: # (TODO: COMPLETE GLOSSARY)
 
 ## proof-of-work
+[//]: # (TODO: COMPLETE GLOSSARY)
 
 ## proof-of-stake
+[//]: # (TODO: COMPLETE GLOSSARY)
 
 ## John Biggs, TechCrunch
 
@@ -86,4 +90,5 @@ Source : [Techcrunch](https://techcrunch.com/2018/03/14/sierra-leone-just-ran-th
 
 ## Leonardo Gammar, Agora
 
+[//]: # (TODO: ADD DESCRIPTION)
 [site Agora](https://www.agora.vote/)

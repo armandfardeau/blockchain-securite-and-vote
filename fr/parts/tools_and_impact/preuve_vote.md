@@ -25,3 +25,5 @@ Si le processus ne présente des critères de réfutabilité potenitelles, il es
 * Authenticité 
 * Intégrité
 * Confidentialité
+
+[//]: # (TODO: PREUVE)

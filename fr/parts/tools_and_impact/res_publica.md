@@ -12,3 +12,6 @@ Les biens public sont mutliples et les propositions le concernant peuvent proven
 ## La question de l'identitée
 
 Puisque le vote nécessite l'authentification du sujet de façon à éviter la fraude, la question de l'identitée est cruciale. La blockchain invite à repenser le rôle des insitutions en tant que tiers de confiance
+
+
+[//]: # (TODO: RES PUBLICA)

@@ -33,3 +33,6 @@ Internet a amplifié cette réaction en maintenant ce public dans des sphères d
 Aujourd'hui il apparait comme un défi pour les entitées s'adressant à ces citoyens d'appréhender ces cercles idéologiques et leur influence sur le message qu'elles véhiculent.
 
 Il serait vain de tenter de lister toutes les manifestations de cette crise de confiance ni même ses origines qui sont sujettes à controverses. Nénamoins, il convient de constater que celle-ci existe indubitablement et que son existence impose de repenser profondément le rapport au monde que les entreprises, les états en intégrant ses nouveaux impératifs de transparence.
+
+
+[//]: # (TODO: RELIRE MEMOIRE VIRGILE)
