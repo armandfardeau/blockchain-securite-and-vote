@@ -88,3 +88,5 @@ Les autres messagers partageant l'informations avec tous les services de police 
 
 Ceci implique bien entendu que le nombre de messagers honnêtes soit supérieur au nombre de corrompus.
 
+### Qu'est ce qu'un smart contracts?
+[//]: # (TODO: SMART CONTRACTS)

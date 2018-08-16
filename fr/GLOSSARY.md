@@ -83,7 +83,6 @@ En preuve de travail (PoW), l'algorithme récompense les participants qui résol
 Dans les blockchains publiques basées sur la preuve de mise en jeu (par exemple, l'implémentation prochaine d'Ethereum Casper), un ensemble de validateurs se relaient pour proposer et voter sur le bloc suivant, et le poids du vote de chaque validateur dépend de la taille de son dépôt (c'est-à-dire la mise en jeu).
 
 ## John Biggs, TechCrunch
-
 Titre : Sierra Leone just ran the first blockchain-based election
 Auteur : John Biggs
 Source : [Techcrunch](https://techcrunch.com/2018/03/14/sierra-leone-just-ran-the-first-blockchain-based-election/)
@@ -93,7 +92,14 @@ Agora est une entreprise qui s'engage à développer des élections sûres et tr
 [site Agora](https://www.agora.vote/)
 
 ## Usman W. Chohan, Proof-of-Stake Algorithmic Methods: A Comparative Summary
-
 Titre : Proof-of-Stake Algorithmic Methods: A Comparative Summary
 Auteur : Usman W. Chohan
 Source : [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3131897)
+
+## Loi par le code
+Titre : Code Is Law
+Auteur : LAWRENCE LESSIG
+Source : [Harvard Magazine](https://harvardmagazine.com/2000/01/code-is-law-html)
+
+## Simon de la Rouviere, blockchain Consensys
+[//]: # (TODO: ADD)
