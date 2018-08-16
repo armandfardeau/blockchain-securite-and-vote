@@ -92,3 +92,9 @@ Source : [Techcrunch](https://techcrunch.com/2018/03/14/sierra-leone-just-ran-th
 
 [//]: # (TODO: ADD DESCRIPTION)
 [site Agora](https://www.agora.vote/)
+
+## Usman W. Chohan, Proof-of-Stake Algorithmic Methods: A Comparative Summary
+
+Titre : Proof-of-Stake Algorithmic Methods: A Comparative Summary
+Auteur : Usman W. Chohan
+Source : [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3131897)
