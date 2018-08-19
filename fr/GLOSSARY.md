@@ -103,3 +103,9 @@ Source : [Harvard Magazine](https://harvardmagazine.com/2000/01/code-is-law-html
 
 ## Simon de la Rouviere, blockchain Consensys
 [//]: # (TODO: ADD)
+
+## TheDAO
+
+## POC
+
+Une preuve de concept (de l'anglais : proof of concept, POC) ou démonstration de faisabilité, est une réalisation expérimentale concrète et préliminaire, courte ou incomplète, illustrant une certaine méthode ou idée afin d'en démontrer la faisabilité.
