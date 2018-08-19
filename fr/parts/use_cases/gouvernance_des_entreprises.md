@@ -13,7 +13,7 @@ L'intéret de cette méthode est de disposer d'une preuve immuable.
 
 > C’est une forme d’organisation incorruptible qui appartient aux personnes qui ont aidé à la créer et à la financer, et dont les règles sont publiques. Il n’y a donc pas besoin de faire confiance à qui que ce soit, car tout est dans le code, auditable par chacun.
 >
->Stephan Tual, TheDAO
+> Stephan Tual, TheDAO
 
 Les DAOs utilisent la technologie des smart contracts ( voir smart-contract )pour fonctionner.
 
