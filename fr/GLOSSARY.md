@@ -102,9 +102,8 @@ Auteur : LAWRENCE LESSIG
 Source : [Harvard Magazine](https://harvardmagazine.com/2000/01/code-is-law-html)
 
 ## Simon de la Rouviere, blockchain Consensys
-[//]: # (TODO: ADD)
-
-## TheDAO
+ConsenSys est un studio de production d'entreprise qui construit des applications décentralisées et divers outils de développement et d'utilisation finale pour les écosystèmes de la chaîne de blocs, principalement centrés sur Ethereum.
+[site blockchain Consensys](https://consensys.net/)
 
 ## POC
 
