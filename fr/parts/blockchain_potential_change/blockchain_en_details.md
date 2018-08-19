@@ -19,7 +19,7 @@ Celle-ci est basée sur trois piliers : deux sont technologiques, à savoir la c
 
 Elle repose sur le concept de clé. 
 
-Il existe deux types de clés :  les symmétriques et les assymmétriques. 
+Il existe deux types de clés :  les symmétriques et les asymmétriques. 
 
 Les premières sont connues depuis l'antiquité et les secondes ont vues le jour dans les années 1970.
 
