@@ -7,7 +7,7 @@ Elle se pose à deux niveau, le premier concerne la prise de décision  et  impl
 
 La seconde implique la gestion continue du bien et sa gouvernance.
 
-Les biens public sont mutliples et les propositions le concernant peuvent provenir des citoyens mais également des institutions.
+Les biens public sont mutliples et les propositions les concernant peuvent provenir des citoyens mais également des institutions.
 
 ### La question de l'identitée
 
