@@ -1,8 +1,6 @@
 ## Pour la gouvernance des entreprises
 ---
 
-[//]: # (TODO: GOUVERNANCE DES ENT)
-
 ### Gestion interne
 * #### Du vote dans les conseils d'administration
 
@@ -34,5 +32,9 @@ Si une personne morale est membre d'un conseil d'administration, elle désigne u
 
 * ##### L'exemple du crowdfunding
 
-[//]: # (TODO: Expliquer pourquoi el crowdfunding c'est du vote en repartant de l'exemple TheDAO à l'envers)
+Le crowdfunding désigne tous les outils et méthodes de transactions financières qui font appel à un grand nombre de personnes afin de financer un projet. Les manifestations de soutiens provenant des utilisateurs de ces outils sont de deux types : La première, un soutien financier consiste en une transaction dont le montant représente un pourcentage d'un objectif, et une seconde l'acte de transaction qui représente un soutient en tant que tel. Le montant de la transaction ne représentant qu'une échelle du soutien. 
+
+Enregistrer ces informations dans une blockchain permet à la fois de supprimer la nécessité de recourir à la confiance et de recourir à des smart contracts afin de garantir la bonne execution de l'acte soutenue. 
+
+[//]: # (TODO: ADD MORE EXAMPLES)
 
