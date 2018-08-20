@@ -17,6 +17,10 @@ La seconde implique la gestion continue du bien et sa gouvernance.
 
 Les biens public sont mutliples et les propositions les concernant peuvent provenir des citoyens mais également des institutions.
 
+#### Lieux d'enseignements
+
+[//]: # (TODO: ADD SECTION Lieux d'enseignements)
+
 #### Les grandes manifestations du vote dans l'administration de la chose publique
 
 Le vote prend de multiples formes et ne se limite pas à la désignation d'un représentant dans le cadre d'un suffrage universel comme c'est le cas dans l'élection présidentielle Française.
