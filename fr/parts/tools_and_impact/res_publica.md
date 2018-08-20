@@ -36,7 +36,21 @@ Les biens public sont mutliples et les propositions les concernant peuvent prove
 
 * #### Gestions des associations
 
-[//]: # (TODO: ADD part associations)
+Les associations peuvent recourir à la consultation du public par le vote dans plusieurs cas : 
+* Choix des projets
+* Allocations des budgets
+* Désignation des administrateurs
+* déterminsation des processus opérationnels
+
+L'action des associations est soumis à la confiance de ses donateurs, de nombreux scandales ont illustré que cette confiance était parfois abusée.
+
+[//]: # (TODO: Ajouter référence de scnadale autour des associations)
+
+La blockchain supprime ce besoin de confiance et pourrait rassurer le grand public dans son acte de donation. Il est même envisageable que la **mise en place de ces technologies soit un moteur du renouveau de la participation.** 
+
+Ainsi grâce à la blockchain, le donateur pourra à la fois voter dans un le cadre d'un processsus intègre mais également s'assurer que les choix qu'il a formulé ont bien été pris en compte et respectés.
+
+[//]: # (TODO: ADD Gestions des associations)
  
 * #### Gestions des établissements public.
 

@@ -3,7 +3,8 @@
 
 [//]: # (TODO: GOUVERNANCE DES ENT)
 
-### Du vote dans les conseils d'administration
+### Gestion interne
+* #### Du vote dans les conseils d'administration
 
 > « Les statuts de la société déterminent les règles relatives à la convocation et aux délibérations du conseil d’administration.
 Lorsqu’il ne s’est pas réuni depuis plus de deux mois, le tiers au moins des membres du conseil d’administration peut demander au président de convoquer celui-ci sur un ordre du jour déterminé.
@@ -29,4 +30,9 @@ Les décisions sont pris par le vote au sein d'un conseil d'Administration, en g
 
 Si une personne morale est membre d'un conseil d'administration, elle désigne une personne physique pour la représenter. La délégation de ce vote nécessite de faire confiance à son représentant alors qu'à l'aide d'une blockchain, cette confiance pourra disparaitre, car non nécessaire et faire place à une représentation liquide, c'est à dire où le délégataire est dans l'incapacité de dépasser ou d'outrepasser les décisions du ou des délégants.
 
-[//]: # (TODO: COMPLETE SECTION)
+* #### Gestion interne
+
+* ##### L'exemple du crowdfunding
+
+[//]: # (TODO: Expliquer pourquoi el crowdfunding c'est du vote en repartant de l'exemple TheDAO à l'envers)
+
