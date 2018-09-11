@@ -114,7 +114,7 @@ Une preuve de concept (de l'anglais : proof of concept, POC) ou démonstration d
 [Art. L.225-36-1 C. com.](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=D169450FEC128226FE79BFED9386AD79.tpdila08v_1?cidTexte=JORFTEXT000000223114&idArticle=LEGIARTI000006516868&dateTexte=20160602&categorieLien=id#LEGIARTI000006516868)
 
 ## Solidity
-[//]: # (TODO: Add entry)
+Solidity est un langage de programmation orienté contrat pour la rédaction de contrats intelligents. Il est utilisé pour la mise en œuvre de contrats intelligents sur différentes plates-formes de la chaîne de blocs. Il a été développé par Gavin Wood, Christian Reitwiessner, Alex Beregszaszi, Liana Husikyan, Yoichi Hirai et plusieurs anciens collaborateurs d'Ethereum pour permettre la rédaction de contrats intelligents sur des plateformes à chaînes multiples comme Ethereum.
 
 ## turing-complete
-[//]: # (TODO: Add entry)
+Un système complet de Turing signifie un système dans lequel un programme peut être écrit qui trouvera une réponse et pourrait être utilisé pour résoudre tout problème de calcul. Sans que rien ne mentionne le temps nécessaire à l'exécution de cette tâche.
