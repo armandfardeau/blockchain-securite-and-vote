@@ -1,3 +1,7 @@
+## Santiago Siri, Democraty Earth Foundation
+Créateur de la Democraty Earth Foundation
+Source : [Meet the Man With a Radical Plan for Blockchain Voting - Wired](https://www.wired.com/story/santiago-siri-radical-plan-for-blockchain-voting/)
+
 ## JF Pillou, Tout sur les systèmes d'information
 Titre : Tout sur les systèmes d'information
 Auteur: JF Pillo
