@@ -2,6 +2,8 @@
 
 * [Introduction](Readme.md)
 
+* [Remerciement](acknowledgement.md)
+
 * [Définitions](parts/definitions.md)
     * [Blockchain](parts/definitions/blockchain.md)
     * [Modalité de sécurisation](parts/definitions/security.md)

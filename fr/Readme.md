@@ -2,6 +2,9 @@
 
 ---
 
+*Sous l'aimable direction de Stéphane Dalbera, Président d'Atopos*.
+
+
 > Ce qu'il y a d'intéressant à propos de la cryptographie, c'est qu'on peut commencer à créer des modèles institutionnels qui ne reposent plus sur la faillibilité de l'autorité humaine mais qui sont strictement basés sur le code, les mathématiques et le cryptage. On peut commencer à construire une réalité institutionnelle où les freins et contrepoids sont protégés par des promesses fermes, des constructions mathématiques fondamentales qui sont simplement impossibles à briser en raison des propriétés inhérentes au fonctionnement des informations .
 >
 > Santiago Siri, Democraty Earth Foundation
@@ -39,6 +42,8 @@ Ce travail est en cours et de nombreuses sections ne sont pas dans leur état d�
 ## Table des matières
 
 ### [Introduction](Readme.md)
+
+### [Remerciement](acknowledgement.md)
 
 ### [Définitions](/parts/definitions.md)
    
