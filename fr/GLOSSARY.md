@@ -118,3 +118,7 @@ Solidity est un langage de programmation orienté contrat pour la rédaction de 
 
 ## turing-complete
 Un système complet de Turing signifie un système dans lequel un programme peut être écrit qui trouvera une réponse et pourrait être utilisé pour résoudre tout problème de calcul. Sans que rien ne mentionne le temps nécessaire à l'exécution de cette tâche.
+
+## Vlad Zamfir, Ethereum Foundation researcher
+Vlad Zamfir est chercheur à la Fondation Ethereum.
+Source : [ethereum wiki](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs)

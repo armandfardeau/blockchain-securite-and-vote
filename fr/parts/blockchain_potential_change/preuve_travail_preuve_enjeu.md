@@ -64,38 +64,52 @@ Les services de mining sont disponibles dans le cloud à travers le cloud-mining
 
 ### Concernant la preuve de l’Enjeu :
 
-[//]: # (TODO: CLEAN)
-
 De l'anglais proof-of-stake. Abrégé PoS.
 
 Selon Usman W. Chohan, Proof-of-Stake Algorithmic Methods: A Comparative Summary
 
-La preuve de l'enjeu est un algorithme différant de la PoW permettant d'obtenir un consensus distribué.
+La preuve de l'enjeu est un algorithme différant de la preuve de travail permettant d'obtenir un consensus distribué.
 
-Dans les crypto-monnaies basées sur les PoS, le créateur du bloc suivant est choisi par diverses combinaisons de sélection aléatoire et de richesse ou d'âge (c'est-à-dire l'enjeu).
+Dans les crypto-monnaies basées sur les preuves d'enjeux, le créateur du bloc suivant est choisi par diverses combinaisons de sélection aléatoire et de richesse ou d'âge dépendant de l'enjeu économique d'un validateur dans le réseau. 
 
-La preuve de l'enjeu (PoS) est une catégorie d'algorithmes de consensus pour les chaînes de blocs publics qui dépendent de l'enjeu économique d'un validateur dans le réseau. En preuve de travail (PoW), l'algorithme récompense les participants qui résolvent des puzzles cryptographiques afin de valider les transactions et de créer de nouveaux blocs (i.e. l'exploitation minière). Dans les chaînes de blocs publics basées sur les PdS (par exemple, l'implémentation prochaine de Casper d'Ethereum), un ensemble de validateurs se relaient pour proposer et voter sur le bloc suivant, et le poids du vote de chaque validateur dépend de la taille de son dépôt (c'est-à-dire de sa mise). Les avantages significatifs du PDS comprennent la sécurité, la réduction des risques de centralisation et l'efficacité énergétique.
+En preuve de travail (PoW), l'algorithme récompense les participants qui résolvent des puzzles cryptographiques afin de valider les transactions et de créer de nouveaux blocs (i.e. l'exploitation minière).
 
-En général, un algorithme de preuve de mise ressemble à ce qui suit. La chaîne de blocs garde la trace d'un ensemble de validateurs, et toute personne qui détient la cryptocurrency de base de la chaîne de blocs (dans le cas d'Ethereum, ether) peut devenir un validateur en envoyant un type spécial de transaction qui enferme son éther dans un dépôt. Le processus de création et d'acceptation de nouveaux blocs se fait alors par le biais d'un algorithme de consensus auquel tous les validateurs actuels peuvent participer.
+Dans les chaînes de blocs publics basées sur les preuves d'enjeux (par exemple, l'implémentation prochaine de Casper d'Ethereum), un ensemble de validateurs se relaient pour proposer et voter sur le bloc suivant, et le poids du vote de chaque validateur dépend de la taille de son dépôt (c'est-à-dire de sa mise). 
 
-Il existe de nombreux types d'algorithmes de consensus et de nombreuses façons d'attribuer des récompenses aux validateurs qui participent à l'algorithme de consensus, de sorte qu'il existe de nombreuses "saveurs" de preuve de l'enjeu. D'un point de vue algorithmique, il existe deux types principaux : la preuve en chaîne de l'enjeu et la preuve de l'enjeu de type BFT.
+Les avantages significatifs de la méthode par la preuve de l'enjeu comprennent la sécurité, la réduction des risques de centralisation et l'efficacité énergétique.
 
-Dans la preuve de mise basée sur la chaîne, l'algorithme choisit un validateur au hasard pendant chaque tranche de temps (par exemple, chaque période de 10 secondes peut être une tranche de temps), et assigne à ce validateur le droit de créer un bloc unique, et ce bloc doit pointer vers un bloc précédent (normalement le bloc à la fin de la chaîne la plus longue précédemment), et ainsi, au fil du temps, la plupart des blocs convergent vers une chaîne unique en croissance constante.
+Il existe deux types d'algorithmes de preuve par l'enjeu : 
 
-Dans la preuve de mise de type BFT, les validateurs se voient attribuer au hasard le droit de proposer des blocs, mais s'accorder sur quel bloc est canonique se fait à travers un processus à plusieurs tours où chaque validateur envoie un "vote" pour un bloc spécifique pendant chaque tour, et à la fin du processus, tous les validateurs (honnêtes et en ligne) s'accordent en permanence sur le fait qu'un bloc donné fait ou non partie de la chaîne. 
+* Preuve en chaîne de l'enjeu : 
 
-Notez que les blocs peuvent encore être enchaînés ensemble ; la principale différence est que le consensus sur un bloc peut se situer à l'intérieur d'un bloc et ne dépend pas de la longueur ou de la taille de la chaîne qui suit.
+    Dans la preuve basée sur la chaîne, l'algorithme choisit un validateur au hasard pendant chaque tranche de temps (Ex: toutes les dix secondes), et assigne à ce validateur le droit de créer un bloc unique, et ce bloc doit pointer vers un bloc précédent (normalement le bloc se situant à la fin de la chaîne la plus longue). Ainsi on observe dans le temps un croissance en une chaîne unique.
+    
+* Preuve de l'enjeu de type BFT : 
+    Dans la preuve de mise de type BFT, l'attribution se fait au hasard et le validateur se voit doté du droit de proposer des blocs. L'accord sur les blocs canoniques se fait à travers un consensus à plusieurs tours où chaque validateur vote pour un bloc spécifique. A la fin de ce processus, un accord est conclu entre tous les validateurs sur l'appartenance d'un bloc à la chaîne ou son rejet.
 
 ### Avantages de la preuve de l'enjeu par rapport à la preuve de travail : 
 
-Quels sont les avantages de la preuve de l'enjeu par rapport à la preuve du travail ?
+La preuve de l'enjeu apporte un avatange indéniable par rapport à la preuve de travail, la quantitée d'électricité nécessaire pour sécuriser une chaîne de blocs est réduite.
 
-Il n'est pas nécessaire de consommer de grandes quantités d'électricité pour sécuriser une chaîne de blocs (par exemple, on estime que Bitcoin et Ethereum brûlent plus d'un million de dollars d'électricité et de matériel informatique par jour dans le cadre de leur mécanisme de consensus)
+Le coût du mécanisme de Bitcoin et d'Ethereum est estimé à plus d'un millions de dollars en électricité et en matériel informatiqsue par jour. Le sujet est donc crucial pour le développement futur de la blockchain.
 
-En raison de la faible consommation d'électricité, il n'est pas nécessaire d'émettre autant de nouvelles pièces afin de motiver les participants à continuer à participer au réseau. Il peut même théoriquement être possible d'avoir une émission nette négative, où une partie des frais de transaction est "brûlée" et où l'offre diminue au fil du temps.
-La preuve de l'enjeu ouvre la porte à un plus large éventail de techniques qui utilisent la conception de mécanismes de la théorie des jeux afin de mieux décourager les cartels centralisés de se former et, s'ils se forment, d'agir d'une manière nuisible au réseau (p. ex. comme l'exploitation minière égoïste dans la preuve du travail).
+Voir [Quid de ses impacts énergétiques](./impact_energetique.md)
 
-Réduction des risques de centralisation, car les économies d'échelle sont beaucoup moins problématiques. 10 millions de pièces vous rapporteront exactement 10 fois plus que 1 million de pièces, sans gains disproportionnés supplémentaires parce qu'au niveau supérieur, vous pouvez vous permettre d'acheter de meilleurs équipements de production de masse, ce qui est un avantage pour la preuve du travail.
+Une plus faible consommation en matière première implique un besoin moindre de motivation, et donc un coût par transaction plus faible et une meilleur participation du réseau.
 
-Capacité d'utiliser des pénalités économiques pour rendre les différentes formes d'attaques de 51% beaucoup plus coûteuses à réaliser que la preuve du travail - pour paraphraser Vlad Zamfir, "c'est comme si votre ferme ASIC brûlait si vous participiez à une attaque de 51%".
+Cela ouvre la porte à une meilleure régulation des dérives qui peuvent toucher la blockchain comme le phénomère du mineur égoïste ou les activités des cartels qui tentent de centraliser la blockchain.
 
+[//]: # (TODO: ADD Mineur égoïste)
+
+L'introduction de la preuve de l'enjeu introduit une réduction des risques de centralisation, car les économies d'échelle sont beaucoup moins incitées et permettent à de petits acteurs de subsister. 
+
+Augmentation du coût d'une attaque par 51% de manière spectaculaire par rapport à la méthode de la preuve de travail : 
+ 
+> "c'est comme si votre ferme ASIC brûlait si vous participiez à une attaque de 51%".
+>
+> Vlad Zamfir, Ethereum Foundation researcher 
+
+### Infographie comparative des deux méthodes : 
+
+
+![Infographie comparative des deux méthodes](../../images/infographie-preuve-travail-enjeu.png)
