@@ -87,6 +87,3 @@ Ainsi, si un messager reçoit l’information "La perquisition aura lieu demain 
 Les autres messagers partageant l'informations avec tous les services de police en présence, il sera possible de déterminer les chaines incohérentes et d'identifier les corrompus simplement en comparant la valeur des hashs.
 
 Ceci implique bien entendu que le nombre de messagers honnêtes soit supérieur au nombre de corrompus.
-
-### Qu'est ce qu'un smart contracts?
-[//]: # (TODO: SMART CONTRACTS)

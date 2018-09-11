@@ -19,6 +19,7 @@
 
 * [De la blockchain comme potentiel cœur de ce changement](parts/blockchain-potential-change.md)
     * [Qu'est ce que la blockchain ?](parts/blockchain_potential_change/blockchain_en_details.md)
+    * [Qu'est ce que les smart-contracts ?](parts/blockchain_potential_change/smart_contract.md)
     * [Preuve de Travail vs Preuve de l’Enjeu](parts/blockchain_potential_change/preuve_travail_preuve_enjeu.md)
     * [Quid de la sécurité de la blockchain ?](parts/blockchain_potential_change/blockchain_securite.md)
     * [Quid de ses impacts énergétiques ?](parts/blockchain_potential_change/impact_energetique.md)

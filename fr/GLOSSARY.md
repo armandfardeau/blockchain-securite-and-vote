@@ -112,3 +112,9 @@ Une preuve de concept (de l'anglais : proof of concept, POC) ou démonstration d
 ## Art. L.225-36-1 C. com.
 
 [Art. L.225-36-1 C. com.](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=D169450FEC128226FE79BFED9386AD79.tpdila08v_1?cidTexte=JORFTEXT000000223114&idArticle=LEGIARTI000006516868&dateTexte=20160602&categorieLien=id#LEGIARTI000006516868)
+
+## Solidity
+[//]: # (TODO: Add entry)
+
+## turing-complete
+[//]: # (TODO: Add entry)
