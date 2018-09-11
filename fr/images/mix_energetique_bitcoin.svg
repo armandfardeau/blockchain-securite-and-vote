@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="440px" height="392px" viewBox="0 0 440 392" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-26.000000, 6.000000)">
+            <text id="Nucléaire-5%" font-family="Montserrat-MediumItalic, Montserrat" font-size="10" font-style="italic" font-weight="500" fill="#000000">
+                <tspan x="58.435" y="325">Nucléaire</tspan>
+                <tspan x="75.96" y="338">5%</tspan>
+            </text>
+            <text id="Fioul-1%" font-family="Montserrat-MediumItalic, Montserrat" font-size="10" font-style="italic" font-weight="500" fill="#000000">
+                <tspan x="125.025" y="365">Fioul</tspan>
+                <tspan x="131.43" y="378">1%</tspan>
+            </text>
+            <text id="Mix-d'énergies-prima" font-family="Montserrat-Medium, Montserrat" font-size="16" font-weight="400" fill="#000000">
+                <tspan x="30.324" y="15">Mix d'énergies primaires à la production énergétique </tspan>
+                <tspan x="136.228" y="34">consommée par le minage</tspan>
+            </text>
+            <path d="M256,214 L124,298.253693 C132.927386,312.176673 144.002565,324.577308 156.758679,335 L256,214 Z" id="Oval" fill="#4A90E2" opacity="0.470870536"></path>
+            <path d="M256,214.544866 C247.288834,187.241103 233.450085,136.726147 214.483753,63 C149.430046,82.1883555 99,143.22965 99,214.544866 C99,245.494912 108.862217,275.677024 124.303481,300 L256,214.544866 Z" id="Oval" fill="#B8E986" opacity="0.470870536"></path>
+            <path d="M256,57 C241.044729,57 225.694757,59.3681334 212,63.3098628 L256,214 L256,57 Z" id="Oval" fill="#F5A623" opacity="0.470870536"></path>
+            <path d="M256.07789,371 C253.705934,371 251.346269,370.947347 249,370.843146 L256.07789,214 L256.07789,57 C342.743578,57 413,127.291294 413,214 C413,300.708706 342.743578,371 256.07789,371 Z" id="Oval" fill="#9013FE" opacity="0.470870536"></path>
+            <path d="M256,214 L156,334.883464 C158.401982,336.843388 161.442351,339.181454 163.960131,341 L256,214 Z" id="Oval" fill="#7ED321" opacity="0.470870536"></path>
+            <path d="M256,214 L164,341.423196 C188.344026,359.004741 217.926516,369.791312 249.962493,370.999964 C251.297918,371.050346 253.31042,318.717025 256,214 Z" id="Oval" fill="#D0021B" opacity="0.470870536"></path>
+            <text id="Autres-renouvelables" font-family="Montserrat-MediumItalic, Montserrat" font-size="10" font-style="italic" font-weight="500" fill="#000000">
+                <tspan x="116.07" y="52">Autres renouvelables</tspan>
+                <tspan x="162.96" y="65">5%</tspan>
+            </text>
+            <text id="Gaz-naturel-9%" font-family="Montserrat-MediumItalic, Montserrat" font-size="10" font-style="italic" font-weight="500" fill="#000000">
+                <tspan x="187.055" y="332">Gaz naturel</tspan>
+                <tspan x="209.695" y="345">9%</tspan>
+            </text>
+            <text id="Charbon-51%" font-family="Montserrat-MediumItalic, Montserrat" font-size="10" font-style="italic" font-weight="500" fill="#000000">
+                <tspan x="309.05" y="217">Charbon</tspan>
+                <tspan x="322.56" y="230">51%</tspan>
+            </text>
+            <text id="Hydroélectricité-29%" font-family="Montserrat-MediumItalic, Montserrat" font-size="10" font-style="italic" font-weight="500" fill="#000000">
+                <tspan x="129.485" y="184">Hydroélectricité</tspan>
+                <tspan x="159.825" y="197">29%</tspan>
+            </text>
+            <path d="M117,321 L133,316" id="Path-2" stroke="#979797"></path>
+            <path d="M143,355 L158,340" id="Path-3" stroke="#979797"></path>
+            <path d="M231,48 L235,55" id="Path-4" stroke="#979797"></path>
+        </g>
+    </g>
+</svg>

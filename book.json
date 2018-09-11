@@ -5,15 +5,10 @@
   "plugins": [
     "pdf-multi-link",
     "language-picker",
-    "disqus",
     "hints",
     "word-count"
   ],
   "pluginsConfig": {
-    "disqus": {
-      "shortName": "blockchain-securite-et-vote",
-      "useIdentifier": true
-    },
     "pdf-multi-link": {
       "base": {
         "en": "https://github.com/armandfardeau/blockchain-securite-and-vote/raw/master/book_en.pdf",
