@@ -126,3 +126,8 @@ Un système complet de Turing signifie un système dans lequel un programme peut
 ## Vlad Zamfir, Ethereum Foundation researcher
 Vlad Zamfir est chercheur à la Fondation Ethereum.
 Source : [ethereum wiki](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs)
+
+## Jean-Paul Delahaye dans L’attaque Goldfinger d’une blockchain
+Titre : L’attaque Goldfinger d’une blockchain
+Auteur : Jean-Paul Delahaye
+Source : [scilogs](http://www.scilogs.fr/complexites/lattaque-goldfinder-dune-blockchain/)
