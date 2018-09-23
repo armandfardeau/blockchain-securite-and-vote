@@ -136,3 +136,8 @@ Source : [scilogs](http://www.scilogs.fr/complexites/lattaque-goldfinder-dune-bl
 Titre : La sécurité du blockchain, protéger le Grand livre distribué
 Auteur : Patricia Egger et Dusko Karaklajic
 Source : [Deloitte](https://www2.deloitte.com/ch/fr/pages/risk/articles/blockchain-security.html)
+
+## Julien Maldonato et Rémi Foult dans La Blockchain, panorama des technologies existantes.
+Titre : La Blockchain, panorama des technologies existantes. 
+Auteur : Julien Maldonato et Rémi Foult
+Source : [Deloitte](https://www2.deloitte.com/content/dam/Deloitte/fr/Documents/services-financiers/blockchain_panorama-des-technos-existantes.pdf)

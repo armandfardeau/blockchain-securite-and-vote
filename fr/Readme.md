@@ -65,6 +65,7 @@ Ce travail est en cours et de nombreuses sections ne sont pas dans leur état d�
 * [Qu'est ce que la blockchain ?](parts/blockchain_potential_change/blockchain_en_details.md)
 * [Qu'est ce que les smart-contracts ?](parts/blockchain_potential_change/smart_contract.md)
 * [Preuve de Travail vs Preuve de l’Enjeu](parts/blockchain_potential_change/preuve_travail_preuve_enjeu.md)
+* [Blockchain privée vs Blockchain publique](parts/blockchain_potential_change/private_vs_public.md)
 * [Quid de la sécurité de la blockchain ?](parts/blockchain_potential_change/blockchain_securite.md)
 * [Quid de ses impacts énergétiques ?](parts/blockchain_potential_change/impact_energetique.md)
 * [Vers une normalisation ?](parts/blockchain_potential_change/blockchain_normalisation.md)
