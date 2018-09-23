@@ -1,9 +1,40 @@
 ## Quid de la sécurité de la blockchain ?
 ---
 
-[//]: # (TODO: BC SECU)
+### Les garanties de la Blockchain en matière de sécurité :
 
-### Attaque des 51% ou attque Goldfinger
+Il n'existe pas de technologies sûre, la sécurité et la sureté sont un idéal, pas un absolu.
+On peut considérer que la Blockchain, répond à ces impétraotfs dans la mesure ou elle assure les points suivants :
+
+ * La disponibilité : Les données étant distribuée et décentralisée , elles sont disponibles tant qu'un noeud est en mesure de transmettre le registre. 
+ 
+ * L'intégrité : le mécanisme de consensus sont conçu pour permettre aux informations d'ètre intégrées et conservées sans que celle ci ne soit altérées. Le pré-requis à cette disposition est qu'un nombre suffisant de noeud soient en connecté au réseau et que les conditions permettant une attaque des 51% ne soient pas atteintes.
+ 
+ [//]: # (TODO: COMPLETE PART BC SECU)
+ 
+ * La confidentialité : 
+ 
+ * La traçabilité : 
+ 
+ * L'authentification: 
+ 
+ * La non-répudiation et l'imputation : 
+
+
+---
+### Les menaces qui pèsent sur la Blockchain en matière de sécurité :
+
+Selon Patricia Egger et Dusko Karaklajic dans La sécurité du blockchain, des menaces pèsent sur l'écosystème naissant en raison de l'immaturité et la complexité de la technologie.
+
+En effet, les nombreux algorithmes de consensus disponibles, les types de Blockchain, et protocoles cryptographiques complexes sous-jacents rendent la technologie difficile à appréhender.
+
+L'absence de normes et de réglementations sur la technologie du Blockchain constitue également un risque, ce qui entraîne des incertitudes juridiques et des zones grises. Ce terreau fertile au piratage et à la manipulation frauduleuse rendent la technologie encore peu crédible pour des usages sérieux. 
+
+Le risque le plus importante demeure la croyance dans la sécurastion absolue autour de la Blockchain. Bien qu'elle repose sur des mecanismes cryptographie fiables et éprouvés. Cette sécurisation ensera jamais complète par nature : les protocoles cryptographiques ont leurs limites et la sécurité globale intègre également les élements périphériques, le risque humain est ainsi toujours présent. En ce dernier point, la Blockchain apporte une nouvelle manière de traiter certaines données mais n'affranchit pas des démarches clissiques en matière de sécurité des sytsèmes d'informations.
+
+En outre la Blockchain est sensible à des attaques particulières, comme l'attaque de type Golfinger.
+
+#### Attaque des 51% ou attaque Goldfinger
 
 Une attaque des 51% cible les blockchains basée sur la preuve de travail et preuve de l'enjeu.  
 
@@ -20,7 +51,7 @@ En effet l'un des principe fondateur de la blockchain est que le calcul est dist
 Mais lorsqu'un groupe de mineur dispose de plus d'au moins 51% des capacités de calcul, il devient possible, en théorie d'outrepasser le mécanisme de consensus et donc d'imposer des blocs fallacieux qui seront ajouté au registre officiel. 
 Ainsi si un groupe devient trop puissant, il est en capacité de définir quels informations sont légitimes au sein d'une blockchain.
 
-#### L'exemple de la 'double dépense'
+##### L'exemple de la 'double dépense'
 
 En imaginant qu'un groupe dispose de plus de 51% de la puissance totale, il peut alors procéder à une manipulation frauduleuse du registre appellée le hack de la double dépense.
  
@@ -43,7 +74,7 @@ Dans ce dernier cas, une puissance de calcul faible, dont pourrait disposer une 
 
 Les blockchains récemment créée sont donc dans une position d'extrème vulnérabilité.
 
-#### Les objectifs d'une attaque des 51%
+##### Les objectifs d'une attaque des 51%
 
 * Fraude des registres et dispartition des transactions :
    
@@ -55,11 +86,11 @@ Les blockchains récemment créée sont donc dans une position d'extrème vulné
 
     Les blockchains de par leur fonctionnement décentralisé posent des problématiques de gouvernance et sont perçues comme une menace par certains états ou institutions, perturber le fonctionnement de ces blockchains permet d'aliener le lien de confiance des utilisateurs envers la blockchain.
 
-#### Résilience des blockchains à l'attaque
+##### Résilience des blockchains à l'attaque
 
 Le système des crypto-monnaies est conçu pour ètre résilient aux attaques des 51%, lorsqu'une telle attaque est constatée. Un patch peut ètre déployé et limite les dégats causés par l'attaque. 
 
-##### Coûts estimés d'une attaque au 51%
+###### Coûts estimés d'une attaque au 51%
 
 Les coûts pour réaliser une attaque des 51% varie en fonction de l'échelle de la blockchain visée.
  

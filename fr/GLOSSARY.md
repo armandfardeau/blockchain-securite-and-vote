@@ -131,3 +131,8 @@ Source : [ethereum wiki](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FA
 Titre : L’attaque Goldfinger d’une blockchain
 Auteur : Jean-Paul Delahaye
 Source : [scilogs](http://www.scilogs.fr/complexites/lattaque-goldfinder-dune-blockchain/)
+
+## Patricia Egger et Dusko Karaklajic dans La sécurité du blockchain :
+Titre : La sécurité du blockchain, protéger le Grand livre distribué
+Auteur : Patricia Egger et Dusko Karaklajic
+Source : [Deloitte](https://www2.deloitte.com/ch/fr/pages/risk/articles/blockchain-security.html)
