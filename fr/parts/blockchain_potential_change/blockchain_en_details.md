@@ -87,3 +87,12 @@ Ainsi, si un messager reçoit l’information "La perquisition aura lieu demain 
 Les autres messagers partageant l'informations avec tous les services de police en présence, il sera possible de déterminer les chaines incohérentes et d'identifier les corrompus simplement en comparant la valeur des hashs.
 
 Ceci implique bien entendu que le nombre de messagers honnêtes soit supérieur au nombre de corrompus.
+
+### Les différentes méthodes de consensus :
+
+| Type de consensus | Description | Avantages | Inconvénients | Type de Blockchain|
+|:-----------------:|-------------|-----------|---------------|-------------------|
+| Preuve de travail (PoW) | Les ordinateurs des mineurs sont mis à disposition pour résoudre un problème mathématique compliqué. Le 1er qui trouve une solution gagne la récompense du prochain bloc de la chaine. | Sécurisé, éprouvé et robuste. | Très consommateur d’électricité et de matériel informatique. | Publique
+| Preuve de l'enjeu (PoS) | Les validateurs de transactions doivent mettre en gage la possession de crypto monnaie pour recevoir une récompense. Si un nœud est malveillant, il peut perdre sa mise en gage au profit des validateurs honnêtes. | Peu consommateur en ressources énergétiques. | Peu testé à grande échelle. | Publique |
+| Système tolérant les défaillances (PBFT) | Consensus dont la liste des validateurs est connue au départ et peut tolérer jusqu’à 1/3 de nœuds compromis (déconnectés ou malveillants). | Consensus de groupe rapide et performant. Pas de fork ou de réorganisation de chaine. | | Privée |
+| Preuve d'autorité |  Consensus dont la liste des validateurs est connue au départ et qui valide à tour de rôle un bloc. Ce type de consensus peut tolérer jusqu’à 49% de nœuds malveillants ou déconnectés. | Consensus de groupe rapide. | | Privée |
