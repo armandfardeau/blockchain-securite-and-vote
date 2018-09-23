@@ -19,7 +19,7 @@ Le rapport entre le vote et la preuve est comme nous l'avons évoqué, duale. Pa
 
 Ce processus doit être réfutable, c'est à dire qu'il doit présenter des éléments tangibles et objectifs permettant sa potentielle disqualification ou non.
 
-Si le processus ne présente des critères de réfutabilité potenitelles, il est jugé corrompu à priori.
+Si le processus ne présente des critères de réfutabilité potentielles, il est jugé corrompu à priori.
 
 **Preuve entourant le vote :** 
 * Authenticité 

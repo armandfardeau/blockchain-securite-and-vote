@@ -239,51 +239,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.4.4" data-path="../tools_and_impact/res_publica.html">
+        <li class="chapter " data-level="1.4.4" data-path="../tools_and_impact/areas_of_concern.html">
             
-                <a href="../tools_and_impact/res_publica.html">
-            
-                    
-                    Pour la res publica
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.4.5" data-path="../tools_and_impact/gouvernance_entreprises.html">
-            
-                <a href="../tools_and_impact/gouvernance_entreprises.html">
+                <a href="../tools_and_impact/areas_of_concern.html">
             
                     
-                    Pour la gouvernance des entreprises
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.4.6" data-path="../tools_and_impact/management_base_consensus.html">
-            
-                <a href="../tools_and_impact/management_base_consensus.html">
-            
-                    
-                    Pour les modes de management basé sur le consensus
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.4.7" data-path="../tools_and_impact/cercle_prive.html">
-            
-                <a href="../tools_and_impact/cercle_prive.html">
-            
-                    
-                    Pour le cercle privé
+                    Les domaines d'enjeux
             
                 </a>
             
@@ -625,6 +586,48 @@ la priv&#xE9;e et la publique. La clef qui est choisie priv&#xE9;e n&apos;est ja
 <p>Ainsi, si un messager re&#xE7;oit l&#x2019;information &quot;La perquisition aura lieu demain &#xE0; 16h00&quot;, et qu&#x2019;il d&#xE9;cide de ne la r&#xE9;percuter qu&#x2019;&#xE0; la moiti&#xE9; des autres et d&#x2019;envoyer un horaire diff&#xE9;rent &#xE0; l&#x2019;autre moiti&#xE9;, il changera la valeur de ce <a href="../../GLOSSARY.html#hash" class="glossary-term" title="On nomme fonction de hachage, de l&apos;anglais hash function, une fonction particuli&#xE8;re qui, &#xE0; partir d&apos;une donn&#xE9;e fournie en entr&#xE9;e, calcule une empreinte servant &#xE0; identifier rapidement, bien qu&apos;incompl&#xE8;tement, la donn&#xE9;e initiale.">hash</a>. </p>
 <p>Les autres messagers partageant l&apos;informations avec tous les services de police en pr&#xE9;sence, il sera possible de d&#xE9;terminer les chaines incoh&#xE9;rentes et d&apos;identifier les corrompus simplement en comparant la valeur des hashs.</p>
 <p>Ceci implique bien entendu que le nombre de messagers honn&#xEA;tes soit sup&#xE9;rieur au nombre de corrompus.</p>
+<h3 id="les-diff&#xE9;rentes-m&#xE9;thodes-de-consensus-">Les diff&#xE9;rentes m&#xE9;thodes de consensus :</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Type de consensus</th>
+<th>Description</th>
+<th>Avantages</th>
+<th>Inconv&#xE9;nients</th>
+<th>Type de Blockchain</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Preuve de travail (PoW)</td>
+<td>Les ordinateurs des mineurs sont mis &#xE0; disposition pour r&#xE9;soudre un probl&#xE8;me math&#xE9;matique compliqu&#xE9;. Le 1er qui trouve une solution gagne la r&#xE9;compense du prochain bloc de la chaine.</td>
+<td>S&#xE9;curis&#xE9;, &#xE9;prouv&#xE9; et robuste.</td>
+<td>Tr&#xE8;s consommateur d&#x2019;&#xE9;lectricit&#xE9; et de mat&#xE9;riel informatique.</td>
+<td>Publique</td>
+</tr>
+<tr>
+<td style="text-align:center">Preuve de l&apos;enjeu (PoS)</td>
+<td>Les validateurs de transactions doivent mettre en gage la possession de crypto monnaie pour recevoir une r&#xE9;compense. Si un n&#x153;ud est malveillant, il peut perdre sa mise en gage au profit des validateurs honn&#xEA;tes.</td>
+<td>Peu consommateur en ressources &#xE9;nerg&#xE9;tiques.</td>
+<td>Peu test&#xE9; &#xE0; grande &#xE9;chelle.</td>
+<td>Publique</td>
+</tr>
+<tr>
+<td style="text-align:center">Syst&#xE8;me tol&#xE9;rant les d&#xE9;faillances (PBFT)</td>
+<td>Consensus dont la liste des validateurs est connue au d&#xE9;part et peut tol&#xE9;rer jusqu&#x2019;&#xE0; 1/3 de n&#x153;uds compromis (d&#xE9;connect&#xE9;s ou malveillants).</td>
+<td>Consensus de groupe rapide et performant. Pas de fork ou de r&#xE9;organisation de chaine.</td>
+<td></td>
+<td>Priv&#xE9;e</td>
+</tr>
+<tr>
+<td style="text-align:center">Preuve d&apos;autorit&#xE9;</td>
+<td>Consensus dont la liste des validateurs est connue au d&#xE9;part et qui valide &#xE0; tour de r&#xF4;le un bloc. Ce type de consensus peut tol&#xE9;rer jusqu&#x2019;&#xE0; 49% de n&#x153;uds malveillants ou d&#xE9;connect&#xE9;s.</td>
+<td>Consensus de groupe rapide.</td>
+<td></td>
+<td>Priv&#xE9;e</td>
+</tr>
+</tbody>
+</table>
 
                                 
                                 </section>
@@ -668,7 +671,7 @@ la priv&#xE9;e et la publique. La clef qui est choisie priv&#xE9;e n&apos;est ja
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Qu'est ce que la blockchain ?","level":"1.5.1","depth":2,"next":{"title":"Qu'est ce que les smart-contracts ?","level":"1.5.2","depth":2,"path":"parts/blockchain_potential_change/smart_contract.md","ref":"parts/blockchain_potential_change/smart_contract.md","articles":[]},"previous":{"title":"De la blockchain comme potentiel cœur de ce changement","level":"1.5","depth":1,"path":"parts/blockchain-potential-change.md","ref":"parts/blockchain-potential-change.md","articles":[{"title":"Qu'est ce que la blockchain ?","level":"1.5.1","depth":2,"path":"parts/blockchain_potential_change/blockchain_en_details.md","ref":"parts/blockchain_potential_change/blockchain_en_details.md","articles":[]},{"title":"Qu'est ce que les smart-contracts ?","level":"1.5.2","depth":2,"path":"parts/blockchain_potential_change/smart_contract.md","ref":"parts/blockchain_potential_change/smart_contract.md","articles":[]},{"title":"Preuve de Travail vs Preuve de l’Enjeu","level":"1.5.3","depth":2,"path":"parts/blockchain_potential_change/preuve_travail_preuve_enjeu.md","ref":"parts/blockchain_potential_change/preuve_travail_preuve_enjeu.md","articles":[]},{"title":"Blockchain privée vs Blockchain publique","level":"1.5.4","depth":2,"path":"parts/blockchain_potential_change/private_vs_public.md","ref":"parts/blockchain_potential_change/private_vs_public.md","articles":[]},{"title":"Quid de la sécurité de la blockchain ?","level":"1.5.5","depth":2,"path":"parts/blockchain_potential_change/blockchain_securite.md","ref":"parts/blockchain_potential_change/blockchain_securite.md","articles":[]},{"title":"Quid de ses impacts énergétiques ?","level":"1.5.6","depth":2,"path":"parts/blockchain_potential_change/impact_energetique.md","ref":"parts/blockchain_potential_change/impact_energetique.md","articles":[]},{"title":"Vers une normalisation ?","level":"1.5.7","depth":2,"path":"parts/blockchain_potential_change/blockchain_normalisation.md","ref":"parts/blockchain_potential_change/blockchain_normalisation.md","articles":[]},{"title":"Les limites de la blockchain","level":"1.5.8","depth":2,"path":"parts/blockchain_potential_change/blockchain_limite.md","ref":"parts/blockchain_potential_change/blockchain_limite.md","articles":[]}]},"dir":"ltr"},"config":{"plugins":["pdf-multi-link","language-picker","hints","word-count"],"styles":{"website":"styles/website.css"},"pluginsConfig":{"language-picker":{"grid-columns":3},"search":{},"pdf-multi-link":{"label":{"en":"Download PDF","fr":"Télécharger le PDF"},"base":{"en":"https://github.com/armandfardeau/blockchain-securite-and-vote/raw/master/book_en.pdf","fr":"https://github.com/armandfardeau/blockchain-securite-and-vote/raw/master/book_fr.pdf"},"multilingual":true,"file":true},"word-count":{},"hints":{"danger":"fa fa-exclamation-circle","info":"fa fa-info-circle","tip":"fa fa-mortar-board","working":"fa fa-wrench"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"fr","gitbook":"*"},"file":{"path":"parts/blockchain_potential_change/blockchain_en_details.md","mtime":"2018-09-04T09:00:37.262Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-09-23T14:49:52.953Z"},"basePath":"../..","book":{"language":"fr"}});
+            gitbook.page.hasChanged({"page":{"title":"Qu'est ce que la blockchain ?","level":"1.5.1","depth":2,"next":{"title":"Qu'est ce que les smart-contracts ?","level":"1.5.2","depth":2,"path":"parts/blockchain_potential_change/smart_contract.md","ref":"parts/blockchain_potential_change/smart_contract.md","articles":[]},"previous":{"title":"De la blockchain comme potentiel cœur de ce changement","level":"1.5","depth":1,"path":"parts/blockchain-potential-change.md","ref":"parts/blockchain-potential-change.md","articles":[{"title":"Qu'est ce que la blockchain ?","level":"1.5.1","depth":2,"path":"parts/blockchain_potential_change/blockchain_en_details.md","ref":"parts/blockchain_potential_change/blockchain_en_details.md","articles":[]},{"title":"Qu'est ce que les smart-contracts ?","level":"1.5.2","depth":2,"path":"parts/blockchain_potential_change/smart_contract.md","ref":"parts/blockchain_potential_change/smart_contract.md","articles":[]},{"title":"Preuve de Travail vs Preuve de l’Enjeu","level":"1.5.3","depth":2,"path":"parts/blockchain_potential_change/preuve_travail_preuve_enjeu.md","ref":"parts/blockchain_potential_change/preuve_travail_preuve_enjeu.md","articles":[]},{"title":"Blockchain privée vs Blockchain publique","level":"1.5.4","depth":2,"path":"parts/blockchain_potential_change/private_vs_public.md","ref":"parts/blockchain_potential_change/private_vs_public.md","articles":[]},{"title":"Quid de la sécurité de la blockchain ?","level":"1.5.5","depth":2,"path":"parts/blockchain_potential_change/blockchain_securite.md","ref":"parts/blockchain_potential_change/blockchain_securite.md","articles":[]},{"title":"Quid de ses impacts énergétiques ?","level":"1.5.6","depth":2,"path":"parts/blockchain_potential_change/impact_energetique.md","ref":"parts/blockchain_potential_change/impact_energetique.md","articles":[]},{"title":"Vers une normalisation ?","level":"1.5.7","depth":2,"path":"parts/blockchain_potential_change/blockchain_normalisation.md","ref":"parts/blockchain_potential_change/blockchain_normalisation.md","articles":[]},{"title":"Les limites de la blockchain","level":"1.5.8","depth":2,"path":"parts/blockchain_potential_change/blockchain_limite.md","ref":"parts/blockchain_potential_change/blockchain_limite.md","articles":[]}]},"dir":"ltr"},"config":{"plugins":["pdf-multi-link","language-picker","hints","word-count"],"styles":{"website":"styles/website.css"},"pluginsConfig":{"language-picker":{"grid-columns":3},"search":{},"pdf-multi-link":{"label":{"en":"Download PDF","fr":"Télécharger le PDF"},"base":{"en":"https://github.com/armandfardeau/blockchain-securite-and-vote/raw/master/book_en.pdf","fr":"https://github.com/armandfardeau/blockchain-securite-and-vote/raw/master/book_fr.pdf"},"multilingual":true,"file":true},"word-count":{},"hints":{"danger":"fa fa-exclamation-circle","info":"fa fa-info-circle","tip":"fa fa-mortar-board","working":"fa fa-wrench"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"fr","gitbook":"*"},"file":{"path":"parts/blockchain_potential_change/blockchain_en_details.md","mtime":"2018-09-23T15:07:51.981Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-09-23T17:16:40.745Z"},"basePath":"../..","book":{"language":"fr"}});
         });
     </script>
 </div>

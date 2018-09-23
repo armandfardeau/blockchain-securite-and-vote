@@ -141,3 +141,11 @@ Source : [Deloitte](https://www2.deloitte.com/ch/fr/pages/risk/articles/blockcha
 Titre : La Blockchain, panorama des technologies existantes. 
 Auteur : Julien Maldonato et Rémi Foult
 Source : [Deloitte](https://www2.deloitte.com/content/dam/Deloitte/fr/Documents/services-financiers/blockchain_panorama-des-technos-existantes.pdf)
+
+## Rapport d'étude d'impact du projet de loi relatif à la croissance et la transformation des entreprises
+Titre : ÉTUDE D’IMPACT PROJET DE LOI relatif à la croissance et la transformation des entreprises
+source : [Assemblée Nationale](http://www.assemblee-nationale.fr/15/pdf/projets/pl1088-ei.pdf)
+
+## Projet de loi PACTE article 62, alinéa II
+Titre : PROJET DE LOI relatif à la croissance et la transformation des entreprises,
+source : [Assemblée Nationale](http://www.assemblee-nationale.fr/15/projets/pl1088.asp)

@@ -56,11 +56,8 @@ Ce travail est en cours et de nombreuses sections ne sont pas dans leur état d�
 * [Les origines de la crise de confiance](parts/tools_and_impact/crise_confiance.md) 
 * [Une aspiration à la transparence](parts/tools_and_impact/aspiration_transparence.md) 
 * [Du statut de la preuve au vote](parts/tools_and_impact/preuve_vote.md) 
-* [Pour la res publica](parts/tools_and_impact/res_publica.md)
-* [Pour la gouvernance des entreprises](parts/tools_and_impact/gouvernance_entreprises.md)
-* [Pour les modes de management basé sur le consensus](parts/tools_and_impact/management_base_consensus.md)
-* [Pour le cercle privé](parts/tools_and_impact/cercle_prive.md)
-
+* [Les domaines d'enjeux](parts/tools_and_impact/areas_of_concern.md)
+ 
 ### [De la blockchain comme potentiel cœur de ce changement](parts/blockchain-potential-change.md)
 * [Qu'est ce que la blockchain ?](parts/blockchain_potential_change/blockchain_en_details.md)
 * [Qu'est ce que les smart-contracts ?](parts/blockchain_potential_change/smart_contract.md)
