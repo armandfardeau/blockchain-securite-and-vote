@@ -46,9 +46,9 @@ Ces débats peuvent être très techniques et parfois passionnants, mais ils son
 ### Dans quel cas se doter d'une Blockchain ?
 Un organigramme d'aide à la décisison sur la mise en place d'une Blockchain est proposé par Julien Maldonato et Rémi Foult dans La Blockchain, panorama des technologies existantes. 
 
-![Avez-vous
-  besoin d’une
-  Blockchain ? ](../../images/flowchart_oad_blockchain.png)
+![Avez-vous besoin d’une Blockchain ? ](../../images/flowchart_oad_blockchain.png)
 
  
-
+> Avez-vous besoin d’une Blockchain ?
+>
+> Julien Maldonato et Rémi Foult, La Blockchain, panorama des technologies existantes
