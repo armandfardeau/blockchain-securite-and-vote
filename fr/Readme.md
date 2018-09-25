@@ -19,7 +19,7 @@ Le temps de la croyance aveugle dans les bienfait de la révolutions internet et
 Cette crise de confiance n'est pas propre au secteur numérique, elle se diffuse dans toutes
 les strates de nos sociétés. Elle se manifeste dans le champ politique, dans le champ médiatique si bien que la l'ère dans laquelle nous vivons porte désormais le nom d'ère post-vérité ( post-factual era ).
 
-Cette crise de confiance a déjà de nombreuses conséquences dans le champ politique mais également dans le champ économque où la confiance est la clé de voute de l'investissement et de l'adhésion à une marque ou à un produit
+Cette crise de confiance a déjà de nombreuses conséquences dans le champ politique mais également dans le champ économique où la confiance est la clé de voute de l'investissement et de l'adhésion à une marque ou à un produit
 
 L’opinion publique, les législateurs et les acteurs de l’industrie commencent à prendre la pleine mesure des chantiers qui s’annoncent pour sortir d’une période que l’on considèrera bientôt, peut-être, comme celle du Far West  
 
