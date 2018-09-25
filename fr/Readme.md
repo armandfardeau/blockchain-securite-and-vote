@@ -2,7 +2,7 @@
 
 ---
 
-*Sous l'aimable direction de Stéphane Dalbera, Président d'Atopos*.
+*Sous l'aimable direction de Stéphane Dalbera, Atopos*.
 
 
 > Ce qu'il y a d'intéressant à propos de la cryptographie, c'est qu'on peut commencer à créer des modèles institutionnels qui ne reposent plus sur la faillibilité de l'autorité humaine mais qui sont strictement basés sur le code, les mathématiques et le cryptage. On peut commencer à construire une réalité institutionnelle où les freins et contrepoids sont protégés par des promesses fermes, des constructions mathématiques fondamentales qui sont simplement impossibles à briser en raison des propriétés inhérentes au fonctionnement des informations .
