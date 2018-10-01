@@ -43,6 +43,8 @@ Ce travail est en cours et de nombreuses sections ne sont pas dans leur état d�
 
 ### [Introduction](Readme.md)
 
+### [Résumé](executive_summary.md)
+
 ### [Remerciement](acknowledgement.md)
 
 ### [Définitions](/parts/definitions.md)

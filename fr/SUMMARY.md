@@ -2,6 +2,8 @@
 
 * [Introduction](Readme.md)
 
+* [Résumé](executive_summary.md)
+
 * [Remerciement](acknowledgement.md)
 
 * [Définitions](parts/definitions.md)
