@@ -7,6 +7,12 @@ Le vote dans la sphère publique invite à s'interroger sur la représentativit�
 
 De nombreuses implémentations du vote sont connexe au sein des institutions publiques, des associations, des entreprises dont la gestion se veut collaborative, par conséquent, les réponses apportées à ces besoins peuvent ètre proches, voir similaire.
 
+Par exemple la participation aux éléections nationales en France voit sa participation chuter d'année en année : 
+
+![](../../images/abstention-france.png)
+>
+> L'abstention en France depuis 2002, source INSEE
+
 La blockchain, parce qu'elle supprime en partie le besoin de confiance, pourrait rassurer le grand public dans son acte de participation et pourrait constituer un moteur de ré-engagement de ce dernier.
 
 ### Les différentes formes de vote dans la sphère publique : 

@@ -28,7 +28,7 @@ Afin de lever tous doutes sur la légitimité du scrutin, lorsqu'un enjeu existe
 
 * Attractivité :
 Certaines organisations commerciales promeuvent des votes dans le but inavoué de susciter la 
-participation à une action qui sans le dire est un acte d'achat. C'est notamment le cas des votes visant à l'achat par « numéros de services à valeur ajoutée » également connues sou l’appellation de communication téléphonique surtaxée.
+participation à une action qui sans le dire est un acte d'achat. C'est notamment le cas des votes visant à l'achat par « numéros de services à valeur ajoutée » également connues sous l’appellation de communication téléphonique surtaxée.
 
 * Non participation :
 Pour éviter qu'une décision ne soit prise par défaut ou pour pallier certains aléas, il est de coutume de permettre la non participation, par exemple au travers de l'abstention, ou du vote nul ou blanc.
@@ -48,11 +48,12 @@ Dans un vote où l'on attend un résultat positif, il est d'usage de demander d'
 * Vote à main levée : 
 Le vote à main levée consiste à lever sa main pour donner son avis entre plusieurs propositions. Il permet une prise de décision rapide, car le dépouillement est quasi immédiat. Mais cela oblige à ce que tous les votants soient présents en même temps.La procédure peut commencer par le vote par acclamation, où on estime le volume sonore de chaque option comme à l'assemblée spartiate ou lors de la conclusion de primaires présidentielles aux États-Unis.
 
+![Vote à main levée](../../images/vote-main-levée.jpg)
+>
+> Vote à main levée, source Assemblée Nationale Française
+
 * Vote public :
-Le vote public, aussi appelé vote à l'appel nominal, consiste à appeler tour à tour 
-chacun des membres d'une assemblée à exprimer son vote publiquement. Celui-ci est alors 
-consigné dans le registre des délibérations et il est ensuite possible de publier 
-le vote de chacun des participants au scrutin.
+Le vote public, aussi appelé vote à l'appel nominal, consiste à appeler tour à tour chacun des membres d'une assemblée à exprimer son vote publiquement. Celui-ci est alors consigné dans le registre des délibérations et il est ensuite possible de publier le vote de chacun des participants au scrutin.
 
 * Vote par correspondance :
 il consiste à envoyer à l’avance son bulletin de vote par voie postale ; un numéro d’identification permet de garantir qu’une personne ne vote qu’une fois, tout en maintenant le secret du vote.
@@ -65,6 +66,10 @@ Le vote de remplacement permet à ceux qui votent pour des candidats ou des list
 * Vote électronique :
 Le vote électronique est un système de vote automatisé, notamment des 
 scrutins, à l'aide de systèmes informatiques. Ce terme générique relève en vérité de plusieurs situations concrètes. Par exemple, il peut correspondre à l'informatisation du processus de vote permettant de voter à distance, c’est-à-dire de voter de chez soi, ou de n'importe où dans le monde et ainsi éviter de se déplacer dans des bureaux de vote.
+
+    ![Une machine à voter électronique Française](../../images/vote-electronique-france.jpg)
+    >
+    > Une machine à voter électronique Française, source Mairie de Saint-Pol-sur-Mer.
 
 * Vote par clé : 
 Il consiste à voter à l'aide d'une clef physique sur un pupitre dédié.
