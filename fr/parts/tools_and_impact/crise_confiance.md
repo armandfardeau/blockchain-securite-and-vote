@@ -32,6 +32,14 @@ Internet a amplifié cette réaction en maintenant ce public dans des sphères d
 
 Aujourd'hui il apparait comme un défi pour les entitées s'adressant à ces citoyens d'appréhender ces cercles idéologiques et leur influence sur le message qu'elles véhiculent.
 
+![Confiance dans les médias](../../images/confiance-media.png)
+>
+> Source Etude Cevipof SciencesPo
+
+Comme nous pouvons le voir sur l'inforgraphie ci-dessus, les grandes entreprises privées, les banques, les syndicats, les medias et les partis politiques sont parmi les moins digne de confiance pour le grand public. 
+
+Nous traiterons dans ce mémoire essentiellement de ces derniers.
+
 Il serait vain de tenter de lister toutes les manifestations de cette crise de confiance ni même ses origines qui sont sujettes à controverses. Nénamoins, il convient de constater que celle-ci existe indubitablement et que son existence impose de repenser profondément le rapport au monde que les entreprises, les états en intégrant ses nouveaux impératifs de transparence.
 
 
