@@ -22,8 +22,8 @@ Ce processus doit être réfutable, c'est à dire qu'il doit présenter des él�
 Si le processus ne présente des critères de réfutabilité potentielles, il est jugé corrompu à priori.
 
 **Preuve entourant le vote :** 
-* Authenticité 
+* Authenticité
 * Intégrité
 * Confidentialité
 
-[//]: # (TODO: PREUVE)
+La confidentialité est une question épineuse dans le cadre du vote car elle est requise dans le cas du vote à bulletin secret. Mais c'est une manifestation du vote qui sera manifeste le plus rarement, bien que les situations dans lesquelles ce type de vote est requis pourrait ètre la plus critique.
