@@ -22,7 +22,3 @@ Le mix énergétique de la production du Bitcoin révèle une utilisation massiv
 ![mix_energetique_bitcoin](../../images/mix_energetique_bitcoin.svg)
 
 > Source : Energie Sia Partners
-
-[//]: # (TODO: COMPLETE PART BC IMPACT ENERG)
-
-[//]: # (TODO: RETRANSCRIRE ThinkerView)
