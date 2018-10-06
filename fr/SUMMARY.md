@@ -4,7 +4,7 @@
 
 * [Résumé](executive_summary.md)
 
-* [remerciements](acknowledgement.md)
+* [Remerciements](acknowledgement.md)
 
 * [Définitions](parts/definitions.md)
     * [Blockchain](parts/definitions/blockchain.md)
