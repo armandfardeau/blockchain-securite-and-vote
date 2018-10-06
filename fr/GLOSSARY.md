@@ -152,3 +152,7 @@ source : [Assemblée Nationale](http://www.assemblee-nationale.fr/15/projets/pl1
 
 ## crowdfunding
 Le financement participatif désigne l'ensemble des outils et méthodes de transactions financières qui font appel à un grand nombre de personnes afin de financer un projet.
+
+## Mounir Mahjoubi, secrétaire d’Etat au numérique lors d’un débat organisée le 20 juillet à l’Université Paris Dauphine sur la justice numérique et les legaltechs
+Titre: Expérimentation de la blockchain dans les collectivités : quelles possibilités ?
+[la Gazette des communes](http://www.lagazettedescommunes.com/532710/experimentation-de-la-blockchain-dans-les-collectivites-quelles-possibilites/)
