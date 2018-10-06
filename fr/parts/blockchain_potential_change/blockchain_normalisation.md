@@ -77,3 +77,5 @@ Les mineurs FPGA offrent des performances légèrement moindre que les mineurs A
 Malgré ces désavantages, des cartes FPGA aux capacités de calcul titanesque sont en train de se développer pour répondre aux besoins du machine-learning et du deep-learning. 
 
 Ces cartes permettent d'envisager une continuité d'utilisation future malgré les forks et les évolutions de l'algorithme, ce qui permet de limiter les coûts et de limiter l'impact écologique dû à l'obsolescence du matériel.
+
+[//]: # (TODO: Add part opportunité de cabler les fonctions)
