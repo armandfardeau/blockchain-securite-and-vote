@@ -36,6 +36,4 @@
     
  * [Conclusion](conclusion.md)
  
- * [Glossaire](GLOSSARY.md)
- 
- * [Annexes](annexes.md)
+ * [Sources et glossaire](GLOSSARY.md)

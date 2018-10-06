@@ -74,8 +74,6 @@ Des services sécurisés et décentralisés de vote offre un large champ potenti
  
 ### [Conclusion](conclusion.md)
 
-### [Glossaire](GLOSSARY.md)
- 
-### [Annexes](annexes.md)
+### [Sources et glossaire](GLOSSARY.md)
 
 
