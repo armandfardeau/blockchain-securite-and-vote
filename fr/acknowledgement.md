@@ -1,4 +1,4 @@
-# Remerciement
+# Remerciements
 ---
 
 La réalisation de ce mémoire a été possible grâce au concours de plusieurs personnes à qui je voudrais témoigner toute ma reconnaissance.
