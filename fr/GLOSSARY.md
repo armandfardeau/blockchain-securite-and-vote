@@ -156,3 +156,6 @@ Le financement participatif désigne l'ensemble des outils et méthodes de trans
 ## Mounir Mahjoubi, secrétaire d’Etat au numérique lors d’un débat organisée le 20 juillet à l’Université Paris Dauphine sur la justice numérique et les legaltechs
 Titre: Expérimentation de la blockchain dans les collectivités : quelles possibilités ?
 [la Gazette des communes](http://www.lagazettedescommunes.com/532710/experimentation-de-la-blockchain-dans-les-collectivites-quelles-possibilites/)
+
+## preuve à divulgation nulle de connaissance
+Un protocole de connaissance zéro est une méthode par laquelle une partie (le prouveur) peut prouver à une autre partie (le vérificateur) que quelque chose est vrai, sans révéler aucune information en dehors du fait que cette déclaration spécifique est vraie.

@@ -10,15 +10,15 @@ On peut considérer que la Blockchain, répond à ces impétraotfs dans la mesur
  
  * L'intégrité : le mécanisme de consensus sont conçu pour permettre aux informations d'ètre intégrées et conservées sans que celle ci ne soit altérées. Le pré-requis à cette disposition est qu'un nombre suffisant de noeud soient en connecté au réseau et que les conditions permettant une attaque des 51% ne soient pas atteintes.
  
- [//]: # (TODO: COMPLETE PART BC SECU)
+ * La confidentialité : La confidentialité est un point complexe concernant la blockchain puisque les données sont disponibles publiquement pour garantir la transparence.
  
- * La confidentialité : 
+  Néanmoins cette confidentialité peut ètre rendue possible par l'implémentation d'un système de preuve à divulgation nulle de connaissance. Les protocoles sans connaissances permettent le transfert de ressources à travers un réseau distribué, peer-to-peer blockchain, en toute confidentialité. Dans les transactions régulières en chaîne de blocs, lorsqu'un actif est envoyé d'une partie à l'autre, les détails de cette transaction sont visibles pour toutes les autres parties du réseau. En revanche, dans une transaction sans connaissance, les autres ne savent qu'une transaction valable a eu lieu, mais rien sur l'émetteur, le destinataire, la catégorie d'immobilisations et la quantité.
  
- * La traçabilité : 
+ * La traçabilité : Parce qu'elle est basée sur un empilement de blocs cryptographique, la Blockchain permet d'enregistrer l'intégralité des transactions et de remonter au bloc zéro, assurant la meilleure des traçabilité.
  
- * L'authentification: 
+ * L'authentification: Pour s'assurer de la bonne identité d'une transaction, l'émetteur signe celle-ci à l'aide de sa clé privée qui tant qu'elle n'est pas connue assure la véracité de la transaction. 
  
- * La non-répudiation et l'imputation : 
+ * La non-répudiation et l'imputation : par le biais de la validation basée sur le consensus, la Blockchain permet la non-répudiation des données nativement, quant à l'imputation, chaque mineur certifiant une transction est authentifié sur le réseau, il est donc possible d'identifier un mineur fautif et de le disqualifier.
 
 
 ---
