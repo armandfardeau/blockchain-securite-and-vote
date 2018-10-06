@@ -19,6 +19,6 @@ En Islande, Genesis Mining indiquait en 2015 dans Business Insider, qu'elle cons
 
 Le mix énergétique de la production du Bitcoin révèle une utilisation massive des énérgies fossiles. Mais également d'Hydroélectrique, renouvelable.
 
-![mix_energetique_bitcoin](../../images/mix_energetique_bitcoin.svg)
+![mix_energetique_bitcoin](../../images/mix_energetique_bitcoin.png)
 
 > Source : Energie Sia Partners

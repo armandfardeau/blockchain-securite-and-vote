@@ -73,8 +73,8 @@ Le recours a la Blockchain dans ces méthodes de prises de décisions par le vot
 
 | Acteur | Conseil d'administation | Management Participatif |  Consultation publique | Election des administrateurs et représentants | 
 |:------:|:------------------------:|:-----------------------:|:----------------------:|:--------------------------------------------:|
-| Institution | ![Oui](../../images/icons/yes.svg) | ![Oui](../../images/icons/yes.svg) | ![Oui](../../images/icons/yes.svg) | ![Oui](../../images/icons/yes.svg) |
-| Association | ![Oui](../../images/icons/yes.svg) | ![Oui](../../images/icons/yes.svg) | ![Oui](../../images/icons/yes.svg) | ![Oui](../../images/icons/yes.svg) | 
-| Entreprise | ![Oui](../../images/icons/yes.svg) | ![Oui](../../images/icons/yes.svg) | ![Oui](../../images/icons/yes.svg) | ![Oui](../../images/icons/yes.svg) | 
-| Etablissements public | ![Oui](../../images/icons/yes.svg) | ![Oui](../../images/icons/yes.svg) | ![Oui](../../images/icons/yes.svg) | ![Oui](../../images/icons/yes.svg) | 
-| Grand public | ![Non](../../images/icons/no.svg) | ![Non](../../images/icons/no.svg) | ![Oui](../../images/icons/yes.svg) | ![Oui](../../images/icons/yes.svg) | 
+| Institution | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) |
+| Association | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | 
+| Entreprise | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | 
+| Etablissements public | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | 
+| Grand public | ![Non](../../images/icons/no.png) | ![Non](../../images/icons/no.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | 

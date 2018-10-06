@@ -40,7 +40,7 @@ Les trois actions possibles à l'intérieur de TheDAO était premièrement l'év
 
 Ce projet se situait à la frontière du crowdfunding, de la fondation et du fond d'investissement.
 
-![TheDAO schéma](../../images/DAO_schema.svg)
+![TheDAO schéma](../../images/DAO_schema.png)
 
 > Un schéma d'illustration d'une DAO
 
