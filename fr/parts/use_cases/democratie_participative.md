@@ -71,4 +71,28 @@ Toutefois il s'agit de remettre cette expérience en perspective, car une élect
 
 
 * ### Le projet DEMOCRATY EARTH
-[//]: # (TODO: DEMOCRATY EARTH PART)
+Democracy Earth Foundation (DEF) est une fondation américaine à but non lucratif qui construit une plateforme de gouvernance orienté "démocratie liquide" basée sur une Blockchain open source. 
+
+La démocratie liquide, aussi appelée démocratie délégative, est une forme de gouvernement démocratique où le pouvoir de vote est confié à un délégué plutôt qu'à un représentant.
+
+La DEF a publié la version 1.0 Alpha de la plate-forme de gouvernance, Sovereign, en mai 2017 et son livre blanc, The Social Smart Contract, en septembre 2017. La fondation a piloté lors du référendum pour la paix en Colombie, un vote symbolique parmi la diaspora d'environ 6 millions de Colombiens expatriés. Le projet pilote a permis aux gens de voter séparément sur différentes parties du référendum et de déléguer leur vote à des représentants, les résultats du vote symbolique révélant des nuances importantes dans les préférences des électeurs qui n'ont pas été prises en compte lors du référendum. Le projet pilote montre activement comment la démocratie participative réduit la polarisation, l'impuissance et l'apathie des électeurs.
+
+#### l'implémentation du vote dans le project DEF
+Le jeton de vote vise à être une norme pour la démocratie numérique capable d'interagir avec d'autres jetons, en établissant un langage commun pour la gouvernance des organisations basées sur la chaîne de blocs. Dans le contexte des démocraties liquides, une gamme d'opérations de vote est permise :
+
+* Vote direct : un utilisateur le droit d'utiliser ses jetons pour voter directement sur des questions comme dans une démocratie directe.
+
+* Délégation de base : un utilisateur peut déléguer des votes à un représentant. Tant que ce dernier a accès à ces jetons, il peut les utiliser pour voter au nom du premier.
+
+* Délégation limitée sur des sujets: Un utilisateir peut déléguer des votes à un autre à la condition spécifiée qu'il ne peut utiliser ces jetons que sur des questions portant une étiquette spécifique. Si la délégation précise que les votes délégués ne peuvent être utilisés que pour les décisions du sujet "environnement", alors le représentant ne pourra pas les utiliser ailleurs. Ce potentiel de représentation peut ètre utlisé pour déléguer un vote à un expert de tel ou tel sujet.
+
+* Délégation transitoire : Si un utlisateur a reçu des votes d'un autre, il peut alors les déléguer à un troisième. Cela génère une chaîne de délégations qui aide à responsabiliser des acteurs spécifiques au sein d'une communauté. Ce caractère est désactivable par le premier utilisateur si il le souhaite.
+
+* Vote prépondérant : Un utilisateur peut supprimer le résultat du vote de son représentant si il a changé d'avis, ainsi il peut exercer un contrôle à posteriori de son opinion déléguée.
+
+* Vote public : Souvent appelée la règle d'or des démocraties liquides, toute personne qui délègue a le droit de savoir comment son délégué a voté sur une question donnée avec son vote. De la même manière que les votes des membres du Congrès sont publics, sur les démocraties liquides, les délégués en compétition sur un sujet donné sont incités à se bâtir une réputation publique en se basant sur leurs résultats de vote afin d'attirer plus de délégations.
+
+* Vote secret : Une méthode capable de garantir des transactions de vote non traçables à l'électeur. C'est indispensable dans le contexte d'élections publiques organisées au sein de larges populations qui présentent un risque élevé de coercition. Même si le secret parfait sur la transaction de vote est atteint, les utilisateurs peuvent toujours être identifiés grâce aux empreintes digitales avec les méta-données exposées. Pour cette raison, la recherche sur l'intégration avec des Blockchain conçues pour les transactions anonymes ayant fait leurs preuves est encouragée. Il peut s'agir de frais miniers pour régler l'opération de vote, qui peuvent être soit subventionnés par l'organisme d'exécution, soit payés directement par les électeurs. La DEF poursuit d'ailleurs ses recherches sur l'intégration des votes secrets avec les blockchains suivantes:
+    * Ethereum : utilise des contrats précompilés pour l'addition et la multiplication scalaire sur la courbe elliptique alt_bn128, pour les contrôles d'appariement, qui permettent les zk-SNARKs.
+    * ZCash : implémente des transactions sécurisées en utilisant des preuves à divulgation nulle de connaissance
+    * Monero : utilise des signatures en anneau avec des adresses furtives.

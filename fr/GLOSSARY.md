@@ -164,3 +164,10 @@ Un protocole de connaissance zéro est une méthode par laquelle une partie (le 
 Titre : Les risques des blockchains. 
 Auteur : Laurent Dehouck, Maître de conférences en sciences de gestion, ENS Rennes et Audrey Thomas, ENSAM
 Source : [reseau-canope](https://cdn.reseau-canope.fr/archivage/valid/feuilletage-les-risques-des-blockchains-N-11271-16257.pdf)
+
+## The Social Smart Contract
+Titre: The Social Smart Contract
+Source: [Whitepaper](https://github.com/DemocracyEarth/paper#Paper)
+
+## démocratie liquide
+La démocratie liquide, aussi appelée démocratie délégative, est une forme de gouvernement démocratique où le pouvoir de vote est confié à un délégué plutôt qu'à un représentant.
