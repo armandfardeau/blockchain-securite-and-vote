@@ -99,8 +99,6 @@ Une plus faible consommation en matière première implique un besoin moindre de
 
 Cela ouvre la porte à une meilleure régulation des dérives qui peuvent toucher la blockchain comme le phénomère du mineur égoïste ou les activités des cartels qui tentent de centraliser la blockchain.
 
-[//]: # (TODO: ADD Mineur égoïste)
-
 L'introduction de la preuve de l'enjeu introduit une réduction des risques de centralisation, car les économies d'échelle sont beaucoup moins incitées et permettent à de petits acteurs de subsister. 
 
 Augmentation du coût d'une attaque par 51% de manière spectaculaire par rapport à la méthode de la preuve de travail : 

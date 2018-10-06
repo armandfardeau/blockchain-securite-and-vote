@@ -159,3 +159,8 @@ Titre: Expérimentation de la blockchain dans les collectivités : quelles possi
 
 ## preuve à divulgation nulle de connaissance
 Un protocole de connaissance zéro est une méthode par laquelle une partie (le prouveur) peut prouver à une autre partie (le vérificateur) que quelque chose est vrai, sans révéler aucune information en dehors du fait que cette déclaration spécifique est vraie.
+
+## Les risques des blockchains, par Laurent Dehouck, Maître de conférences en sciences de gestion, ENS Rennes et Audrey Thomas, ENSAM
+Titre : Les risques des blockchains. 
+Auteur : Laurent Dehouck, Maître de conférences en sciences de gestion, ENS Rennes et Audrey Thomas, ENSAM
+Source : [reseau-canope](https://cdn.reseau-canope.fr/archivage/valid/feuilletage-les-risques-des-blockchains-N-11271-16257.pdf)

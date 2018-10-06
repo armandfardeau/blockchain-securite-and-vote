@@ -101,3 +101,29 @@ A l'aide de ses calculs, on peut estimer le coût en mai 2017 à **878 millions 
 En comparaison le buget de l'Etat Français est de 400 milliards d'euros par an, celui d'une agence gouvernementale comme la NSA est de 45 milliards de dollars.
 
 L'attaque est donc innaccessible à une institution lambda mais pas strictement inaccessible.
+
+#### Stratégie du mineur égoïste
+L'exemple du mineur égoïste est explicité dans Les risques des blockchains, par Laurent Dehouck, Maître de conférences en sciences de gestion, ENS Rennes et Audrey Thomas, ENSAM.
+
+Lorsqu'une transaction a lieu, le mineur qui découvre la solution en premier premier dispose d’un bloc Be.
+ 
+ Ce bloc est censé être comminuqé aux autres noeuds afin d'ètre intégré dans la Blockchain. 
+ 
+ Mais ce mineur, malhonnête, peut garder ce bloc secret et travailler de suite à la validation du bloc suivant.
+
+Dès l’instant q'un autre mineur, "honnête", valide un bloc Bh , il souhaite le diffuser aux autres noeuds. 
+
+Le mineur, malhonnête, va alors diffuser son bloc Be. Le réseau se retrouve ainsi en présence de deux blocs validés presque en même temps et temporairement conservés sur la blockchain.
+
+Certains noeuds du réseau auront connaissance du bloc Be et d’autres auront connaissances du bloc Bh. 
+
+Des nouveaux blocs vont alors s’ajouter à la suite de Be et Bh. 
+
+Pour le mineur malhonnête, l'avantage demeure dans le fait de ne pas divulguer le bloc Be lui donne un avantage stratégique vis-à-vis du reste des utilisateurs du réseau pour la recherche de la solution suivante, car chaque bloc validé est relié aux blocs précédents. 
+
+La création simultanée de deux blocs provoque ce qu’on appelle une "bifurcation", dès lors la chaîne contenant sera conservée car la chaîne contenant le bloc Be sera plus longue.
+
+ ![illustration d'une bifurcation](../../images/illustration_bifurcation.png)
+ > Illustration d'une bifurcation
+
+Ce genre de stratégie invite à repenser la question de la normalisation de la Blockchain.
