@@ -149,3 +149,6 @@ source : [Assemblée Nationale](http://www.assemblee-nationale.fr/15/pdf/projets
 ## Projet de loi PACTE article 62, alinéa II
 Titre : PROJET DE LOI relatif à la croissance et la transformation des entreprises,
 source : [Assemblée Nationale](http://www.assemblee-nationale.fr/15/projets/pl1088.asp)
+
+## crowdfunding
+Le financement participatif désigne l'ensemble des outils et méthodes de transactions financières qui font appel à un grand nombre de personnes afin de financer un projet.

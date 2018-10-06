@@ -62,4 +62,15 @@ On peut imaginer aisément que disposer d'une blockchain pour enregistrer les ac
 Afin de remettre en perspective cet échec et d'illustrer l'engouement du public pour la technologie blockchain il est de bon ton de rappeller que lors de sa crowdsale, la mise en vente publique de token, TheDAO était la plus grosse campagne de crowdfunding de tous les temps avec une levée de plus de 160 millions de dollars en seulement un mois.
 
 ### La co-gouvernance de l'entreprise : piste prospective
-[//]: # (TODO: Talk about co-produit co-management)
+
+La Blockchain est une oppotunité pour le entreprises à plusieurs titre, elle offre à la fois la perspective de transparence que le grand public réclame, mais solutionne également l'implication des consommateurs au sein de la gouvernance de produits et de services.
+
+Cette participation peut s'envisager à deux échelons : au niveau de la gouvernance du produit ou du service, ou bien au niveau de la gouvernance de l'entreprise.
+
+La co-gouvernance d'un produit ou d'un service pour une entreprise permettrait de maximiser l'implication du client, et donc de concevoir un outil adapté à la majorité d'entre eux. Cette co-gestion n'implique pas de laisser à la foule la totalité des décisions, bien au contraire. Il est possible grâce à la Blockchain de repenser la place du client et de fixer la participation en toute transparence, avec des règles préalablement bien définies.
+
+La co-gérance de l'entreprise permet d'impliquer le consommateur à un échelon supérieur, en participant aux décisions stratégiques de l'entreprise. Une telle participation n'implique pas les pleines commandes, il appartiendra à chaque entitée de définir la zone d'influence souhaitée, cette définition pourra même ètre confié au vote.
+
+Ainsi l'implication du grand public est maximale et pourra ètre génératrice d'une adhésion plus grande.
+
+La forme potentielle de cette outil pourrait être une à mis chemin entre les plateformes de crowdfunding actuelle et une DAO. L'innovation vis à vis des plateformes actuelles serait la transparence des processus et le contrôle fin des conséquences de la prise de décision collaborative.
