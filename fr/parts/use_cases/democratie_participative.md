@@ -71,6 +71,10 @@ Toutefois il s'agit de remettre cette expérience en perspective, car une élect
 
 
 * ### Le projet DEMOCRATY EARTH
+
+![Logo de la Democrty Earth Foundation](../../images/democracy-earth.png)
+> Logo de la Democrty Earth Foundation
+
 Democracy Earth Foundation (DEF) est une fondation américaine à but non lucratif qui construit une plateforme de gouvernance orienté "démocratie liquide" basée sur une Blockchain open source. 
 
 La démocratie liquide, aussi appelée démocratie délégative, est une forme de gouvernement démocratique où le pouvoir de vote est confié à un délégué plutôt qu'à un représentant.
