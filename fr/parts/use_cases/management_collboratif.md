@@ -7,7 +7,9 @@ Mais surtout elle ouvre la porte à la consultation mixte, en interne en provena
 
 
 ### Gestion interne: un management tourné vers le salarié
-[//]: # (TODO: Management collaboratif de projet Gestion interne)
+La Blockchain permet de résoudre un grand nombre de problème des entreprises holacratique, par son fonctionnement décentralisée, elle se prête particulierement à ce type de structure qui ont besoin de système numérique pour faire communiquer leurs salariés et permettre la prise de décision collective. En fournissant un système traçable et intègre, la Blockchain permettrait de résoudre la problématiques d'éclatement géographique tout en maintenant un niveau de connaissance partagée sur les processus actifs.
+
+En outre, le fonctionnement de la Blockchain par le biais des smart-contracts permet d'inscrire des principes de fonctionnement consultable par tous et modifiable uniquement par le consensus. Ainsi il n'est pas impossible d'imaginer une organisation disposant de strates de gestion intermédiaire réduit voir inexistant, et remplacé par des smart-contracts.
 
 ### Gestion externe: l'intégration du grand public dans les décisions managériales
-[//]: # (TODO: Management collaboratif de projet Gestion externe)
+Cette nouvelle forme de gestion de l'entreprise pourrait permettre des formes d'hybridation entre les entreprises tel que nous les connaissons et les DAOs. En permettant l'encadrement clair et anticipé du grand public dans la prise de décision collective, la Blockchain invite à repenser les interactions avec le client et laisse présager une nouvelle forme d'engagement autour d'un produit ou d'une marque.

@@ -41,6 +41,3 @@ Comme nous pouvons le voir sur l'infographie ci-dessus, les grandes entreprises 
 Nous traiterons dans ce mémoire essentiellement de ces derniers.
 
 Il serait vain de tenter de lister toutes les manifestations de cette crise de confiance ni même ses origines qui sont sujettes à controverses. Néanmoins, il convient de constater que celle-ci existe indubitablement et que son existence impose de repenser profondément le rapport au monde que les entreprises, les états en intégrant ses nouveaux impératifs de transparence.
-
-
-[//]: # (TODO: RELIRE MEMOIRE VIRGILE)

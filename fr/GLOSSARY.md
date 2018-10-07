@@ -177,3 +177,6 @@ La signature de cercle est un procédé cryptographique permettant à une person
 
 ## Zcash à propos de zk-SNARKS
 Source: [site zcash](https://z.cash/technology/zksnarks/)
+
+## holacratique
+L'holacratie est un système d'organisation de la gouvernance, fondé sur la mise en œuvre formalisée de l’intelligence collective. Opérationnellement, elle permet de disséminer les mécanismes de prise de décision au travers d'une organisation fractale d'équipes auto-organisées.
