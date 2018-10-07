@@ -99,7 +99,7 @@ Le jeton de vote vise à être une norme pour la démocratie numérique capable 
 * Vote secret: Une méthode capable de garantir des transactions de vote non traçables à l'électeur. C'est indispensable dans le contexte d'élections publiques organisées au sein de larges populations qui présentent un risque élevé de coercition. Même si le secret parfait sur la transaction de vote est atteint, les utilisateurs peuvent toujours être identifiés grâce aux empreintes digitales avec les méta-données exposées. Pour cette raison, la recherche sur l'intégration avec des Blockchains conçues pour les transactions anonymes ayant fait leurs preuves est encouragée. Il peut s'agir de frais miniers pour régler l'opération de vote, qui peuvent être soit subventionnés par l'organisme d'exécution, soit payés directement par les électeurs. La DEF poursuit d'ailleurs ses recherches sur l'intégration des votes secrets avec les blockchains suivantes:
     * Ethereum: utilise des contrats pré-compilés pour l'addition et la multiplication scalaire sur la courbe elliptique alt_bn128, pour les contrôles d'appariement, qui permettent les zk-SNARKs.
     * ZCash: implémente des transactions sécurisées en utilisant des preuves à divulgation nulle de connaissance
-    * Monero: utilise des signatures en anneau avec des adresses furtives.
+    * Monero: utilise des signatures en cercle avec des adresses furtives.
     
 #### La confidentialité du vote dans l'approche DEF: une avancée majeure
 [//]: # (TODO: Add part on ZKP)

@@ -15,7 +15,7 @@ L'intérêt de cette méthode est de disposer d'une preuve immuable.
 >
 > Stephan Tual, TheDAO
 
-Les DAOs utilisent la technologie des smart contracts (voir smart-contract)pour fonctionner.
+Les DAOs utilisent la technologie des smart-contracts (voir smart-contract) pour fonctionner.
 
 #### Quels sont les éléments apportés par une DAO?
 

@@ -23,7 +23,7 @@
     * [2. Qu'est-ce que les smart-contracts ?](parts/blockchain_potential_change/smart_contract.md)
     * [3. Preuve de Travail vs Preuve de l’Enjeu](parts/blockchain_potential_change/preuve_travail_preuve_enjeu.md)
     * [4. Blockchain privée vs Blockchain publique](parts/blockchain_potential_change/private_vs_public.md)
-    * [5. Gestion de l'identité et confidentialité](parts/blockchain_potential_change/identity_and_confidentiality.md)
+    * [5. Gestion de l'identification et confidentialité](parts/blockchain_potential_change/identity_and_confidentiality.md)
     * [6. Quid de la sécurité de la blockchain ?](parts/blockchain_potential_change/blockchain_securite.md)
     * [7. Quid de ses impacts énergétiques ?](parts/blockchain_potential_change/impact_energetique.md)
     * [8. Vers une normalisation ?](parts/blockchain_potential_change/blockchain_normalisation.md)
