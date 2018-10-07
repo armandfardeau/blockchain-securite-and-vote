@@ -59,7 +59,11 @@ En juin 2016, TheDAO a vu son développement arrêté suite à une attaque de gr
 
 On peut imaginer aisément que disposer d'une blockchain pour enregistrer les actions de son entreprise deviendra aussi indispensable qu'un expert comptable pour les marchés financiers.
 
+{% hint %}
+
 Afin de remettre en perspective cet échec et d'illustrer l'engouement du public pour la technologie blockchain il est de bon ton de rappeller que lors de sa crowdsale, la mise en vente publique de token, TheDAO était la plus grosse campagne de crowdfunding de tous les temps avec une levée de plus de 160 millions de dollars en seulement un mois.
+
+{% endhint %}
 
 ### La co-gouvernance de l'entreprise : piste prospective
 
@@ -73,4 +77,8 @@ La co-gérance de l'entreprise permet d'impliquer le consommateur à un échelon
 
 Ainsi l'implication du grand public est maximale et pourra ètre génératrice d'une adhésion plus grande.
 
+{% hint %}
+
 La forme potentielle de cette outil pourrait être une à mis chemin entre les plateformes de crowdfunding actuelle et une DAO. L'innovation vis à vis des plateformes actuelles serait la transparence des processus et le contrôle fin des conséquences de la prise de décision collaborative.
+
+{% endhint %}

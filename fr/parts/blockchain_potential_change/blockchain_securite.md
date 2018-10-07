@@ -3,8 +3,7 @@
 
 ### Les garanties de la Blockchain en matière de sécurité :
 
-Il n'existe pas de technologies sûre, la sécurité et la sureté sont un idéal, pas un absolu.
-On peut considérer que la Blockchain, répond à ces impétraotfs dans la mesure ou elle assure les points suivants :
+Il n'existe pas de technologies sûre, la sécurité et la sureté sont un idéal, pas un absolu. On peut considérer que la Blockchain, répond à ces impétraotfs dans la mesure ou elle assure les points suivants:
 
  * La disponibilité : Les données étant distribuée et décentralisée , elles sont disponibles tant qu'un noeud est en mesure de transmettre le registre. 
  
@@ -12,7 +11,7 @@ On peut considérer que la Blockchain, répond à ces impétraotfs dans la mesur
  
  * La confidentialité : La confidentialité est un point complexe concernant la blockchain puisque les données sont disponibles publiquement pour garantir la transparence.
  
-  Néanmoins cette confidentialité peut ètre rendue possible par l'implémentation d'un système de preuve à divulgation nulle de connaissance. Les protocoles sans connaissances permettent le transfert de ressources à travers un réseau distribué, peer-to-peer blockchain, en toute confidentialité. Dans les transactions régulières en chaîne de blocs, lorsqu'un actif est envoyé d'une partie à l'autre, les détails de cette transaction sont visibles pour toutes les autres parties du réseau. En revanche, dans une transaction sans connaissance, les autres ne savent qu'une transaction valable a eu lieu, mais rien sur l'émetteur, le destinataire, la catégorie d'immobilisations et la quantité.
+  Néanmoins cette confidentialité peut ètre rendue possible par l'implémentation d'un système de preuve à divulgation nulle de connaissance. Les protocoles sans connaissances permettent le transfert de ressources à travers un réseau distribué, peer-to-peer blockchain, en toute confidentialité. Dans les transactions régulières en chaîne de blocs, lorsqu'un actif est envoyé d'une partie à l'autre, les détails de cette transaction sont visibles pour toutes les autres parties du réseau. En revanche, dans une transaction sans connaissance, les autres ne savent qu'une transaction valable a eu lieu, mais rien sur l'émetteur, le destinataire, la catégorie d'immobilisations et la quantité. [Voir Gestion de l'identitée et confidentialitée](./identity_and_confidentiality.md)
  
  * La traçabilité : Parce qu'elle est basée sur un empilement de blocs cryptographique, la Blockchain permet d'enregistrer l'intégralité des transactions et de remonter au bloc zéro, assurant la meilleure des traçabilité.
  
@@ -22,7 +21,7 @@ On peut considérer que la Blockchain, répond à ces impétraotfs dans la mesur
 
 
 ---
-### Les menaces qui pèsent sur la Blockchain en matière de sécurité :
+### Les menaces qui pèsent sur la Blockchain en matière de sécurité:
 
 Selon Patricia Egger et Dusko Karaklajic dans La sécurité du blockchain, des menaces pèsent sur l'écosystème naissant en raison de l'immaturité et la complexité de la technologie.
 
@@ -48,8 +47,12 @@ Mais le danger d'un groupe disposant d'une puissance trop importante est qu'il p
 
 En effet l'un des principe fondateur de la blockchain est que le calcul est distribué entre tous les noeuds où le calcul est validé par la méthode de consensus. Ainsi si un seul individu introduit une erreur de calcul volontairement ou fallasieusement, les autres mineurs vont automatiquent disqualifier son travail et son bloc va demeurer orphelin et ne sera jamais intégré.
 
-Mais lorsqu'un groupe de mineur dispose de plus d'au moins 51% des capacités de calcul, il devient possible, en théorie d'outrepasser le mécanisme de consensus et donc d'imposer des blocs fallacieux qui seront ajouté au registre officiel. 
+{% hint style='danger' %}
+
+Lorsqu'un groupe de mineur dispose de plus d'au moins 51% des capacités de calcul, il devient possible, en théorie d'outrepasser le mécanisme de consensus et donc d'imposer des blocs fallacieux qui seront ajouté au registre officiel. 
 Ainsi si un groupe devient trop puissant, il est en capacité de définir quels informations sont légitimes au sein d'une blockchain.
+
+{% endhint %}
 
 ##### L'exemple de la 'double dépense'
 
@@ -72,7 +75,11 @@ A l'inverse, sur des  blockchains ayant une faible capacité de minage (récente
 
 Dans ce dernier cas, une puissance de calcul faible, dont pourrait disposer une organisation lambda suffirait à réaliser l'attaque.
 
+{% hint style='danger' %}
+
 Les blockchains récemment créée sont donc dans une position d'extrème vulnérabilité.
+
+{% endhint %}
 
 ##### Les objectifs d'une attaque des 51%
 
@@ -126,4 +133,8 @@ La création simultanée de deux blocs provoque ce qu’on appelle une "bifurcat
  ![illustration d'une bifurcation](../../images/illustration_bifurcation.png)
  > Illustration d'une bifurcation
 
+{% hint %}
+
 Ce genre de stratégie invite à repenser la question de la normalisation de la Blockchain.
+
+{% endhint %}

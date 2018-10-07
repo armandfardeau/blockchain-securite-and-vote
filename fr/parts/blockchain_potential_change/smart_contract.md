@@ -22,7 +22,11 @@ Les données qui sont enregistrées dans la blockchain y sont enregistrées de m
 
 Mettre hors ligne une blockchain nécessiterait d'arréter simultanément tous les noeuds de celle-ci, c'est virtuelllement impossible. C'est un système que l'on peut considérer comme fiable.
 
-En résumé les smart-contrats permettent d'engager des accorfs envers deux parties sans que l'une ne puissent entraver son exécution, mais également des applications décentralisées.
+{% hint %}
+
+En résumé les smart-contrats permettent d'engager des accords entre deux parties sans que l'une ne puissent entraver son exécution, mais également des applications décentralisées.
+
+{% endhint %}
 
 ### Limites
 
@@ -33,9 +37,13 @@ Se pose alors la question de la validation des conditions d'executions, pour cel
     Liées à des écritures dans la blockchain, dès lors le contrat est executé lorsque ces écritures existent et que la date d'exécution est atteinte.
 
 * Condition d'exécution externe : 
-   Lorsque les conditions d'executon sont exterieures à la blockchain comme par exemple la réalisation d’une prestation, survenance d’un événement… etc. Dès lors, le recours à un tiers de confiance, appellé  « oracle » auquel est délégué l'écriture des conditions dans la blockchain.
+   Lorsque les conditions d'execution sont exterieures à la blockchain comme par exemple la réalisation d’une prestation, survenance d’un événement… etc. Dès lors, le recours à un tiers de confiance, appellé  « oracle » auquel est délégué l'écriture des conditions dans la blockchain.
+
+{% hint style='danger' %}
 
 La principale limitation inhérente à la technologie blockchain est la lenteur du réseau, contrepartie de sa sécurité. 
+
+{% endhint %}
 
 ### Dans le cadre du vote : 
 Exemple avec l'utilisation d’un service d’Oracle : 

@@ -58,7 +58,7 @@ L'administration du bien public en toute transparence est une préoccupation maj
     * Désignation des administrateurs
     * déterminsation des processus opérationnels
     
-    L'action des associations est soumis à la confiance de ses donateurs, de nombreux scandales ont illustré que cette confiance était parfois abusée.
+    L'action des associations est soumise à la confiance de ses donateurs, de nombreux scandales ont illustré que cette confiance était parfois abusée menant au mieux à un désintéret pour la cause défendue, au pire à un lynchage médiatique discreditant durablement les actions entreprises.
 
 ### Les promesses de la Blockchain : 
 

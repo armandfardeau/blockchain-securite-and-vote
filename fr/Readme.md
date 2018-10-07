@@ -29,9 +29,17 @@ C’est dans ce cadre que nous comptons ici nous intéresser à l’impact que p
 
 Si cette approche est apparue dans la mouvance du BitCoin, il s’agit avant tout d’une approche décentralisée de sécurisation de contrat ayant de très vastes potentiels d’usages.
 
-Nous explorerons ici les perspectives ouvertes par l’usage de la blockchain comme outils de sécurisation de la prise de décision collective aussi bien dans le cadre public que privé.
+Des services sécurisés et décentralisés de vote offrent un large champ de création de nouveau modes d’interaction autour d’un des enjeux majeurs de toute société structurée : la prise de décision.
 
-Des services sécurisés et décentralisés de vote offre un large champ potentiel de création de nouveau modes d’interaction autour d’un des enjeux majeurs de toute société structurée : la prise de décision.
+{% hint style='tip' %}
+
+Dans ce travail nous analyserons les perspectives ouvertes par l’usage de la blockchain comme outils de sécurisation de la prise de décision collective. A travers les impératifs réclamés par ces processus de décision, nous tenterons d'évaluer la capacité de la Blockchain à y répondre.
+
+Nous tenterons également d'évaluer le coût de l'utilisation de la Blockchain pour les prises de décisions collective en portant une attention particulière aux critères environnementaux. 
+
+Enfin, nous illustrerons notre propos à l'aide de réalisation en cours ou de preuves de concept et émettrons des pistes prospectives.
+
+{% endhint %}
 
 ---
 
@@ -61,6 +69,7 @@ Des services sécurisés et décentralisés de vote offre un large champ potenti
 * [Qu'est ce que les smart-contracts ?](parts/blockchain_potential_change/smart_contract.md)
 * [Preuve de Travail vs Preuve de l’Enjeu](parts/blockchain_potential_change/preuve_travail_preuve_enjeu.md)
 * [Blockchain privée vs Blockchain publique](parts/blockchain_potential_change/private_vs_public.md)
+* [Gestion de l'identitée et confidentialitée](parts/blockchain_potential_change/identity_and_confidentiality.md)
 * [Quid de la sécurité de la blockchain ?](parts/blockchain_potential_change/blockchain_securite.md)
 * [Quid de ses impacts énergétiques ?](parts/blockchain_potential_change/impact_energetique.md)
 * [Vers une normalisation ?](parts/blockchain_potential_change/blockchain_normalisation.md)

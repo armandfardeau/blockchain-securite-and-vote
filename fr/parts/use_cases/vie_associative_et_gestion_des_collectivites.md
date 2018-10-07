@@ -13,4 +13,10 @@ De nombreuses experimentations ont d'ailleurs lieu sous l'impulsion de Mounir Ma
 
 Suite à cette annonce, on distingue différent cas d'usage notamment au niveau du secteur de la commande publique qui se prête particulierement aux dynamiques offertes par les smart-contracts et l'automatisation des contrats. On distingue également une nouvelle opportunité concernant la transmission de documents.
  
- Mais le cas d'usage le plus ambitieux concerne le portage du droit administratif sous forme de code. L'objectif est de pouvoir confronter la situation individuelle d’un administré  aux règles applicables. L'ambition à terme est de d'envisager une experimentation d'une collectivité sous forme de DAO.
+ Mais le cas d'usage le plus ambitieux concerne le portage du droit administratif sous forme de code. L'objectif est de pouvoir confronter la situation individuelle d’un administré  aux règles applicables. 
+ 
+ {% hint %}
+
+ L'ambition à terme est de d'envisager une experimentation d'une collectivité sous forme de DAO.
+
+{% endhint %}

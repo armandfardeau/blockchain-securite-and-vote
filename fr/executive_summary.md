@@ -17,4 +17,4 @@ Si de nombreuses expériences et preuve de concept soutiennent l'interet de ces 
 
 De nombreux défis et problème rendent la Blockchain inutilisable raisonnablement en l'état à grande échelle, en particulier le défi énérgétique. 
 
-Les pistes pour répondre à ce défi environnemental sont la mise en place de Blockchain implémentant la preuve de l'enjeu (technique de validation des blocs moins couteuse énergétiquement) et les différentes formes de normalisation.
+Les pistes pour répondre à ce défi environnemental sont la mise en place de Blockchains implémentant la preuve de l'enjeu (technique de validation des blocs moins couteuse énergétiquement) et les différentes formes de normalisation.

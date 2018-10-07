@@ -100,3 +100,6 @@ Le jeton de vote vise à être une norme pour la démocratie numérique capable 
     * Ethereum : utilise des contrats précompilés pour l'addition et la multiplication scalaire sur la courbe elliptique alt_bn128, pour les contrôles d'appariement, qui permettent les zk-SNARKs.
     * ZCash : implémente des transactions sécurisées en utilisant des preuves à divulgation nulle de connaissance
     * Monero : utilise des signatures en anneau avec des adresses furtives.
+    
+#### La confidentialité du vote dans l'approche DEF: une avancée majeure
+[//]: # (TODO: Add part on ZKP)

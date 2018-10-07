@@ -81,4 +81,8 @@ Ces cartes permettent d'envisager une continuité d'utilisation future malgré l
 ##### La normalisation par le cablâge de fonctions
 Pour comprendre comment des cartes dédiées à la blockchain pourrait voir le jour, il faut revenir en arrière dans l'histoire de l'informatique. A l'origine seul les CPU effectuait des calculs attenant à la 3D. Puis vinre les GPU, dont les fonctions cablées permettaient des performances plus grandes. Il est tout à fait envisageable de cabler les fonctions nécessaire aux algorithmes implémenté dans la blockchain, à la manière des Physics processing unit qui implémentaient une carte supplémentaire pour la gestion de la physique (Et qui sont depuis intégrés aux cartes graphiques Nvidia).
 
+{% hint %}
+
 Pour envisager ce cablâge, il faut que les constructeurs puissent anticiper l'avenir de la Blockchain, et cela passe par une étape de normalisation.
+
+{% endhint %}

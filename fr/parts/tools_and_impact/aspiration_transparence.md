@@ -11,7 +11,11 @@ Pour accompagner cette réfection de la confiance, des outils technologiques ont
 
 Mais pour que ces nouvelles méthodes ne soient pas un palliatif, il faut qu'elles mettent en place un réel système vertueux et orienté sur le long terme.
 
+{% hint %}
+
 Pour cela, ces systèmes doivent être conçu de manière ouverte ( Open Source ) mais également respecter des principe de sécurité par conception ( security by design ) et de protection de la vie privée ( privacy by design ).
+
+{% endhint %}
 
 ### La confiance partagée :  l'émergence du "trustless"
  

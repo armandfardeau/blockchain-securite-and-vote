@@ -7,5 +7,7 @@ Mais surtout elle ouvre la porte à la consulation mixte, en interne en provenan
 
 
 ### Gestion interne : un management tourné vers le salarié
+[//]: # (TODO: Management collaboratif de projet Gestion interne)
 
 ### Gestion externe : l'intégration du grand public dans les décisions managériales
+[//]: # (TODO: Management collaboratif de projet Gestion externe)
