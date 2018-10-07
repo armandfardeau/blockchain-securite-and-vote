@@ -1,4 +1,4 @@
-# Définition : blockchain
+# Définition: blockchain
 ---
 
 Une (ou un) blockchain, ou chaîne de blocs est une technologie de stockage et de transmission d'informations sans organe de contrôle.
@@ -11,13 +11,13 @@ Par extension, une chaîne de blocs est une base de données distribuée qui gè
 
 ---
 
-Une blockchain est donc unregistre distribué et sécurisé de toutes les transactions effectuées depuis le démarragedu système réparti.
+Une blockchain est donc un registre distribué et sécurisé de toutes les transactions effectuées depuis le démarrage du système réparti.
 
-Il existe des blockchains publiques, ouvertes à tous, et des blockchains privéesdont l’accès et l’utilisation sont limitées à un certain nombre d’acteurs.
+Il existe des blockchains publiques, ouvertes à tous, et des blockchains privées dont l’accès et l’utilisation sont limitées à un certain nombre d’acteurs.
 
 Une blockchain publique peut donc être assimilée à un grand livre comptable public, anonyme et infalsifiable. 
 
-> il faut s’imaginer « un très grand cahier, que tout le monde peut lire librement et gratuitement, sur lequel tout le monde peut écrire, mais qui est impossible à effacer et indestructible. »
+> il faut s’imaginer «un très grand cahier, que tout le monde peut lire librement et gratuitement, sur lequel tout le monde peut écrire, mais qui est impossible à effacer et indestructible.»
 
 > Jean-Paul Delahaye, Les blockchains, clefs d’un nouveau monde
 

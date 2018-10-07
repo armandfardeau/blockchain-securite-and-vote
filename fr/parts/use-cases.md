@@ -1,9 +1,9 @@
 # C. Scénarios d’usages
 ---
 
-La Blockchain est donc un registre distribué dans lequel les informations sont stockées sous forme de blocs et dont la validation est soumise à différentes méthodes cryptographiques et de consensus. Les deux utilisation oricnpale de la Blockchain sont les transactions financières et les contrats-intelligents (smart-contract). 
-Ces derniers permettent de corréller une prise de décision collective, basée sur le vote pour executer des actions prédéfinies. 
-L'utilisation de la Blockchain pose la question légititme de la consommation énergétique et de l'impact environnemental, nous avons ainsi abordé l'opportunité de la normalisation comme reponse potentielle à ce questionnement.
+La Blockchain est donc un registre distribué dans lequel les informations sont stockées sous forme de blocs et dont la validation est soumise à différentes méthodes cryptographiques et de consensus. Les deux utilisations principale de la Blockchain sont les transactions financières et les contrats-intelligents (smart-contract). 
+Ces derniers permettent de corréler une prise de décision collective, basée sur le vote pour exécuter des actions prédéfinies. 
+L'utilisation de la Blockchain pose la question légitime de la consommation énergétique et de l'impact environnemental, nous avons ainsi abordé l'opportunité de la normalisation comme réponse potentielle à ce questionnement.
 La technologie Blockchain n'est pas la réponse universelle, elle présente des limites et ne sera à préconiser que dans des cas précis.
 
 #### [1. Gouvernance des entreprises](parts/use_cases/gouvernance_des_entreprises.md)

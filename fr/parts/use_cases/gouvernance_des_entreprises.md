@@ -1,7 +1,7 @@
 ## Gouvernance des entreprises
 ---
 
-La blockchain propose un modèle de gouvernance des entreprises avec preuves, traçabilitée et transparence.
+La blockchain propose un modèle de gouvernance des entreprises avec preuves, traçabilité et transparence.
 
 ### DAO
 Une DAO (Decentralized Autonomous Organization) est une organisation décentralisée.
@@ -9,20 +9,20 @@ Une DAO (Decentralized Autonomous Organization) est une organisation décentrali
 
 Cela rejoint le principe de loi par le code (law by code). 
 
-L'intéret de cette méthode est de disposer d'une preuve immuable.
+L'intérêt de cette méthode est de disposer d'une preuve immuable.
 
 > C’est une forme d’organisation incorruptible qui appartient aux personnes qui ont aidé à la créer et à la financer, et dont les règles sont publiques. Il n’y a donc pas besoin de faire confiance à qui que ce soit, car tout est dans le code, auditable par chacun.
 >
 > Stephan Tual, TheDAO
 
-Les DAOs utilisent la technologie des smart contracts ( voir smart-contract )pour fonctionner.
+Les DAOs utilisent la technologie des smart contracts (voir smart-contract)pour fonctionner.
 
 #### Quels sont les éléments apportés par une DAO?
 
-Selon Simon de la Rouviere, blockchain Consensys : il existe trois élèments fondamentaux apportés par une DAO. 
-Le premier est que la DAO est instoppable, elle ne peut ni ètre fermée ni arretée. 
-La seconde est que l'entitée est forcée de faire acte de transparence et l'intégrité de ses données sont préservées, ainsi un individu ne peut prétendre à la manipuler ou la controler.
-La dernière est non pas des moindres est le caractère auditable à l'échelle supranationale, en effet lors du contrôle d'une entitée, les auditeurs s'appuient soit sur des organes de contrôles du pays de résidence, soit des auditeurs indépendants. Parfois il est imlpossible d'effectuer ces contrôles librement ou sans crainte d'une fraude. 
+Selon Simon de la Rouviere, blockchain Consensys: il existe trois éléments fondamentaux apportés par une DAO. 
+Le premier est que la DAO est inarrêtable, elle ne peut ni être fermée ni stoppée. 
+La seconde est que l'entité est forcée de faire acte de transparence et l'intégrité de ses données sont préservées, ainsi un individu ne peut prétendre à la manipuler ou la contrôler.
+La dernière est non pas des moindres est le caractère auditable à l'échelle supranationale, en effet lors du contrôle d'une entité, les auditeurs s'appuient soit sur des organes de contrôles du pays de résidence, soit des auditeurs indépendants. Parfois il est imlpossible d'effectuer ces contrôles librement ou sans crainte d'une fraude. 
 
 La DAO apparait comme une organisation ouverte, globale, indépendante de toute juridiction et protégée d'une partie des fraudes qui agitent les organisations classiques grâce à l'application de la Loi par le code.
 
@@ -32,7 +32,7 @@ La DAO apparait comme une organisation ouverte, globale, indépendante de toute 
 
 ![TheDao logo](../../images/thedao_logo.png)
 
-Le project TheDAO est à l'initiative de la start-up slock.it et est l'exmple le plus remarquable de ce genre d'organisation. C'est avant tout un POC. 
+Le projet TheDAO est à l'initiative de la start-up slock.it et est l'exmple le plus remarquable de ce genre d'organisation. C'est avant tout un POC. 
 
 Le type d'organisation DAO n'est pas adapté à la totalité des situations, mais elle répond concrètement à une situation où la confiance n'est pas nécessaire puisque le fonctionnement de l'organisation est garanti. TheDAO s'appuit pour fonctionner sur la blockchain Ethereum.
  
@@ -65,20 +65,20 @@ Afin de remettre en perspective cet échec et d'illustrer l'engouement du public
 
 {% endhint %}
 
-### La co-gouvernance de l'entreprise : piste prospective
+### La cogouvernance de l'entreprise: piste prospective
 
-La Blockchain est une oppotunité pour le entreprises à plusieurs titre, elle offre à la fois la perspective de transparence que le grand public réclame, mais solutionne également l'implication des consommateurs au sein de la gouvernance de produits et de services.
+La Blockchain est une opportunité pour les entreprises à plusieurs titres, elle offre à la fois la perspective de transparence que le grand public réclame, mais solutionne également l'implication des consommateurs au sein de la gouvernance de produits et de services.
 
-Cette participation peut s'envisager à deux échelons : au niveau de la gouvernance du produit ou du service, ou bien au niveau de la gouvernance de l'entreprise.
+Cette participation peut s'envisager à deux échelons: au niveau de la gouvernance du produit ou du service, ou bien au niveau de la gouvernance de l'entreprise.
 
-La co-gouvernance d'un produit ou d'un service pour une entreprise permettrait de maximiser l'implication du client, et donc de concevoir un outil adapté à la majorité d'entre eux. Cette co-gestion n'implique pas de laisser à la foule la totalité des décisions, bien au contraire. Il est possible grâce à la Blockchain de repenser la place du client et de fixer la participation en toute transparence, avec des règles préalablement bien définies.
+La cogouvernance d'un produit ou d'un service pour une entreprise permettrait de maximiser l'implication du client, et donc de concevoir un outil adapté à la majorité d'entre eux. Cette cogestion n'implique pas de laisser à la foule la totalité des décisions, bien au contraire. Il est possible grâce à la Blockchain de repenser la place du client et de fixer la participation en toute transparence, avec des règles préalablement bien définies.
 
-La co-gérance de l'entreprise permet d'impliquer le consommateur à un échelon supérieur, en participant aux décisions stratégiques de l'entreprise. Une telle participation n'implique pas les pleines commandes, il appartiendra à chaque entitée de définir la zone d'influence souhaitée, cette définition pourra même ètre confié au vote.
+La co-gérance de l'entreprise permet d'impliquer le consommateur à un échelon supérieur, en participant aux décisions stratégiques de l'entreprise. Une telle participation n'implique pas les pleines commandes, il appartiendra à chaque entité de définir la zone d'influence souhaitée, cette définition pourra même être confié au vote.
 
-Ainsi l'implication du grand public est maximale et pourra ètre génératrice d'une adhésion plus grande.
+Ainsi l'implication du grand public est maximale et pourra être génératrice d'une adhésion plus grande.
 
 {% hint %}
 
-La forme potentielle de cette outil pourrait être une à mis chemin entre les plateformes de crowdfunding actuelle et une DAO. L'innovation vis à vis des plateformes actuelles serait la transparence des processus et le contrôle fin des conséquences de la prise de décision collaborative.
+La forme potentielle de cet outil pourrait être à mis-chemin entre les plateformes de crowdfunding actuelle et une DAO. L'innovation vis-à-vis des plateformes actuelles serait la transparence des processus et le contrôle fin des conséquences de la prise de décision collaborative.
 
 {% endhint %}
