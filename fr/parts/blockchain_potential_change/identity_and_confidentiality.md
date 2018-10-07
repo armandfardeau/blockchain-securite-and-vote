@@ -24,7 +24,7 @@ Afin d'avoir une vie privée sans connaissance dans Zcash, la fonction détermin
 
 > Source: Zcash à propos de zk-SNARKS
 
-En regardant un tel circuit, on peut considérer les valeurs d'entrée a, b, c comme "se déplaçant" de gauche à droite sur les fils vers le fil de sortie. L'étape suivante consiste à construire ce qu'on appelle un système de contraintes de rang 1, ou R1CS (Rank 1 Constraint System), pour vérifier que les valeurs se déplacent "correctement". Dans cet exemple, le R1CS confirmera, par exemple, que la valeur qui sort de la porte de multiplication où b et c sont entrés est b*c.
+En regardant un tel circuit, on peut considérer les valeurs d'entrée a, b, c comme «se déplaçant» de gauche à droite sur les fils vers le fil de sortie. L'étape suivante consiste à construire ce qu'on appelle un système de contraintes de rang 1, ou R1CS (Rank 1 Constraint System), pour vérifier que les valeurs se déplacent «correctement». Dans cet exemple, le R1CS confirmera, par exemple, que la valeur qui sort de la porte de multiplication où b et c sont entrés est b*c.
 
 Dans cette représentation R1CS, le vérificateur doit vérifier de nombreuses contraintes - une pour presque tous les fils du circuit.  Cette méthode utilise une représentation du circuit appelée Programme arithmétique quadratique (QAP). La seule contrainte qui doit être vérifiée est maintenant entre les polynômes plutôt qu'entre les nombres. Les polynômes peuvent être assez grands, mais ce n'est pas grave, car lorsqu'une identité ne tient pas entre les polynômes, elle ne tiendra pas à la plupart des points. Par conséquent, il vous suffit de vérifier que les deux polynômes correspondent à un point choisi au hasard afin de vérifier correctement la preuve avec une probabilité élevée.
 
@@ -40,7 +40,7 @@ Nous devrons pour ce scénario disposer de quatre entités:
 
 ![Exemple d'utilisation de zk-SNARKS poour l'authentification auprès d'un centre d'appel bancaire](../../images/zk_snarks_ethereum.png)
 
-Pour réaliser cette opération d'authentification, le recours à une tierce partie "ACME BANK" est nécessaire, celui va authentifier Alice grâce à une application tierce et retourner la valeur vraie si Alice est bien la personne qu'elle prétend être.
+Pour réaliser cette opération d'authentification, le recours à une tierce partie «ACME BANK» est nécessaire, celui va authentifier Alice grâce à une application tierce et retourner la valeur vraie si Alice est bien la personne qu'elle prétend être.
 
 {% hint %}
 
