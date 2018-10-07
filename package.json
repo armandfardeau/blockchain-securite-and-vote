@@ -3,9 +3,11 @@
     "gitbook-cli": "^2.3.2"
   },
   "scripts": {
-    "plugins": "gitbook install",
-    "pdf": "gitbook pdf",
+    "plugins": "gitbook install && pip install stapler",
+    "pdf": "gitbook pdf && yarn run trim_fr && yarn run trim_en",
     "serve": "gitbook serve",
-    "build": "yarn run pdf && gitbook build && rm -r docs && mkdir docs && cp -r _book/* docs/"
+    "build": "yarn run pdf && gitbook build && rm -r docs && mkdir docs && cp -r _book/* docs/",
+    "trim_fr": "stapler del book_fr.pdf 1 copy_book_fr.pdf && mv copy_book_fr.pdf book_fr.pdf",
+    "trim_en": "stapler del book_en.pdf 1 copy_book_en.pdf && mv copy_book_en.pdf book_en.pdf"
   }
 }
