@@ -14,12 +14,12 @@ entrons dans une période de crise de confiance vis-à-vis des services offerts 
 
 Failles de sécurités, atteintes à la vie privée, manipulations de l’opinion, cybercriminalité, cyberguerre, etc. sont aujourd’hui des enjeux largement médiatisés hors des cercles d’initiés.
 
-Le temps de la croyance aveugle dans les bienfaits de la révolutions internet et des fantasmes semble révolu.
+Le temps de la croyance aveugle dans les bienfaits de la révolution internet et des fantasmes semble révolu.
 
 Cette crise de confiance n'est pas propre au secteur numérique, elle se diffuse dans toutes
 les strates de nos sociétés. Elle se manifeste dans le champ politique, dans le champ médiatique si bien que l'ère dans laquelle nous vivons porte désormais le nom d'ère post-vérité (post-factual era).
 
-Cette crise de confiance a déjà de nombreuses conséquences dans le champ politique mais également dans le champ économique où la confiance est la clé de voute de l'investissement et de l'adhésion à une marque ou à un produit
+Cette crise de confiance a déjà de nombreuses conséquences dans le champ politique mais également dans le champ économique où la confiance est la clé de voûte de l'investissement et de l'adhésion à une marque ou à un produit
 
 L’opinion publique, les législateurs et les acteurs de l’industrie commencent à prendre la pleine mesure des chantiers qui s’annoncent pour sortir d’une période que l’on considèrera bientôt, peut-être, comme celle du Far West  
 
@@ -29,15 +29,15 @@ C’est dans ce cadre que nous comptons ici nous intéresser à l’impact que p
 
 Si cette approche est apparue dans la mouvance du BitCoin, il s’agit avant tout d’une approche décentralisée de sécurisation de contrat ayant de très vastes potentiels d’usages.
 
-Des services sécurisés et décentralisés de vote offrent un large champ de création de nouveau modes d’interaction autour d’un des enjeux majeurs de toute société structurée: la prise de décision.
+Des services sécurisés et décentralisés de vote offrent un large champ de création de nouveaux modes d’interaction autour d’un des enjeux majeurs de toute société structurée: la prise de décision.
 
 {% hint style='tip' %}
 
-Dans ce travail nous analyserons les perspectives ouvertes par l’usage de la blockchain comme outils de sécurisation de la prise de décision collective. À travers les impératifs réclamés par ces processus de décision, nous tenterons d'évaluer la capacité de la Blockchain à y répondre.
+Dans ce travail nous analyserons les perspectives ouvertes par l’usage de la blockchain comme outil de sécurisation de la prise de décision collectives. À travers les impératifs réclamés par ces processus de décision, nous tenterons d'évaluer la capacité de la Blockchain à y répondre.
 
 Nous tenterons également d'évaluer le coût de l'utilisation de la Blockchain pour les prises de décisions collective en portant une attention particulière aux critères environnementaux. 
 
-Enfin, nous illustrerons notre propos à l'aide de réalisation en cours ou de preuves de concept et émettrons des pistes prospectives.
+Enfin, nous illustrerons notre propos à l'aide de réalisations en cours ou de preuves de concept et émettrons des pistes prospectives.
 
 {% endhint %}
 
