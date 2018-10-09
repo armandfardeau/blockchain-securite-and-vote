@@ -1,9 +1,9 @@
 # Définition: vote
 ---
 
-Le vote (terme dérivé de l'anglais vote, provenant du latin votum signifiant «vœu») désigne une méthode permettant à un groupe une prise de décision commune. 
+Le vote (provenant du latin votum signifiant «vœu») désigne une méthode permettant à un groupe une prise de décision commune. 
 
-Les organisations formelles ou informelles ont recours à cette pratique, de toute nature (économiques, politiques, associatives, etc.). La pratique du vote vise à donner une légitimité à la décision en montrant qu'elle ne vient pas d'un individu isolé. Avant que le vote proprement dit n'ait lieu, il est fréquent qu'un temps de discussion ou de débat soit ménagé pour permettre à chacun des votants d'exposer ou de prendre connaissance des arguments, afin de motiver au mieux sa décision.
+Les organisations formelles ou informelles, de toute nature (économiques, politiques, associatives, etc.), ont recours à cette pratique. La pratique du vote vise à donner une légitimité à la décision en montrant qu'elle ne vient pas d'un individu isolé. Avant que le vote proprement dit n'ait lieu, il est fréquent qu'un temps de discussion ou de débat soit ménagé pour permettre à chacun des votants d'exposer ou de prendre connaissance des arguments, afin de motiver au mieux sa décision.
 
 Le vote est généralement encadré par un processus électoral aussi dénommé «scrutin» ou «élection».
 
@@ -17,7 +17,7 @@ Le vote est généralement encadré par un processus électoral aussi dénommé 
 | Unicité du vote | Généralement on souhaite l'unicité du vote: pour permettre à chacun d'être justement représenté, il ne faut pas permettre à un électeur de voter plusieurs fois, c'est-à-dire d'être sur représenté. |
 | Représentativité | Certains systèmes de propriété (propriété au sens légal) conduisent à ce que les voix de chaque électeur soient pondérées par une quote-part de participation. |
 | Secret et transparence | Suivant le scrutin, on peut souhaiter que le vote soit secret, afin de prévenir la corruption du vote, ou bien au contraire public, afin de contraindre à un positionnement assumé. |
-| Vérifiabilité | Afin de lever tous doutes sur la légitimité du scrutin, lorsqu'un enjeu existe, on souhaite que le scrutin soit vérifiable, c'est-à-dire que l'on puisse démontrer aux yeux de tous l'absence de triches. On souhaite alors s'assurer que les personnes et matériels impliqués dans l'organisation ne soient pas détournés aux profits d'intérêts spécifiques. |
+| Vérifiabilité | Afin de lever tout doute sur la légitimité du scrutin, lorsqu'un enjeu existe, on souhaite que le scrutin soit vérifiable, c'est-à-dire que l'on puisse démontrer aux yeux de tous l'absence de triche. On souhaite alors s'assurer que les personnes et matériels impliqués dans l'organisation ne soient pas détournés aux profits d'intérêts spécifiques. |
 | Attractivité | Certaines organisations commerciales promeuvent des votes dans le but inavoué de susciter la participation à une action qui sans le dire est un acte d'achat. C'est notamment le cas des votes visant à l'achat par «numéros de services à valeur ajoutée» également connues sous l’appellation de communication téléphonique surtaxée. |
 | Non-participation | Pour éviter qu'une décision ne soit prise par défaut ou pour pallier certains aléas, il est de coutume de permettre la non-participation, par exemple au travers de l'abstention, ou du vote nul ou blanc. |
 | Quorum et majorité | Pour donner une légitimité accrue à la prise de décision, la méthode de vote peut être corrélée à un système de quorum et/ou de majorité qualifiée. |

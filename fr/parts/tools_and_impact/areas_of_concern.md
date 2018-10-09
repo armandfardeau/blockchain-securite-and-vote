@@ -1,11 +1,11 @@
 ## Les domaines d'enjeux
 ---
 
-La sphère publique, au sens arrendtiens, est agitée des nombreuses problématiques que nous avons illustrées précédemment. Dans cette dimension publique, le vote est la forme d'expression reine, elle permet la consultation du plus grand nombre. 
+La sphère publique, au sens arrendtien, est agitée des nombreuses problématiques que nous avons illustrées précédemment. Dans cette dimension publique, le vote est la forme d'expression reine, elle permet la consultation du plus grand nombre au moindre effort. 
 
 Le vote dans la sphère publique invite à s'interroger sur la représentativité en matière de prise de décision, de disponibilité physique des votants, de la transparence du processus démocratique, de l'intégrité et de la traçabilité. 
 
-De nombreuses implémentations du vote sont connexe au sein des institutions publiques, des associations, des entreprises dont la gestion se veut collaborative, par conséquent, les réponses apportées à ces besoins peuvent être proches, voir similaire.
+De nombreuses implémentations du vote sont connexes au sein des institutions publiques, des associations, des entreprises dont la gestion se veut collaborative, par conséquent, les réponses apportées à ces besoins peuvent être proches, voir similaires.
 
 Par exemple la participation aux élections nationales en France voit sa participation chuter d'année en année: 
 
@@ -21,13 +21,13 @@ La blockchain, parce qu'elle supprime en partie le besoin de confiance, pourrait
 
 Ils ont pour champ de compétence l'administration des institutions, associations, entreprises ou un établissement public.
 
-L’organisation, le fonctionnement et les prérogatives du conseil d’administration sont fixés par le statut de l'institution et dépendent du droit national. (Art. L.225-36-1 C. com.).
+L’organisation, le fonctionnement et les prérogatives du conseil d’administration sont fixés par le statut de l'institution et dépendent du droit des sociétés. (Art. L.225-36-1 C. com.).
 
 En général les statuts prévoient la périodicité des réunions et les modalités de convocations des administrateurs. 
 
 Un conseil d'administration doit théoriquement se tenir dès lors que la situation de l'entreprise l'exige. Or, la tenue de celui-ci est de facto conditionné à la disponibilité physique des parties prenantes.  
 
-Les décisions sont prises par le vote au sein d'un conseil d'administration, en général à main levée. Ce qui implique la confiance dans le déroulé honnête de celui-ci, la traçabilité n'étant assuré que par le tiers de confiance qui le rapporte. Ce vote à main levée pose également la question de la confidentialité, comment s'assurer que des pressions n'ont pas eu lieu au préalable? Un vote à bulletin secret permettrait de s'affranchir d'une telle question.
+Les décisions sont prises par le vote au sein d'un conseil d'administration, en général à main levée. Ce qui implique la confiance dans le déroulé honnête de celui-ci, la traçabilité n'étant assurée que par le tiers de confiance qui le rapporte. Ce vote à main levée pose également la question de la confidentialité, comment s'assurer que des pressions n'ont pas eu lieu au préalable? Un vote à bulletin secret permettrait de s'affranchir d'une telle question.
 
 * La participation de la personne morale au conseil d'administration:
     Si une personne morale est membre d'un conseil d'administration, elle désigne une personne physique pour la représenter. De la délégation de ce vote découle un doute: le délégataire est dans la capacité de dépasser ou d'outrepasser les choix préalables du ou des délégants.
@@ -48,7 +48,7 @@ L'administration du bien public en toute transparence est une préoccupation maj
 #### Le vote dans la gestion collaborative:
 
 * La co-gestion avec les utilisateurs: 
-    Le crowdfunding désigne tous les outils et méthodes de transactions financières qui font appel à   un grand nombre de personnes afin de financer un projet. Les manifestations de soutiens provenant des utilisateurs de ces outils sont de deux types: La première, un soutien financier consiste en une transaction dont le montant représente un pourcentage d'un objectif, et une seconde l'acte de transaction qui représente un soutien en tant que tel. Le montant de la transaction ne représentant qu'une échelle du soutien. Enregistrer ces informations dans une blockchain permettrait à la fois de supprimer la nécessité de recourir à la confiance et de recourir à des smart contracts afin de garantir la bonne exécution de l'acte soutenu. 
+    Le crowdfunding désigne tous les outils et méthodes de transactions financières qui font appel à   un grand nombre de personnes afin de financer un projet. Les manifestations de soutiens provenant des utilisateurs de ces outils sont de deux types: La première, un soutien financier consiste en une transaction dont le montant représente un pourcentage d'un objectif, et une seconde l'acte de transaction qui représente un soutien en tant que tel. Le montant de la transaction ne représentant qu'une échelle du soutien.
 
 * Du besoin spécifique des associations:
 
@@ -56,7 +56,7 @@ L'administration du bien public en toute transparence est une préoccupation maj
     * Choix des projets associatifs
     * Allocations des budgets
     * Désignation des administrateurs
-    * détermination des processus opérationnels
+    * Détermination des processus opérationnels
     
     L'action des associations est soumise à la confiance de ses donateurs, de nombreux scandales ont illustré que cette confiance était parfois abusée menant au mieux à un désintérêt pour la cause défendue, au pire à un lynchage médiatique discréditant durablement les actions entreprises.
 

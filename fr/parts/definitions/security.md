@@ -38,4 +38,5 @@ Le niveau global de sécurité des systèmes d'information est défini par le ni
 
 Il faut pour cela estimer:
 
-La gravité des conséquences au cas où les risques se réaliseraient ;La vraisemblance des risques (ou leur potentialité, ou encore leur probabilité d'occurrence).
+* La gravité des conséquences au cas où les risques se réaliseraient.
+* La vraisemblance des risques (ou leur potentialité), ou encore leur probabilité d'occurrence).

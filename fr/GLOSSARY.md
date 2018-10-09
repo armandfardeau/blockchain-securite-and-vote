@@ -180,3 +180,10 @@ Source: [site zcash](https://z.cash/technology/zksnarks/)
 
 ## holacratique
 L'holacratie est un système d'organisation de la gouvernance, fondé sur la mise en œuvre formalisée de l’intelligence collective. Opérationnellement, elle permet de disséminer les mécanismes de prise de décision au travers d'une organisation fractale d'équipes auto-organisées.
+
+## effet de la connaissance commune
+De Common Knowledge Effect, L'effet des connaissances communes décrit l'impact sur la prise de décision du groupe, d'une information connue de tous avant la discussion a une influence plus forte sur les décisions que l'information non partagée par tous. L'effet de notoriété publique démontre qu'un facteur non pertinent - le nombre de membres qui connaissent un élément d'information particulier - peut influencer les décisions du groupe. Si un élément d'information non partagé est crucial pour prendre une décision correcte, le résultat peut être une mauvaise décision. 
+Source: [SAGE](http://sk.sagepub.com/reference/processes/n39.xml)
+
+## mineur
+un mineur est un individu vérifiant les transactions et opérations effectuées par les utilisateurs sur le réseau. Il les inscrit ensuite sur la blockchain (registre public). La vérification des transactions requiert de la puissance de calcul. Dans la mesure où le code informatique de la blockchain est open-source, devenir mineur est ouvert à tous.

@@ -9,13 +9,15 @@
 >
 > *Andrew Calcutt, The Conversation*
 
-Déjà en 1964 dans Vérité et politique, Hannah Arendt se posait la question de l'objectivité de l'histoire. Dès la première phrase, en évoluant l'opinion et l'interprétation, elle engage la réflexion sur le terrain de la supposée subjectivité de l'historien, cette remise en question et ce questionnement, légitime, ont ouvert la porte à une remise en question plus profonde. Il existerait un pan entier de la réalité qui ne serait appréhendable qu'à travers le regard subjectif de l'observateur.
+Déjà en 1964 dans Vérité et politique, Hannah Arendt se posait la question de l'objectivité de l'histoire. Dès la première phrase, en évoluant l'opinion et l'interprétation, elle engage la réflexion sur le terrain de la supposée subjectivité de l'historien. 
 
-Dans la seconde moitié des années 1990, les industries créatives ont réussie à générer une croissance spectaculaire  à travers le développement de l'image de marque ou «branding«. Le «branding» est devenu beaucoup plus important que l'activité banale de conception, de développement et de fabrication d'un produit. 
+Cette remise en question et ce questionnement, légitime, ont ouvert la porte à une remise en question plus profonde. Il existerait un pan entier de la réalité qui ne serait appréhendable qu'à travers le regard subjectif de l'observateur.
+
+Dans la seconde moitié des années 1990, les industries créatives ont réussi à générer une croissance spectaculaire  à travers le développement de l'image de marque ou «branding«. Le «branding» est devenu beaucoup plus important que l'activité banale de conception, de développement et de fabrication d'un produit. 
 
 Au lieu de commercialiser un produit en le présentant comme utile, ces créatifs ont entrepris de lui donner une âme, une conscience et une morale.
 
-Au tournant du siècle, le gouvernement se préoccupait déjà moins de «la vérité» que de façon dont «les vérités» pouvaient être (dé)tournées. Ceux que l'on nomme des «spin doctors» ont investi le devant de la scène. La guerre en Irak en est un excellent exemple. 
+Au tournant du siècle, le gouvernement se préoccupait déjà moins de «la vérité» que de la façon dont «les vérités» pouvaient être (dé)tournées. Ceux que l'on nomme des «spin doctors» ont investi le devant de la scène. La guerre en Irak en est un excellent exemple. 
 
 Les faits ont été relégués au second plan. 
 
@@ -24,7 +26,7 @@ la vérité universelle. C'est l'un des principes fondamentaux du postmodernisme
 
 Le postmodernisme n'a pas créé les fondations de l'ère «post-vérité». 
 
-Ces fondations ont été creusées par le détournement malhonnête d'un certain nombre de concepts évoqué par le post-modernisme alliés aux révélations de scandales politique, économique et écologique au cours de ces cinquante dernières années.
+Ces fondations ont été creusées par le détournement malhonnête d'un certain nombre de concepts évoqué par le post-modernisme alliés aux révélations de scandales politiques, économiques et écologiques au cours de ces cinquante dernières années.
 
 A l'origine parfois méfiant ou  suspicieux, le grand public est devenu hyper-critique quant aux faits.
 
@@ -40,4 +42,4 @@ Comme nous pouvons le voir sur l'infographie ci-dessus, les grandes entreprises 
 
 Nous traiterons dans ce mémoire essentiellement de ces derniers.
 
-Il serait vain de tenter de lister toutes les manifestations de cette crise de confiance ni même ses origines qui sont sujettes à controverses. Néanmoins, il convient de constater que celle-ci existe indubitablement et que son existence impose de repenser profondément le rapport au monde que les entreprises, les états en intégrant ses nouveaux impératifs de transparence.
+Il serait vain de tenter de lister toutes les manifestations de cette crise de confiance ni même ses origines qui sont sujettes à controverses. Néanmoins, il convient de constater que celle-ci existe indubitablement et que son existence impose de repenser profondément le rapport au monde des entreprises, associations, et États en intégrant ses nouveaux impératifs de transparence.

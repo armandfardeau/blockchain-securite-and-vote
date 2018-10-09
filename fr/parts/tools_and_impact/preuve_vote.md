@@ -1,6 +1,6 @@
 ## Du statut de la preuve au vote
 ---
-Si la transparence nécessite d'apporter la preuve de sa bonne foi, la preuve mértite que l'on s'intéresse à son statut et aux conséquences qu'elle fait peser sur le vote.
+Si la transparence nécessite d'apporter la preuve de sa bonne foi, la preuve mérite que l'on s'intéresse à son statut et aux conséquences qu'elle fait peser sur le vote.
 
 ### Qu'est ce qu'une preuve?
 
@@ -31,8 +31,10 @@ Bien que ce soit une manifestation du vote plus rare, ce type de vote pourrait �
 
 {% endhint %}
 
+En effet, le vote à bulletin secret à pour but de garantir que le votant n'a pas été corrompu, ou ne pourra subir de coercitions en conséquence de son vote. Il est difficile de garantir l'intégrité du processus tout en assurant la confidentialité du vote. Pour cette raison, ce type de vote est moins utlisé.
+
 Dans le processus démocratique actuel, l'identité du votant est contrôlée par l'existence d'une liste préalable, et la présentation d'un document d'identité attestant de l'état civil. 
 Il s'agit d'un très classique recours à un tiers de confiance. En effet, l'État joue un double rôle ici: il atteste de l'état civil de la personne et délivre une preuve matérielle, disposant d'outils de lutte contre la falsification afin d'attester de cet état civil. Il délivre également la liste des personnes légitimes à s'exprimer dans le cadre du scrutin.
 
-Cette confusion des rôles fait reposer une lourde responsabilité sur l'organe étatique, il est à la fois juge et partie.
+Cette confusion des rôles fait reposer une lourde responsabilité sur l'organe étatique, car il est à la fois juge et partie: il doit garantir la sécurité du processus, en étant le bénéficiaire du résultat de celui-ci, et en déterminant les processus de validation, de contrôle et de méta-contrôle .
 

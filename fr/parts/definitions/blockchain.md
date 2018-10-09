@@ -13,7 +13,7 @@ Par extension, une chaîne de blocs est une base de données distribuée qui gè
 
 Une blockchain est donc un registre distribué et sécurisé de toutes les transactions effectuées depuis le démarrage du système réparti.
 
-Il existe des blockchains publiques, ouvertes à tous, et des blockchains privées dont l’accès et l’utilisation sont limitées à un certain nombre d’acteurs.
+Il existe des blockchains publiques, ouvertes à tous, et des blockchains privées dont l’accès et l’utilisation sont limités à un certain nombre d’acteurs.
 
 Une blockchain publique peut donc être assimilée à un grand livre comptable public, anonyme et infalsifiable. 
 
