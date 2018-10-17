@@ -46,10 +46,10 @@ La principale limitation inhérente à la technologie blockchain est la lenteur 
 {% endhint %}
 
 ### Dans le cadre du vote: 
-Exemple avec l'utilisation d’un service d’Oracle: 
+Exemple avec l'utilisation d’un service d’oracle: 
 
-Nécessite un nombre important de participants. Chaque protagoniste vote pour le résultat qu'il juge exact et le résultat est confié au consensus. On peut citer en la matière le projet Oraclize. Dans le cadre du vote cela sous-entend de confier un nombre de propositions au consensus qui détermine les éléments valides.
+Le recours à un service d'oracle nécessite un nombre important de participants. Chaque protagoniste vote pour le résultat qu'il juge exact et le résultat est confié au consensus. On peut citer en la matière le projet Oraclize. Dans le cadre du vote cela sous-entend de confier un nombre de propositions au consensus qui détermine les éléments valides.
 
 Une proposition est dans ce cas de figure un smart-contract classique dont les conditions fixent le cadre d'application. Une fois ces conditions validées, le contrat voit son exécution programmée.
 
-Ce système présente une limite nécessite une vigilance particulière, en effet l'interruption du contrat (et donc de l'exécution de la proposition) est en pratique impossible, sauf si cette condition d'interruption a été prévue dès l'origine.
+Ce système présente une limite et nécessite une vigilance particulière, en effet l'interruption du contrat (et donc de l'exécution de la proposition) est en pratique impossible, sauf si cette condition d'interruption a été prévue dès l'origine.

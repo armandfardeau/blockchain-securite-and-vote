@@ -1,7 +1,7 @@
 ## Preuve de travail vs preuve de l'enjeu
 ---
 
-Une blockchain est donc un registre distribué chiffré, et répliqué dans tous les nœuds du réseau, qui contient les chaînes d’ordres permettant, grâce à l’obtention d’un consensus, de gérer la confiance sans institution externe.
+Nous avons vu précédemment qu'une blockchain est un registre distribué chiffré, et répliqué dans tous les nœuds du réseau, qui contient les chaînes d’ordres permettant, grâce à l’obtention d’un consensus, de gérer la confiance sans institution externe.
 
 ### Concernant la preuve de travail:
 
@@ -27,19 +27,17 @@ Le mécanisme est même plus sophistiqué:à intervalles de temps réguliers, la
 
 ![La difficulté de hash blochain](../../images/difficulty.jpeg)
 
-> Mesure relative de la difficulté de trouver un nouveau bloc. La difficulté est ajustée périodiquement en fonction de la puissance de hachage déployée par le réseau de mineurs.
+> Graphique illustrant la mesure relative de la difficulté à trouver un nouveau bloc. La difficulté est ajustée périodiquement en fonction de la puissance de hachage déployée par le réseau de mineurs.
 >
-> Source: blockchain.com 
-
-
+>Source: blockchain.com 
 
 La mise en concurrence est la méthode utilisée pour motiver à la certification, ainsi le premier mineur à valider un nouveau bloc sera récompensé.
 
-Concernant le bitcoin, la tâche de certification était À l'origine accessible par les particuliers grâce à l'utilisation des cartes graphiques, dont la puissance pour le type de calcul nécessaire à la certification est supérieure.
+Concernant le bitcoin, la tâche de certification était à l'origine accessible par les particuliers grâce à l'utilisation des cartes graphiques, dont la puissance pour le type de calcul nécessaire à la certification était supérieure.
 
-Depuis des mineurs spécifiques sont apparus pour réaliser la preuve de travail et les cartes graphiques grand-public sont délaissés car non compétitive.
+Depuis des mineurs spécifiques sont apparus pour réaliser la preuve de travail et les cartes graphiques grand-public sont délaissés car non compétitives.
 
-Car plus la taille des chaînes augmente, plus la puissance de calcul doit augmenter. Cette relation d'interdépendance a chassé les particuliers de la course à la certification et se sont désormais des institutions qui ont pris le relais.
+Car plus la taille des chaînes augmente, plus la puissance de calcul doit augmenter. Cette relation d'interdépendance a chassé les particuliers de la course à la certification et ce sont désormais des institutions qui ont pris le relais.
 
 ![La ferme de calcul bitfarms](../../images/bitcoin_farm.jpeg)
 
@@ -47,11 +45,7 @@ Car plus la taille des chaînes augmente, plus la puissance de calcul doit augme
 >
 > Source: bitfarms.io
 
-
-
-En août 2018, il y avait 9 503 nœuds de traitement de la blockchain bitcoin dans le monde.
-
-
+En août 2018, il y avait 9 503 nœuds de traitement de la Blockchain Bitcoin dans le monde.
 
 ![global bitcoin nodes distribution](../../images/GLOBAL_BITCOIN_NODES_DISTRIBUTION.png)
 
@@ -59,8 +53,7 @@ En août 2018, il y avait 9 503 nœuds de traitement de la blockchain bitcoin da
 >
 > Source: bitnodes.earn.com
 
-
-Les services de mining sont disponibles dans le cloud à travers le cloud-mining, ce qui reste néanmoins un modèle plus orienté vers les entreprises ou les grandes organisations que les particuliers.
+Les services de mining sont disponibles dans le cloud à travers le cloud-mining, ce qui reste néanmoins un modèle plus orienté vers les entreprises ou les grandes organisations que vers les particuliers.
 
 ### Concernant la preuve de l’Enjeu:
 
@@ -74,7 +67,7 @@ Dans les crypto-monnaies basées sur les preuves d'enjeux, le créateur du bloc 
 
 En preuve de travail (PoW), l'algorithme récompense les participants qui résolvent des puzzles cryptographiques afin de valider les transactions et de créer de nouveaux blocs (c.-à-d. l'exploitation minière).
 
-Dans les chaînes de blocs publics basées sur les preuves d'enjeux (par exemple, l'implémentation prochaine de Casper d'Ethereum), un ensemble de validateurs se relaient pour proposer et voter sur le bloc suivant, et le poids du vote de chaque validateur dépend de la taille de son dépôt (c'est-à-dire de sa mise). 
+Dans les chaînes de blocs publiques basées sur les preuves d'enjeux (par exemple, l'implémentation prochaine de Casper d'Ethereum), un ensemble de validateurs se relaient pour proposer et voter sur le bloc suivant, et le poids du vote de chaque validateur dépend de la taille de son dépôt (c'est-à-dire de sa mise). 
 
 Les avantages significatifs de la méthode par la preuve de l'enjeu comprennent la sécurité, la réduction des risques de centralisation et l'efficacité énergétique.
 
@@ -84,7 +77,7 @@ Il existe deux types d'algorithmes de preuve par l'enjeu:
 
     Dans la preuve basée sur la chaîne, l'algorithme choisit un validateur au hasard pendant chaque tranche de temps (Ex: toutes les dix secondes), et assigne à ce validateur le droit de créer un bloc unique, et ce bloc doit pointer vers un bloc précédent (normalement le bloc se situant à la fin de la chaîne la plus longue). Ainsi on observe dans le temps une croissance en une chaîne unique.
     
-* Preuve de l'enjeu de type BFT: 
+* Preuve de l'enjeu de type Byzantine-Fault-Tolerant (BFT): 
     Dans la preuve de mise de type BFT, l'attribution se fait au hasard et le validateur se voit doté du droit de proposer des blocs. L'accord sur les blocs canoniques se fait à travers un consensus à plusieurs tours où chaque validateur vote pour un bloc spécifique. À la fin de ce processus, un accord est conclu entre tous les validateurs sur l'appartenance d'un bloc à la chaîne ou son rejet.
 
 ### Avantages de la preuve de l'enjeu par rapport à la preuve de travail: 
@@ -99,15 +92,16 @@ Une plus faible consommation en matière première implique un besoin moindre de
 
 Cela ouvre la porte à une meilleure régulation des dérives qui peuvent toucher la blockchain comme le phénomène du mineur égoïste ou les activités des cartels qui tentent de centraliser la blockchain.
 
-L'introduction de la preuve de l'enjeu introduit une réduction des risques de centralisation, car les économies d'échelle sont beaucoup moins incitées et permettent à de petits acteurs de subsister. 
+La preuve de l'enjeu introduit une réduction des risques de centralisation. Le fait de selectionner aléatoirement un validateur limite l'interêt de développer de grandes infrastructures et permet à de petits acteurs de subsister. 
 
-Augmentation du coût d'une attaque par 51% de manière spectaculaire par rapport à la méthode de la preuve de travail: 
- 
-> «C'est comme si votre ferme ASIC brûlait si vous participiez à une attaque de 51%».
+Un avantage annexe à l'utilisation d'une validation par preuve de l'enjeu est l'augmentation du coût d'une «attaque des 51%» de manière spectaculaire par rapport à la méthode de la preuve de travail. Ainsi la sécurité de la Blockchain est renforcée.
+   
+> «C'est comme si votre ferme ASIC brûlait si vous participiez à une attaque des 51%».
 >
 > Vlad Zamfir, Ethereum Foundation researcher 
 
 ### Infographie comparative des deux méthodes: 
 
-
 ![Infographie comparative des deux méthodes](../../images/infographie-preuve-travail-enjeu.png)
+
+La méthode de validation par preuve de l'enjeu offre des avantages indéniables sur les méthodes actuellement utlisées, meilleure sécurité, moindre consommation, plus grandre décentralisation. Malheureusement les méthodes de validation alternatives sont encore au stade de développement. Les différents problèmes de taille et de fréquence d’ajout des blocks, de finalité du minage et de la concentration des capacités de minages sont autant de challenges que les développeurs devront résoudre afin que ces méthodes puissent être considérées comme des alternatives viables. 
