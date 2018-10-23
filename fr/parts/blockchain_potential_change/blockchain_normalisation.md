@@ -10,15 +10,15 @@ Le Luxembourg, par le biais de l’Ilnas, participe à la création d’une norm
 
 Dans un [livre blanc](../../sources/wp_blockchain_ilnase.pdf), l'organisation espère initier une démarche et s'imposer comme un acteur de la régulation à travers une norme ISO.
 
-L'objectif est d'encadrer la gouvernance des blockchains afin de peser dans les enjeux économiques et écologiques qui la concerne. 
+L'objectif est d'encadrer la gouvernance des blockchains afin de peser dans les enjeux économiques et écologiques qui la concernent. 
 
-Cette normalisation se confronte néanmoins à la volonté d'indépendance et de décentralisation, base fondatrice des technologies blockchains. 
+Cette normalisation se confronte à la volonté d'indépendance et de décentralisation, base fondatrice des technologies blockchains. 
 
 Néanmoins la mise en place d'une norme peut impliquer une meilleure régulation énergétique en imposant par exemple l'origine renouvelable de l'électricité nécessaire au fonctionnement de la technologie.
 
 ### La standardisation pour lutter contre la consommation et l'obsolescence des moyens de productions.
 
-Le terrain de réduction de la consommation énergétique de la blockchain se dessinent lorsque l'on évoque la standardisation ou la normalisation.
+Le terrain de réduction de la consommation énergétique de la blockchain se dessine lorsque l'on évoque la standardisation ou la normalisation.
 
 Il s'agit de la standardisation des algorithmes et celui du matériel polyvalent.
 
@@ -30,13 +30,13 @@ En recherchant un algorithme plus économe pour remplir cette fonction, la block
 
 Afin de miner, les individus ou institutions mettent à disposition du matériel afin de réaliser des calculs. 
 
-Sur certaines blockchains, comme bitcoin, il est inutile et non-rentable de s'essayer à la chose avec du matériel classique et 
+Sur certaines blockchains, comme bitcoin, il est inutile et non-rentable de s'essayer à la chose avec du matériel classique.
 
-Ce mode de calcul est réservé à des blockchains plus récente ou bénéficiant de moins d'engouement.
+Ce mode de calcul est réservé à des Blockchains plus récentes ou bénéficiant de moins d'engouement.
 
-Les mineurs professionnels ont recours à du matériel performant, qui exclut les mineurs amateurs de la course à la rémunération. (Dans le cadre de la preuve de travail seulement.) Ceux-ci étant bien trop lent pour valider les transactions face à ces sprinteurs.
+Les mineurs professionnels ont recours à du matériel performant, qui exclut les mineurs amateurs de la course à la rémunération, dans le cadre de la preuve de travail seulement. Ceux-ci étant bien trop lents pour valider les transactions face à ces sprinteurs.
 
-Le minage est divisé entre deux technologies, les puces dédiées: **FPGA / ASICS** et les puces généralistes **CPU / GPU**.
+Le minage est divisé entre deux technologies, les puces dédiées: **FPGA / ASICS** et les puces généralistes **CPU / GPU**. Les premières ne sont utilisées que dans le calcul cryptographique dans le cadre de la Blockchain, les secondes trouvent une utilisaiton dans les opérations courantes.
 
 Les mineurs ASICS ET FPGA sont majoritairement utilisées dans le calcul SHA256 (Bitcoin), tandis que les CPU / GPU sont plutôt utilisés sur des cryptomonnaies plus récentes.
 

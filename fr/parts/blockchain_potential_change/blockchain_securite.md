@@ -124,15 +124,17 @@ Certains nœuds du réseau auront connaissance du bloc Be et d’autres auront c
 
 Des nouveaux blocs vont alors s’ajouter à la suite de Be et Bh. 
 
-Pour le mineur malhonnête, l'avantage demeure dans le fait de ne pas divulguer le bloc Be lui donne un avantage stratégique vis-à-vis du reste des utilisateurs du réseau pour la recherche de la solution suivante, car chaque bloc validé est relié aux blocs précédents. 
+Pour le mineur malhonnête, l'avantage demeure dans l'acte de ne pas divulguer le bloc Be. Cela lui donne un avantage stratégique vis-à-vis du reste des utilisateurs du réseau pour la recherche de la solution suivante, car chaque bloc validé est relié aux blocs précédents.
 
 La création simultanée de deux blocs provoque ce qu’on appelle une «bifurcation», dès lors la chaîne contenant sera conservée car la chaîne contenant le bloc Be sera plus longue.
+
+Le mineur malhonnête disqualifie ses concurrents en les faisant travailler à perte, leurs rendements s'effondrant rapidement. 
 
  ![illustration d'une bifurcation](../../images/illustration_bifurcation.png)
  > Illustration d'une bifurcation
 
 {% hint %}
 
-Ce genre de stratégie invite à repenser la question de la normalisation de la Blockchain.
+Ce genre de stratégie invite à repenser la question de la normalisation de la Blockchain et les techniques de consensus pour se prémunir contre ces pratiques délétères.
 
 {% endhint %}
