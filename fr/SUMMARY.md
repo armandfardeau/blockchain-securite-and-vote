@@ -33,7 +33,7 @@
     * [1. Gouvernance des entreprises](parts/use_cases/gouvernance_des_entreprises.md)
     * [2. Management collaboratif de projet](parts/use_cases/management_collboratif.md)
     * [3. Démocratie participative](parts/use_cases/democratie_participative.md)
-    * [4. Vie associative et gestion des collectives.](parts/use_cases/vie_associative_et_gestion_des_collectivites.md)
+    * [4. Vie associative et gestion des collectivités.](parts/use_cases/vie_associative_et_gestion_des_collectivites.md)
     
 * [Conclusion](conclusion.md)
  

@@ -1,4 +1,4 @@
-## Vie associative et gestion des collectives.
+## Vie associative et gestion des collectivités.
 ---
 
 ### La participation du grand public dans la gouvernance des associations
