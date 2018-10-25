@@ -67,7 +67,7 @@ Lorsque l'on compare l'augmentation de la puissance de calcul des GPUs par rappo
 >
 > Comparaison entre le nombre d'opérations en virgule flottante par seconde ( FLOPS ) des CPUs ( architecture X86 ) et les GPUs NVIDIA
 
-Sur cette dernière illustration, nous pouvons que la puissance de calcul des GPUs sur certaines opérations est spéctaculairement plus importante que les CPUs, or, dans le cadre de la Blockchain, les mineurs ASICS ET FPGA sont bien plus performants que les GPUs. 
+Sur cette dernière illustration, nous pouvons constater que la puissance de calcul des GPUs sur certaines opérations est spéctaculairement plus importante que les CPUs, or, dans le cadre de la Blockchain, les mineurs ASICS ET FPGA sont bien plus performants que les GPUs. 
 
 D'autres contraintes reposent également sur le choix du matériel, C'est ainsi que certains algorithmes nécessitant une importante utilisation de la mémoire rendaient les mineurs ASICS peu compétitif car les composants mémoires sont particulièrement couteux.
 
