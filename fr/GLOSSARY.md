@@ -36,7 +36,7 @@ Source: [School of Computing Science, Newcastle University UK](./sources/A_Smart
 
 ## Ethereum
 
-Définition: Ethereum est une plate-forme décentralisée qui gère des contrats intelligents (smart-contract): des applications qui fonctionnent exactement comme programmé sans aucune possibilité de temps d'arrêt, de censure, de fraude ou d'interférence de tiers.
+Définition: Ethereum est une plate-forme décentralisée qui gère des contrats intelligents (smart-contract): des applications qui fonctionnent exactement comme programmée sans aucune possibilité de temps d'arrêt, de censure, de fraude ou d'interférence de tiers.
 Source: [Ethreum project](https://www.ethereum.org/)
 
 ## RSCOIN
@@ -47,7 +47,7 @@ Source: [Rscoin project](https://iohk.io/projects/rscoin/)
 ## registre distribué
 
 Un registre distribué (aussi appelé registre partagé ; en anglais, distributed ledger ou shared ledger) est un registre simultanément enregistré et synchronisé sur un réseau d'ordinateurs, qui évolue par l'addition de nouvelles informations préalablement validées par l'entièreté du réseau et destinées à ne jamais être modifiées ou supprimées.
-Un registre distribué n'a ni administrateur central ni stockage de données centralisé.
+Un registre distribué n'a ni administrateur central ni stockage centralisé de données.
 
 ## re publica
 
@@ -75,7 +75,7 @@ Auteur: Jean-Paul Delahaye
 Source: [ Pour la Science - n° 449](http://www.lifl.fr/~jdelahay/pls/2015/256.pdf)
 
 ## Adam Back, Inventeur du protocole Hashcash
-Hashcash est un système de preuve du travail utilisé pour limiter les spams et les attaques par déni de service, et plus récemment. Hashcash a été proposé en 1997 par Adam Back.
+Hashcash est un système de preuve du travail utilisé pour limiter les spams et les attaques par déni de service. Il a été proposé en 1997 par Adam Back.
 
 ## mining
 Miner des cryptomonnaies signifie réaliser des calculs cryptographiques pour vérifier la chaîne de blocs. On désigne par la présente à la fois la machine, la pratique, et la personne ou l'institution effectuant l'opération.
@@ -114,14 +114,14 @@ ConsenSys est un studio de production d'entreprise qui construit des application
 Une preuve de concept (de l'anglais: proof of concept, POC) ou démonstration de faisabilité, est une réalisation expérimentale concrète et préliminaire, courte ou incomplète, illustrant une certaine méthode ou idée afin d'en démontrer la faisabilité.
 
 ## Art. L.225-36-1 C. com.
-
+Equilibre des pouvoirs et fonctionnement des organes dirigeants.
 [Art. L.225-36-1 C. com.](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=D169450FEC128226FE79BFED9386AD79.tpdila08v_1?cidTexte=JORFTEXT000000223114&idArticle=LEGIARTI000006516868&dateTexte=20160602&categorieLien=id#LEGIARTI000006516868)
 
 ## Solidity
 Solidity est un langage de programmation orienté contrat pour la rédaction de contrats intelligents. Il est utilisé pour la mise en œuvre de contrats intelligents sur différentes plates-formes de la chaîne de blocs. Il a été développé par Gavin Wood, Christian Reitwiessner, Alex Beregszaszi, Liana Husikyan, Yoichi Hirai et plusieurs anciens collaborateurs d'Ethereum pour permettre la rédaction de contrats intelligents sur des plateformes à chaînes multiples comme Ethereum.
 
 ## turing-complete
-Un système complet de Turing signifie un système dans lequel un programme peut être écrit qui trouvera une réponse et pourrait être utilisé pour résoudre tout problème de calcul. Sans que rien ne mentionne le temps nécessaire à l'exécution de cette tâche.
+Un système complet de Turing signifie un système dans lequel un programme peut être écrit et qui trouvera une réponse à un problème donné.
 
 ## Vlad Zamfir, Ethereum Foundation researcher
 Vlad Zamfir est chercheur à la Fondation Ethereum.
@@ -170,7 +170,7 @@ Titre: The Social Smart Contract
 Source: [Whitepaper](https://github.com/DemocracyEarth/paper#Paper)
 
 ## démocratie liquide
-La démocratie liquide, aussi appelée démocratie délégative, est une forme de gouvernement démocratique où le pouvoir de vote est confié à un délégué plutôt qu'à un représentant.
+La démocratie liquide, aussi appelée démocratie délégative, est une forme de gouvernement démocratique où le pouvoir de vote est confié à un délégué plutôt qu'à un représentant. Le déléguataire est soumis au contrôle des délégants. 
 
 ## La signature de cercle 
 La signature de cercle est un procédé cryptographique permettant à une personne de signer électroniquement de façon anonyme un message ou un document au nom d’un « cercle ». Les membres de ce cercle sont choisis par l’auteur de la signature et ne sont pas nécessairement informés de leur implication dans la création de la signature électronique. La seule contrainte est qu’ils doivent tous avoir une clef cryptographique publique.
