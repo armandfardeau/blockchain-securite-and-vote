@@ -187,3 +187,6 @@ Source: [SAGE](http://sk.sagepub.com/reference/processes/n39.xml)
 
 ## mineur
 un mineur est un individu vérifiant les transactions et opérations effectuées par les utilisateurs sur le réseau. Il les inscrit ensuite sur la blockchain (registre public). La vérification des transactions requiert de la puissance de calcul. Dans la mesure où le code informatique de la blockchain est open-source, devenir mineur est ouvert à tous.
+
+## conjectures de Moore
+Les conjectures de Moore sont des lois empiriques qui ont trait à l'évolution de la puissance de calcul des ordinateurs et de la complexité du matériel informatique.
