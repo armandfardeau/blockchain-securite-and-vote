@@ -2,7 +2,7 @@
 
 ---
 
-*Sous l'aimable direction de Stéphane Dalbera, Atopos*.
+_*Sous l'aimable direction de Stéphane Dalbera, Atopos*_.
 
 
 > Ce qu'il y a d'intéressant à propos de la cryptographie, c'est qu'on peut commencer à créer des modèles institutionnels qui ne reposent plus sur la faillibilité de l'autorité humaine mais qui sont strictement basés sur le code, les mathématiques et le cryptage. On peut commencer à construire une réalité institutionnelle où les freins et contrepoids sont protégés par des promesses fermes, des constructions mathématiques fondamentales qui sont simplement impossibles à briser en raison des propriétés inhérentes au fonctionnement des informations.
@@ -17,7 +17,7 @@ Failles de sécurités, atteintes à la vie privée, manipulations de l’opinio
 Le temps de la croyance aveugle dans les bienfaits de la révolution internet et des fantasmes semble révolu.
 
 Cette crise de confiance n'est pas propre au secteur numérique, elle se diffuse dans toutes
-les strates de nos sociétés. Elle se manifeste dans le champ politique, dans le champ médiatique si bien que l'ère dans laquelle nous vivons porte désormais le nom d'ère post-vérité (*post-factual era*).
+les strates de nos sociétés. Elle se manifeste dans le champ politique, dans le champ médiatique si bien que l'ère dans laquelle nous vivons porte désormais le nom d'ère post-vérité (_*post-factual era*_).
 
 Cette crise a déjà de nombreuses conséquences dans le champ politique ainsi que dans le champ économique où la confiance est la clé de voûte de l'investissement et de l'adhésion.
 

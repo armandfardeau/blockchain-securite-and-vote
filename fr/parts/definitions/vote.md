@@ -1,7 +1,7 @@
 # Définition: vote
 ---
 
-Le vote (provenant du latin votum signifiant «vœu») désigne une méthode permettant à un groupe une prise de décision commune. 
+Le vote (du latin _*votum*_ signifiant «vœu») désigne une méthode permettant à un groupe une prise de décision commune. 
 
 Les organisations formelles ou informelles, de toute nature (économiques, politiques, associatives, etc.), ont recours à cette pratique. La pratique du vote vise à donner une légitimité à la décision en montrant qu'elle ne vient pas d'un individu isolé. Avant que le vote proprement dit n'ait lieu, il est fréquent qu'un temps de discussion ou de débat soit ménagé pour permettre à chacun des votants d'exposer ou de prendre connaissance des arguments, afin de motiver au mieux sa décision.
 
