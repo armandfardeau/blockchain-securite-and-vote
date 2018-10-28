@@ -3,9 +3,7 @@
 
 Il y a des passes périlleuses dans toute révolution technologique.
 Certaines personnes dans l'industrie des blockchains ont souligné que la chaîne de blocs s'est hypertrophiée, alors qu'en réalité, la technologie a ses limites et est inappropriée pour de nombreuses interactions numériques.
-Mais grâce à la recherche et au développement, aux succès et aux échecs, aux essais et aux erreurs, nous savons quels sont les problèmes et les limites actuelles des blockchains. 
-
-[//]: # (TODO: Check if "actuelles" is correct)
+Mais grâce à la recherche et au développement, aux succès et aux échecs, aux essais et aux erreurs, nous savons quels sont les problèmes et les limites actuels des blockchains. 
 
 ### Complexité
 La technologie blockchain implique un vocabulaire entièrement nouveau.

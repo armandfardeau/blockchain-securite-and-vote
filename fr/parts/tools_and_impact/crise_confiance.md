@@ -40,8 +40,6 @@ Aujourd'hui il apparait comme un défi pour les entités s'adressant à ces cito
 
 Comme nous pouvons le voir sur l'infographie ci-dessus, les grandes entreprises privées, les banques, les syndicats, les médias et les partis politiques sont parmi les moins dignes de confiance pour le grand public.
  
-[//]: # (TODO: Check if correct)
- 
 Nous traiterons dans ce mémoire essentiellement des institutions publiques, des entreprises privées et des associations.
 
 Il serait vain de tenter de lister toutes les manifestations de cette crise de confiance ni même ses origines qui sont sujettes à controverses. Néanmoins, il convient de constater que celle-ci existe indubitablement, en témoignent les nombreux articles de presse sur ce sujet, et que son existence impose de repenser profondément le rapport au monde des entreprises, associations, et États en intégrant ses nouveaux impératifs de transparence.

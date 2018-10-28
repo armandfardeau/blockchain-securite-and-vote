@@ -30,15 +30,13 @@ En résumé les smart-contrats permettent d'engager des accords entre deux parti
 
 ### Limites
 
-Se pose alors la question de la validation des conditions d'exécutions. En effet, puisqu'elle interagit avec le monde physique, le smart-contract doit parfois disposer de capacitées matérielles. Pour cela deux possibilités:
-
-[//]: # (TODO: Check if correct)
+Se pose alors la question de la validation des conditions d'exécutions. En effet, puisqu'il interagit avec le monde physique, le smart-contract doit parfois disposer de capacitées matérielles. Pour cela deux possibilités:
 
 * Condition d'exécution interne:
     Lorsque les conditions d'executions ne nécessitent pas une interaction physique avec l'environnement, les conditions sont inscrites dans la blockchain. Le contrat est exécuté dès que les conditions sont remplies et que la date d'exécution est atteinte.
 
 * Condition d'exécution externe: 
-   Lorsque les conditions d'exécution sont extérieures à la blockchain comme la réalisation d’une prestation, survenance d’un événement… etc. Dès lors, le recours à un tiers de confiance, appelé  «oracle» est nécessaire. Il lui est délégué l'observation des ces évenements étrangers et l'écriture des conditions dans la blockchain.
+   Lorsque les conditions d'exécution sont extérieures à la blockchain comme la réalisation d’une prestation, survenance d’un événement… etc, le recours à un tiers de confiance, appelé  «oracle» est nécessaire. Il lui est délégué l'observation de ces évenements étrangers et l'écriture des conditions dans la blockchain.
 
 {% hint style='danger' %}
 

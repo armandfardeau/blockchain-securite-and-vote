@@ -1,15 +1,11 @@
 ## Une aspiration à la transparence
 ---
 
-Pour répondre à la problématique de la transparence, une solution semble apparaître: «montrer pattes blanche».
-
-[//]: # (TODO: Check if correct)
+Pour répondre à la problématique de la transparence, une solution semble apparaître: «montrer patte blanche».
 
 Les entreprises engagées dans des actions de communications doivent prendre conscience qu'elles sont hyper-scrutées et qu'elles doivent engager das actions pour prouver leur bonne-foi.
 
 Nous entendons par là de faire usage le plus possible de la preuve, la plus irréfutable possible et d'instaurer la transparence comme un principe fondamental de la communication nouvelle des entreprises, des états et des entités émettrices de messages envers le public.
-
-[//]: # (TODO: Check if correct)
 
 Pour accompagner cette restauration de la confiance, des outils technologiques ont vu le jour: plateforme participative, management holacratique, consultation publique. Le besoin en transparence est d'ailleurs bien compris par certains acteurs, par exemple, ces outils font partie des propositions attendues par les collectivités dans le cadre des grands appels à projets urbains tels que "Inventons la Métropole du Grand Paris".
 

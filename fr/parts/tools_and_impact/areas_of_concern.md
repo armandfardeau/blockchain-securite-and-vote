@@ -13,8 +13,6 @@ Par exemple, la participation aux élections nationales en France voit sa partic
 >
 > L'abstention en France depuis 2002, source INSEE
 
-[//]: # (TODO: Check if correct)
-
 {% hint %}
 
 La blockchain, parce qu'elle supprime en partie le besoin de confiance, pourrait rassurer le grand public dans son acte de participation et pourrait constituer un moteur de ré-engagement de ce dernier.
@@ -47,11 +45,9 @@ Les décisions sont prises par le vote au sein d'un conseil d'administration, en
     
 #### Le vote dans la consultation publique
 
-[//]: # (TODO: Check if correct)
-
 * Dans le cadre de la pétition: La pétition consiste à apporter son soutien à une cause en la ratifiant. Bien qu'elle n'appartienne pas directement au vote, elle partage avec ce dernier de nombreux attributs qui font que nous pouvons traiter les deux sujets conjointement sans perdre en pertinence.
 
-* Dans le cadre de l'administration du bien public: L'administration du bien public en toute transparence est une préoccupation majeure de ces dernières années. Elle se pose à deux niveaux ; le premier concerne la prise de décision  et  implique la concertation publique. Le second implique la gestion continue du bien et sa gouvernance. Les biens publics sont multiples et les propositions les concernant peuvent provenir des citoyens mais également des institutions.
+* Dans le cadre de l'administration du bien public: L'administration du bien public en toute transparence est une préoccupation majeure de ces dernières années. Elle se pose à deux niveaux ; le premier concerne la prise de décision  et implique la concertation. Le second implique la gestion continue du bien et sa gouvernance. Les biens publics sont multiples et les propositions les concernant peuvent provenir des citoyens mais également des institutions.
 
 #### Le vote dans la gestion collaborative:
 
@@ -78,8 +74,6 @@ Le recours a la blockchain dans ces méthodes de prises de décisions par le vot
 * Transparence des décisions et des processus.
 
 ### En synthèse
-
-[//]: # (TODO: Check if correct)
 
 | Acteur / Forme de vote présent | Conseil d'administration | Management Participatif |  Consultation publique | Élection des administrateurs et représentants | 
 |:------:|:------------------------:|:-----------------------:|:----------------------:|:--------------------------------------------:|
