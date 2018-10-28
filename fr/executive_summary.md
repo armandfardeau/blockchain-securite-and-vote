@@ -13,7 +13,7 @@ La Blockchain apparaît comme une solution potentielle à ces problématiques, l
 
 La Blockchain est un registre distribué dans lequel les informations sont stockées sous forme de blocs et dont la validation est soumise à différentes méthodes cryptographiques et de consensus. Elle offre des garanties en matière de sécurité et ses limites sont identifiées. 
 
-Si de nombreuses expériences et preuve de concept démontrent l'intérêt du grand public pour ces questions, les pistes prospectives sont encore plus nombreuse et la Blockchain pourrait être le moteur de ce changement. Ces expérimentations permettent d'envisager des entreprises impliquant le consommateur, des associations décentralisées dont les actions sont soumise au vote permanent de leurs soutiens ou bien encore des institutions publiques pilotées en temps réel par les citoyens.
+Si de nombreuses expériences et preuve de concept démontrent l'intérêt du grand public pour ces questions, les pistes prospectives sont encore plus nombreuse et la Blockchain pourrait être le moteur de ce changement. Ces expérimentations permettent d'envisager des entreprises impliquant le consommateur, des associations décentralisées dont les actions sont soumise au vote permanent de leurs soutiens ou encore des institutions publiques pilotées en temps réel par les citoyens.
 
 De nombreux défis et problèmes rendent la Blockchain inutilisable raisonnablement en l'état à grande échelle, en particulier le défi énergétique. 
 

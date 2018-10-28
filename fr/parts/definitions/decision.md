@@ -3,7 +3,7 @@
 
 La prise de décision collective est une situation où des individus sont rassemblés en un groupe pour résoudre des problèmes.
 
-Selon l'idée de synergie, les décisions prises collectivement ont tendance à être plus efficaces que les décisions prises individuellement. Cependant, il existe des situations dans lesquelles les décisions prises en groupe aboutissent à un mauvais jugement.
+Les décisions prises collectivement ont tendance à être plus efficaces que les décisions prises individuellement. Cependant, il existe des situations dans lesquelles les décisions prises en groupe aboutissent à un mauvais jugement.
 
 En psychologie sociale, la prise de décision collective peut être définie comme:
 > «une convergence d'interactions cognitives et visuelles, planifiées ou opportunistes, où des personnes acceptent de se rassembler pour un objectif commun, dans une période de temps définie, […] dans le but de prendre des décisions» 
