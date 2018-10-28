@@ -86,7 +86,7 @@ En preuve de travail (PoW), l'algorithme récompense les participants qui résol
 ## proof-of-stake
 Dans les blockchains publiques basées sur la preuve de mise en jeu (par exemple, l'implémentation prochaine d'Ethereum Casper), un ensemble de validateurs se relaient pour proposer et voter sur le bloc suivant, et le poids du vote de chaque validateur dépend de la taille de son dépôt (c'est-à-dire la mise en jeu).
 
-## John Biggs, TechCrunch
+## Leonardo Gammar dans «La Sierra Leone vient d'organiser les premières élections basées sur une blockchain.»
 Titre: Sierra Leone just ran the first blockchain-based election
 Auteur: John Biggs
 Source: [Techcrunch](https://techcrunch.com/2018/03/14/sierra-leone-just-ran-the-first-blockchain-based-election/)
