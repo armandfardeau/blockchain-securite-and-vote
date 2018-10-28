@@ -23,7 +23,7 @@ Il existe deux types de clés:  les symétriques et les asymétriques.
 Les premières sont connues depuis l'antiquité et les secondes ont vu le jour dans les années 1970.
 
 La seconde est essentielle à la technologie blockchain car elle permet de s'assurer 
-de l'authenticité de l'expéditeur du message. L'expéditeur utilise sa clef privée pour coder un message que le destinataire peut décoder avec la clef publique de l'expéditeur. La méthode du chiffrement symétrique a l'avantage d'être peu coûteuse en puissance de calcul, et de demeurer très sûre. Malheureusement elle présente des limites:
+de l'authenticité de l'expéditeur du message. L'expéditeur utilise sa clé privée pour coder un message que le destinataire peut décoder avec la clé publique de l'expéditeur. La méthode du chiffrement symétrique a l'avantage d'être peu coûteuse en puissance de calcul, et de demeurer très sûre. Malheureusement elle présente des limites:
 
 > L'inconvénient est que pour chiffrer un message de n bits, il faut au préalable avoir échangé une clé de n bits avec le destinataire du message, et cela par une voie absolument sûre, sinon chiffrer devient inutile. 
 
@@ -31,20 +31,20 @@ de l'authenticité de l'expéditeur du message. L'expéditeur utilise sa clef pr
 
 À cette méthode on préférera le chiffrement asymétrique qui permet de contourner l'obstacle de la clé commune aux parties prenantes.
 En effet, dans le cadre du chiffrement asymétrique, deux clés sont présentes: 
-la privée et la publique. La clef qui est choisie privée n'est jamais transmise à personne alors que la clef qui est choisie publique est transmissible sans restriction.
+la privée et la publique. La clé qui est choisie privée n'est jamais transmise à personne alors que la clé qui est choisie publique est transmissible sans restriction.
 
 Cette technique permet:
 
 * ##### Le chiffrement
  
-    L'un des rôles de la clef publique est de permettre le chiffrement. C'est donc cette clef qu'utilisera un premier sujet pour envoyer des messages chiffrés à un second. L'autre clef — l'information secrète — sert à déchiffrer. Ainsi, le second sujet, et lui seul, peut prendre connaissance des messages du premier sujet. 
+    L'un des rôles de la clé publique est de permettre le chiffrement. C'est donc cette clé qu'utilisera un premier sujet pour envoyer des messages chiffrés à un second. L'autre clé — l'information secrète — sert à déchiffrer. Ainsi, le second sujet, et lui seul, peut prendre connaissance des messages du premier sujet. 
 
-    **La connaissance d'une clef ne permet pas de déduire l'autre clé.**
+    **La connaissance d'une clé ne permet pas de déduire l'autre clé.**
 
 * ##### L'Authentification de l'origine
 
-    L'utilisation par l'un des sujets de sa clef privée sur le condensat d'un message permettra à ce dernier de vérifier que le message provient bien de l'interlocuteur attendu et de prévenir l'usurpation: 
-    il appliquera la clef publique que son interlocuteur lui a fournie sur le condensat (condensat chiffré avec la clef privée de l'autre sujet) et retrouve donc le condensat original du message.
+    L'utilisation par l'un des sujets de sa clé privée sur le condensat d'un message permettra à ce dernier de vérifier que le message provient bien de l'interlocuteur attendu et de prévenir l'usurpation: 
+    il appliquera la clé publique que son interlocuteur lui a fournie sur le condensat (condensat chiffré avec la clé privée de l'autre sujet) et retrouve donc le condensat original du message.
     
     Il lui suffira donc de comparer le condensat ainsi obtenu et le condensat réel du message pour savoir si son interlocuteur est bien celui qu'il prétend. C'est sur ce mécanisme notamment que fonctionne la signature numérique.
 

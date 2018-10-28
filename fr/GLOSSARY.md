@@ -173,7 +173,7 @@ Source: [Whitepaper](https://github.com/DemocracyEarth/paper#Paper)
 La démocratie liquide, aussi appelée démocratie délégative, est une forme de gouvernement démocratique où le pouvoir de vote est confié à un délégué plutôt qu'à un représentant. Le déléguataire est soumis au contrôle des délégants. 
 
 ## La signature de cercle 
-La signature de cercle est un procédé cryptographique permettant à une personne de signer électroniquement de façon anonyme un message ou un document au nom d’un « cercle ». Les membres de ce cercle sont choisis par l’auteur de la signature et ne sont pas nécessairement informés de leur implication dans la création de la signature électronique. La seule contrainte est qu’ils doivent tous avoir une clef cryptographique publique.
+La signature de cercle est un procédé cryptographique permettant à une personne de signer électroniquement de façon anonyme un message ou un document au nom d’un « cercle ». Les membres de ce cercle sont choisis par l’auteur de la signature et ne sont pas nécessairement informés de leur implication dans la création de la signature électronique. La seule contrainte est qu’ils doivent tous avoir une clé cryptographique publique.
 
 ## Zcash à propos de zk-SNARKS
 Source: [site zcash](https://z.cash/technology/zksnarks/)

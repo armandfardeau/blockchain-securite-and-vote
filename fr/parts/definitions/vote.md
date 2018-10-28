@@ -56,7 +56,7 @@ scrutins, à l'aide de systèmes informatiques. Ce terme générique relève en 
     > Une machine à voter électronique Française, source Mairie de Saint-Pol-sur-Mer.
 
 * Vote par clé: 
-Il consiste à voter à l'aide d'une clef physique sur un pupitre dédié.
+Il consiste à voter à l'aide d'une clé physique sur un pupitre dédié.
 
 ---
 
