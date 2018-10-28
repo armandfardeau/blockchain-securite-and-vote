@@ -38,17 +38,17 @@ Parce que les protocoles de la chaîne de blocs offrent la possibilité de numé
 Ces désaccords sont une caractéristique notable de l'industrie de la chaîne de blocs et s'expriment le plus clairement autour de la question ou de l'événement de «bifurquer» une chaîne de blocs, un processus qui implique la mise à jour du protocole de la chaîne de blocs lorsqu'une majorité des utilisateurs d'une chaîne de blocs l'ont acceptée.
 Ces débats peuvent être très techniques et parfois passionnants, mais ils sont instructifs pour ceux qui s'intéressent au mélange de démocratie, de consensus et de nouvelles possibilités d'expérimentation de la gouvernance que la technologie de la chaîne de blocage ouvre.
 
-### Dans quel cas se doter d'une Blockchain ?
-Un organigramme d'aide à la décision sur la mise en place d'une Blockchain est proposé par _*Julien Maldonato et Rémi Foult dans La Blockchain, panorama des technologies existantes*_. 
+### Dans quel cas se doter d'une blockchain ?
+Un organigramme d'aide à la décision sur la mise en place d'une blockchain est proposé par _*Julien Maldonato et Rémi Foult dans La Blockchain, panorama des technologies existantes*_. 
 
 ![Avez-vous besoin d’une Blockchain ? ](../../images/flowchart_oad_blockchain.png)
  
-> Avez-vous besoin d’une Blockchain ?
+> Avez-vous besoin d’une blockchain ?
 >
 > Julien Maldonato et Rémi Foult, La Blockchain, panorama des technologies existantes
 
 {% hint %}
 
-Concernant la question de la prise de décision collective par le vote, ces limites montrent que la Blockchain ne sera pas la réponse providentielle et invite à mesurer l'opportunité comparativement d'autres méthodes éprouvées.
+Concernant la question de la prise de décision collective par le vote, ces limites montrent que la blockchain ne sera pas la réponse providentielle et invite à mesurer l'opportunité comparativement d'autres méthodes éprouvées.
 
 {% endhint %}

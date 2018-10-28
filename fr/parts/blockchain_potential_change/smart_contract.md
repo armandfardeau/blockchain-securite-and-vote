@@ -35,14 +35,14 @@ Se pose alors la question de la validation des conditions d'exécutions. En effe
 [//]: # (TODO: Check if correct)
 
 * Condition d'exécution interne:
-    Lorsque les conditions d'executions ne nécessitent pas une interaction physique avec l'environnement, les conditions sont inscrites dans la Blockchain. Le contrat est exécuté dès que les conditions sont remplies et que la date d'exécution est atteinte.
+    Lorsque les conditions d'executions ne nécessitent pas une interaction physique avec l'environnement, les conditions sont inscrites dans la blockchain. Le contrat est exécuté dès que les conditions sont remplies et que la date d'exécution est atteinte.
 
 * Condition d'exécution externe: 
-   Lorsque les conditions d'exécution sont extérieures à la Blockchain comme la réalisation d’une prestation, survenance d’un événement… etc. Dès lors, le recours à un tiers de confiance, appelé  «oracle» est nécessaire. Il lui est délégué l'observation des ces évenements étrangers et l'écriture des conditions dans la blockchain.
+   Lorsque les conditions d'exécution sont extérieures à la blockchain comme la réalisation d’une prestation, survenance d’un événement… etc. Dès lors, le recours à un tiers de confiance, appelé  «oracle» est nécessaire. Il lui est délégué l'observation des ces évenements étrangers et l'écriture des conditions dans la blockchain.
 
 {% hint style='danger' %}
 
-La principale limitation inhérente à la technologie Blockchain est la lenteur du réseau, contrepartie de sa sécurité. 
+La principale limitation inhérente à la technologie blockchain est la lenteur du réseau, contrepartie de sa sécurité. 
 
 {% endhint %}
 

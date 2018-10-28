@@ -23,6 +23,6 @@ Pour cela, ces systèmes doivent être conçus de manière ouverte (Open Source)
 
 ### La confiance partagée:  l'émergence du «trustless»
  
-La blockchain intègre ces attentes et les dépasse: elle pose le concept de non-nécessité de la confiance (trustlessness). À l'origine, ce mot désignait une personne ou une ressource à laquelle on ne pouvait pas faire confiance. Mais dans le cadre de la Blockchain, le terme «sans confiance» (trustless) signifie qu'il existe des mécanismes en place par lesquels toutes les parties dans le système peuvent parvenir à un consensus sur une vérité canonique. 
+La blockchain intègre ces attentes et les dépasse: elle pose le concept de non-nécessité de la confiance (trustlessness). À l'origine, ce mot désignait une personne ou une ressource à laquelle on ne pouvait pas faire confiance. Mais dans le cadre de la blockchain, le terme «sans confiance» (trustless) signifie qu'il existe des mécanismes en place par lesquels toutes les parties dans le système peuvent parvenir à un consensus sur une vérité canonique. 
 
 Le pouvoir et la confiance sont répartis (ou partagés) entre les parties prenantes du réseau (par exemple, les promoteurs, les mineurs et les consommateurs), plutôt que concentrés dans une seule personne ou entité (par exemple, les banques, les gouvernements et les institutions financières).

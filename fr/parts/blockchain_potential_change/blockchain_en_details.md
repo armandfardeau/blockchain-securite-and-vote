@@ -82,7 +82,7 @@ Ceci implique bien entendu que le nombre de messagers honnêtes soit supérieur 
 
 ### Les différentes méthodes de consensus:
 
-| Type de consensus | Description | Avantages | Inconvénients | Type de Blockchain|
+| Type de consensus | Description | Avantages | Inconvénients | Type de blockchain|
 |:-----------------:|-------------|-----------|---------------|-------------------|
 | Preuve de travail (PoW) | Les ordinateurs des mineurs sont mis à disposition pour résoudre un problème mathématique compliqué. Le 1er qui trouve une solution gagne la récompense du prochain bloc de la chaîne. | Sécurisé, éprouvé et robuste. | Très consommateur d’électricité et de matériel informatique. | Publique
 | Preuve de l'enjeu (PoS) | Les validateurs de transactions doivent mettre en gage la possession de cryptomonnaie pour recevoir une récompense. Si un nœud est malveillant, il peut perdre sa mise en gage au profit des validateurs honnêtes. | Peu consommateur en ressources énergétiques. | Peu testé à grande échelle. | Publique |

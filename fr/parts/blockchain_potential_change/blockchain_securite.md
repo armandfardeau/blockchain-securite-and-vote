@@ -1,9 +1,9 @@
 ## Quid de la sécurité de la blockchain ?
 ---
 
-### Les garanties de la Blockchain en matière de sécurité:
+### Les garanties de la blockchain en matière de sécurité:
 
-Il n'existe pas de technologie sûre dans la mesure où la sécurité et la sureté sont un idéal, pas un absolu. Mais il est possible de s'approcher de cet idéal, on peut d'ailleurs considérer que la Blockchain répond à ces impératifs dans la mesure où elle assure les points suivants:
+Il n'existe pas de technologie sûre dans la mesure où la sécurité et la sureté sont un idéal, pas un absolu. Mais il est possible de s'approcher de cet idéal, on peut d'ailleurs considérer que la blockchain répond à ces impératifs dans la mesure où elle assure les points suivants:
 
  * La disponibilité: Les données étant distribuées et décentralisées, elles sont disponibles tant qu'un nœud est en mesure de transmettre le registre. 
  
@@ -13,25 +13,25 @@ Il n'existe pas de technologie sûre dans la mesure où la sécurité et la sure
  
   Néanmoins cette confidentialité peut être rendue possible par l'implémentation d'un système de preuve à divulgation nulle de connaissance. Les protocoles sans connaissance permettent le transfert de ressources à travers un réseau distribué, peer-to-peer blockchain, en toute confidentialité. Dans les transactions régulières en chaîne de blocs, lorsqu'un actif est envoyé d'une partie à l'autre, les détails de cette transaction sont visibles pour toutes les autres parties du réseau. En revanche, dans une transaction sans connaissance, les autres parties ne savent pas qu'une transaction valable a eu lieu, mais aucune information sur l'émetteur, le destinataire, la catégorie d'immobilisations et la quantité n'est divulguée. [Voir Gestion de l'identification et confidentialité](./identity_and_confidentiality.md)
  
- * La traçabilité: Parce qu'elle est basée sur un empilement de blocs cryptographique, la Blockchain permet d'enregistrer l'intégralité des transactions et de remonter au bloc zéro, assurant la meilleure des traçabilités.
+ * La traçabilité: Parce qu'elle est basée sur un empilement de blocs cryptographique, la blockchain permet d'enregistrer l'intégralité des transactions et de remonter au bloc zéro, assurant la meilleure des traçabilités.
  
  * L'authentification: Pour s'assurer de la bonne identité d'une transaction, l'émetteur signe celle-ci à l'aide de sa clé privée qui «tant qu'elle n'est pas connue assure la véracité de la transaction». 
  
- * La non-répudiation et l'imputation: Par le biais de la validation basée sur le consensus, la Blockchain permet nativement la non-répudiation des données. Quant à l'imputation, chaque mineur certifiant une transaction est authentifié sur le réseau, il est donc possible d'identifier un mineur fautif et de le disqualifier.
+ * La non-répudiation et l'imputation: Par le biais de la validation basée sur le consensus, la blockchain permet nativement la non-répudiation des données. Quant à l'imputation, chaque mineur certifiant une transaction est authentifié sur le réseau, il est donc possible d'identifier un mineur fautif et de le disqualifier.
 
 
 ---
-### Les menaces qui pèsent sur la Blockchain en matière de sécurité:
+### Les menaces qui pèsent sur la blockchain en matière de sécurité:
 
 Selon Patricia Egger et Dusko Karaklajic dans La sécurité du blockchain, des menaces pèsent sur l'écosystème naissant en raison de l'immaturité et la complexité de la technologie.
 
-En effet, les nombreux algorithmes de consensus disponibles, les types de Blockchain et protocoles cryptographiques complexes sous-jacents rendent la technologie difficile à appréhender.
+En effet, les nombreux algorithmes de consensus disponibles, les types de blockchain et protocoles cryptographiques complexes sous-jacents rendent la technologie difficile à appréhender.
 
-L'absence de normes et de réglementations sur la technologie du Blockchain constitue également un risque. Ces vides juridiques sont un terreau fertile au piratage et à la manipulation frauduleuse rendent la technologie encore peu crédible pour des usages sérieux. 
+L'absence de normes et de réglementations sur la technologie du blockchain constitue également un risque. Ces vides juridiques sont un terreau fertile au piratage et à la manipulation frauduleuse rendent la technologie encore peu crédible pour des usages sérieux. 
 
-Le risque le plus important demeure la croyance dans la sécurisation absolue autour de la Blockchain bien qu'elle repose sur des mécanismes cryptographie fiables et éprouvés. Cette sécurisation ne sera jamais complète par nature: les protocoles cryptographiques ont leurs limites et la sécurité globale intègre également les éléments périphériques, le risque humain est ainsi toujours présent. En ce dernier point, la Blockchain apporte une nouvelle manière de traiter certaines données mais n'affranchit pas des démarches classiques en matière de sécurité des systèmes d'informations.
+Le risque le plus important demeure la croyance dans la sécurisation absolue autour de la blockchain bien qu'elle repose sur des mécanismes cryptographie fiables et éprouvés. Cette sécurisation ne sera jamais complète par nature: les protocoles cryptographiques ont leurs limites et la sécurité globale intègre également les éléments périphériques, le risque humain est ainsi toujours présent. En ce dernier point, la blockchain apporte une nouvelle manière de traiter certaines données mais n'affranchit pas des démarches classiques en matière de sécurité des systèmes d'informations.
 
-En outre la Blockchain est sensible à des attaques particulières, comme l'attaque de type Golfinger.
+En outre la blockchain est sensible à des attaques particulières, comme l'attaque de type Golfinger.
 
 #### Attaque des 51% ou attaque Goldfinger
 
@@ -114,7 +114,7 @@ _*L'exemple du mineur égoïste est explicité dans Les risques des blockchains,
 
 Lorsqu'une transaction a lieu, le mineur qui découvre la solution en premier dispose d’un bloc Be.
  
- Ce bloc est censé être communiqé aux autres nœuds afin d'être intégré dans la Blockchain. 
+ Ce bloc est censé être communiqé aux autres nœuds afin d'être intégré dans la blockchain. 
  
  Mais ce mineur, malhonnête, peut garder ce bloc secret et travailler de suite à la validation du bloc suivant.
 
@@ -137,6 +137,6 @@ Le mineur malhonnête disqualifie ses concurrents en les faisant travailler à p
 
 {% hint %}
 
-Ce genre de stratégie invite à repenser la question de la normalisation de la Blockchain et les techniques de consensus pour se prémunir contre ces pratiques délétères.
+Ce genre de stratégie invite à repenser la question de la normalisation de la blockchain et les techniques de consensus pour se prémunir contre ces pratiques délétères.
 
 {% endhint %}

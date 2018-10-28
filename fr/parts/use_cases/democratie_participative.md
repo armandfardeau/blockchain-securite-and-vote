@@ -11,7 +11,7 @@ Ici sont réunis conjointement les concepts de démocratie participative mais é
 
 * ### L'Open Vote Network
 
-**_Dans A Smart Contract for Boardroom Voting with Maximum Voter Privacy, Patrick McCorry, Siamak F. Shahandashti and Feng Hao présentent la première mise en œuvre d'un système décentralisé et auto-comptabilisateur de  vote par Internet avec un maximum de confidentialité de l'électeur en utilisant la Blockchain._** 
+**_Dans A Smart Contract for Boardroom Voting with Maximum Voter Privacy, Patrick McCorry, Siamak F. Shahandashti and Feng Hao présentent la première mise en œuvre d'un système décentralisé et auto-comptabilisateur de  vote par Internet avec un maximum de confidentialité de l'électeur en utilisant la blockchain._** 
 
 **_Le scrutin abordé dans cet exemple est à «bulletin découvert» et est adapté aux élections du conseil d'administration. Il est écrit comme un «smart-contract» pour Ethereum._** 
 
@@ -76,7 +76,7 @@ Toutefois, il s'agit de remettre cette expérience en perspective, car une élec
 ![Logo de la Democracy Earth Foundation](../../images/democracy-earth.png)
 > Logo de la Democracy Earth Foundation
 
-Democracy Earth Foundation (DEF) est une fondation américaine à but non lucratif qui construit une plateforme de gouvernance orientée «démocratie liquide» basée sur une Blockchain open source. 
+Democracy Earth Foundation (DEF) est une fondation américaine à but non lucratif qui construit une plateforme de gouvernance orientée «démocratie liquide» basée sur une blockchain open source. 
 
 La DEF a publié la version 1.0 Alpha de la plate-forme de gouvernance, Sovereign, en mai 2017 et son livre blanc, The Social Smart Contract, en septembre 2017. La fondation a piloté, lors du référendum pour la paix en Colombie, un vote symbolique parmi la diaspora d'environ 6 millions de Colombiens expatriés. Le projet pilote a permis aux gens de voter séparément sur différentes parties du référendum et de déléguer leur vote à des représentants, les résultats du vote symbolique révélant des nuances importantes dans les préférences des électeurs qui n'ont pas été prises en compte lors du référendum. Le projet pilote montre activement comment la démocratie participative réduit la polarisation, l'impuissance et l'apathie des électeurs.
 
@@ -95,7 +95,7 @@ Le jeton de vote vise à être une norme pour la démocratie numérique capable 
 
 * Vote public: Souvent appelée la règle d'or des démocraties liquides, toute personne qui délègue a le droit de savoir comment son délégué a voté sur une question donnée avec son vote. De la même manière que les votes des membres du Congrès sont publics, sur les démocraties liquides, les délégués en compétition sur un sujet donné sont incités à se bâtir une réputation publique en se basant sur leurs résultats de vote afin d'attirer plus de délégations.
 
-* Vote secret: Une méthode capable de garantir des transactions de vote non traçables à l'électeur. C'est indispensable dans le contexte d'élections publiques organisées au sein de larges populations qui présentent un risque élevé de coercition. Même si le secret parfait sur la transaction de vote est atteint, les utilisateurs peuvent toujours être identifiés grâce aux empreintes digitales avec les méta-données exposées. Pour cette raison, la recherche sur l'intégration avec des Blockchains conçues pour les transactions anonymes ayant fait leurs preuves est encouragée. La DEF poursuit d'ailleurs ses recherches sur l'intégration des votes secrets avec les blockchains suivantes:
+* Vote secret: Une méthode capable de garantir des transactions de vote non traçables à l'électeur. C'est indispensable dans le contexte d'élections publiques organisées au sein de larges populations qui présentent un risque élevé de coercition. Même si le secret parfait sur la transaction de vote est atteint, les utilisateurs peuvent toujours être identifiés grâce aux empreintes digitales avec les méta-données exposées. Pour cette raison, la recherche sur l'intégration avec des blockchains conçues pour les transactions anonymes ayant fait leurs preuves est encouragée. La DEF poursuit d'ailleurs ses recherches sur l'intégration des votes secrets avec les blockchains suivantes:
     * Ethereum: utilise des contrats pré-compilés pour l'addition et la multiplication scalaire sur la courbe elliptique alt_bn128, pour les contrôles d'appariement, qui permettent les zk-SNARKs.
     * ZCash: implémente des transactions sécurisées en utilisant des preuves à divulgation nulle de connaissance
     * Monero: utilise des signatures en cercle avec des adresses furtives.

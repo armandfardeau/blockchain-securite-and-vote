@@ -33,9 +33,9 @@ Des services sécurisés et décentralisés de vote offrent un large champ de cr
 
 {% hint style='tip' %}
 
-Dans ce travail nous analyserons les perspectives ouvertes par l’usage de la blockchain comme outil de sécurisation de la prise de décision collectives. À travers les impératifs réclamés par ces processus de décision, nous tenterons d'évaluer la capacité de la Blockchain à y répondre.
+Dans ce travail nous analyserons les perspectives ouvertes par l’usage de la blockchain comme outil de sécurisation de la prise de décision collectives. À travers les impératifs réclamés par ces processus de décision, nous tenterons d'évaluer la capacité de la blockchain à y répondre.
 
-Nous tenterons également d'évaluer le coût de l'utilisation de la Blockchain pour les prises de décisions collective en portant une attention particulière aux critères environnementaux. 
+Nous tenterons également d'évaluer le coût de l'utilisation de la blockchain pour les prises de décisions collective en portant une attention particulière aux critères environnementaux. 
 
 Enfin, nous illustrerons notre propos à l'aide de réalisations en cours ou de preuves de concept et émettrons des pistes prospectives.
 

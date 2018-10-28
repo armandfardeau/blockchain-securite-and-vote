@@ -32,7 +32,7 @@ Afin de miner, les individus ou institutions mettent à disposition du matériel
 
 Sur certaines blockchains, comme bitcoin, il est inutile et non-rentable de s'essayer à la chose avec du matériel classique.
 
-Ce mode de calcul est réservé à des Blockchains plus récentes ou bénéficiant de moins d'engouement.
+Ce mode de calcul est réservé à des blockchains plus récentes ou bénéficiant de moins d'engouement.
 
 Les mineurs professionnels ont recours à du matériel performant, qui exclut les mineurs amateurs de la course à la rémunération, dans le cadre de la preuve de travail seulement. Ceux-ci sont en effet bien trop lents pour valider les transactions face à ces sprinteurs.
 
@@ -47,7 +47,7 @@ Explication des acronymes:
 | ASICS | *Application Specific Integrated Circuit* ( Circuit intégré spécifique à l'application ) |
 | FPGA | *Field-Programmable Gate Array* ( Réseau de portes programmables in situ ) |
 
-Les premières ne sont utilisées que dans le calcul cryptographique dans le cadre de la Blockchain, les secondes trouvent une utilisation dans les opérations courantes.
+Les premières ne sont utilisées que dans le calcul cryptographique dans le cadre de la blockchain, les secondes trouvent une utilisation dans les opérations courantes.
 
 Les mineurs ASICS ET FPGA sont majoritairement utilisées dans le calcul SHA256 (Bitcoin), tandis que les CPU / GPU sont plutôt utilisés sur des cryptomonnaies plus récentes.
 
@@ -67,7 +67,7 @@ Lorsque l'on compare l'augmentation de la puissance de calcul des GPUs par rappo
 >
 > Comparaison entre le nombre d'opérations en virgule flottante par seconde ( FLOPS ) des CPUs ( architecture X86 ) et les GPUs NVIDIA
 
-Sur cette dernière illustration, nous pouvons constater que la puissance de calcul des GPUs sur certaines opérations est spéctaculairement plus importante que les CPUs, or, dans le cadre de la Blockchain, les mineurs ASICS ET FPGA sont bien plus performants que les GPUs. 
+Sur cette dernière illustration, nous pouvons constater que la puissance de calcul des GPUs sur certaines opérations est spéctaculairement plus importante que les CPUs, or, dans le cadre de la blockchain, les mineurs ASICS ET FPGA sont bien plus performants que les GPUs. 
 
 D'autres contraintes reposent également sur le choix du matériel, c'est ainsi que certains algorithmes nécessitant une importante utilisation de la mémoire rendaient les mineurs ASICS peu compétitif car les composants mémoires sont particulièrement couteux.
 
@@ -113,11 +113,11 @@ Pour comprendre comment des cartes dédiées à la blockchain pourraient voir le
 
 {% hint %}
 
-À l'heure actuelle, les Blockchains sont optimisées en fonction du matériel disponible, elles s'adaptent à du matériel qui n'est que peu optimisé pour cet usage.
-Cette optimisation pourrait s'effectuer à l'aide du câblage de fonctions, mais pour cela il faut que les constructeurs puissent anticiper l'avenir de la Blockchain pour prévoir les gains à long terme. 
+À l'heure actuelle, les blockchains sont optimisées en fonction du matériel disponible, elles s'adaptent à du matériel qui n'est que peu optimisé pour cet usage.
+Cette optimisation pourrait s'effectuer à l'aide du câblage de fonctions, mais pour cela il faut que les constructeurs puissent anticiper l'avenir de la blockchain pour prévoir les gains à long terme. 
 
 Aujourd'hui, celles-ci évoluent vite et de nombreuses implémentations sont divergeantes, autant de contraintes qui repoussent l'étape d'optimisation matérielle.
 
-Cette étape pourrait être facilitée par la normalisation des Blockchains. 
+Cette étape pourrait être facilitée par la normalisation des blockchains. 
 
 {% endhint %}

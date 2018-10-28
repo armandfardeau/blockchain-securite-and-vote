@@ -66,11 +66,11 @@ Afin de remettre en perspective cet échec et d'illustrer l'engouement du public
 
 ### La co-gouvernance de l'entreprise: piste prospective
 
-La Blockchain est une opportunité pour les entreprises à plusieurs titres. Elle offre à la fois la perspective de transparence que le grand public réclame, mais solutionne également l'implication des consommateurs au sein de la gouvernance de produits et de services.
+La blockchain est une opportunité pour les entreprises à plusieurs titres. Elle offre à la fois la perspective de transparence que le grand public réclame, mais solutionne également l'implication des consommateurs au sein de la gouvernance de produits et de services.
 
 Cette participation peut s'envisager à deux échelons: au niveau de la gouvernance du produit ou du service, ou bien de l'entreprise.
 
-La co-gouvernance ou co-conception d'un produit ou d'un service pour une entreprise permettrait de maximiser l'implication du client, et donc de concevoir un outil adapté à la majorité d'entre eux. Cette co-gestion n'implique pas de laisser à la foule la totalité des décisions, bien au contraire. Il est possible grâce à la Blockchain de repenser la place du client et de fixer la participation en toute transparence, avec des règles préalablement bien définies.
+La co-gouvernance ou co-conception d'un produit ou d'un service pour une entreprise permettrait de maximiser l'implication du client, et donc de concevoir un outil adapté à la majorité d'entre eux. Cette co-gestion n'implique pas de laisser à la foule la totalité des décisions, bien au contraire. Il est possible grâce à la blockchain de repenser la place du client et de fixer la participation en toute transparence, avec des règles préalablement bien définies.
 
 La co-gérance de l'entreprise permet d'impliquer le consommateur à un échelon supérieur, en participant aux décisions stratégiques de l'entreprise. Une telle participation ne force pas l'entreprises à remettre au grand public les pleines commandes, il appartiendra à chaque entité de définir la zone d'influence souhaitée, cette définition pourra même être confiée au vote.
 

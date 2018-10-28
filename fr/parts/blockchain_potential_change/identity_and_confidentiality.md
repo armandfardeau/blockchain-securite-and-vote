@@ -1,19 +1,19 @@
 ## Gestion de l'identification et confidentialité
 ---
-Sur la Blockchain Bitcoin et Ethereum (avant 2017), l'identification d'un utilisateur peut ètre découverte. Elle n'assure donc pas l'impératif de confidentialité requise pour un **vote à bulletin secret**.
+Sur la blockchain Bitcoin et Ethereum (avant 2017), l'identification d'un utilisateur peut ètre découverte. Elle n'assure donc pas l'impératif de confidentialité requise pour un **vote à bulletin secret**.
 
 En effet, la nature de la chaîne de blocs publique signifie que chaque transaction qui a lieu sera publiée et liée à une publication d'une clé cryptographique publique. Cette clé est chiffrée pour qu'une personne qui regarderait l'historique de la chaîne de blocs ne soit en mesure d'identifier l'identification réelle de l'individu derrière cette clé. 
 
 Cet anonymat pourrait être préservé si cette clé publique était utilisée une seule fois. Mais si cette clé est utlisée plusieurs fois, il est possible de déterminer qu'un même individu se cache derrière cette clé publique.
 
-![Schéma démontrant la possibilité de relier un utilisateur à de multiples transactions sur la Blockchain Bitcoin](../../images/identification_bitcoin_pub_key.png)
-> Schéma démontrant la possibilité de relier un utilisateur à de multiples transactions sur la Blockchain Bitcoin
+![Schéma démontrant la possibilité de relier un utilisateur à de multiples transactions sur la blockchain Bitcoin](../../images/identification_bitcoin_pub_key.png)
+> Schéma démontrant la possibilité de relier un utilisateur à de multiples transactions sur la blockchain Bitcoin
 
 Bien entendu, l'objectif de la clé publique est de distinguer un utilisateur d'un autre sur le réseau pour s'assurer que la transaction est attribuée au bon auteur.
 
 Une solution à ce problème est d'utiliser la méthode de preuve à divulgation nulle de connaissance (Zero knowledge proof ou ZKP).
 
-La forme la plus répandue à l'heure actuelle est zk-SNARKs (zero-knowledge Succinct Non-Interactive ARgument of Knowledge), présente nativement sur Ethereum depuis la mise à jour Metropolis (Byzantium Fork) le 12 octobre 2017 et présente depuis l'origine sur Zcash. On trouve également une autre forme de ZKP sur la Blockchain Monera, qui implémente un système de signature de cercle: Monero Ring Confidential Transactions (RingCT).
+La forme la plus répandue à l'heure actuelle est zk-SNARKs (zero-knowledge Succinct Non-Interactive ARgument of Knowledge), présente nativement sur Ethereum depuis la mise à jour Metropolis (Byzantium Fork) le 12 octobre 2017 et présente depuis l'origine sur Zcash. On trouve également une autre forme de ZKP sur la blockchain Monera, qui implémente un système de signature de cercle: Monero Ring Confidential Transactions (RingCT).
 
 Afin d'avoir une «vie privée sans connaissance» dans Zcash, la fonction déterminant la validité d'une transaction selon les règles consensuelles du réseau doit retourner la réponse sur la validité ou non de la transaction, sans révéler aucune information des calculs effectués sur cette dernière. Cela se fait en codant certaines des règles de consensus du réseau dans zk-SNARKs. 
 

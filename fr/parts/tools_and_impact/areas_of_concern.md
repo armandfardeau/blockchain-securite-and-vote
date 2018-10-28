@@ -68,9 +68,9 @@ Les décisions sont prises par le vote au sein d'un conseil d'administration, en
     
     L'action des associations est soumise à la confiance de ses donateurs. De nombreux scandales ont illustré que cette confiance était parfois abusée menant au mieux à un désintérêt pour la cause défendue, au pire à un lynchage médiatique discréditant durablement les actions entreprises.
 
-### Les promesses de la Blockchain: 
+### Les promesses de la blockchain: 
 
-Le recours a la Blockchain dans ces méthodes de prises de décisions par le vote permettrait:
+Le recours a la blockchain dans ces méthodes de prises de décisions par le vote permettrait:
 * Une plus grande représentativité par l'intégration d'un grand nombre d'acteurs (dans les limites d'échelle permise).
 * Une indépendance quant à la disponibilité physique des votants. Particulièrement avantageuse dans le cadre d'organisations internationales ou éclatées.
 * Intégrité de la décision, par des processus de lutte contre la falsification.

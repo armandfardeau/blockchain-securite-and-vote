@@ -45,7 +45,7 @@ Car plus la taille des chaînes augmente, plus la puissance de calcul doit augme
 >
 > Source: bitfarms.io
 
-En août 2018, il y avait 9 503 nœuds de traitement de la Blockchain Bitcoin dans le monde.
+En août 2018, il y avait 9 503 nœuds de traitement de la blockchain Bitcoin dans le monde.
 
 ![global bitcoin nodes distribution](../../images/GLOBAL_BITCOIN_NODES_DISTRIBUTION.png)
 
@@ -94,7 +94,7 @@ Cela ouvre la porte à une meilleure régulation des dérives qui peuvent touche
 
 La preuve de l'enjeu introduit une réduction des risques de centralisation. Le fait de selectionner aléatoirement un validateur limite l'interêt de développer de grandes infrastructures et permet à de petits acteurs de subsister. 
 
-Un avantage annexe à l'utilisation d'une validation par preuve de l'enjeu est l'augmentation du coût d'une «attaque des 51%» de manière spectaculaire par rapport à la méthode de la preuve de travail. Ainsi la sécurité de la Blockchain est renforcée.
+Un avantage annexe à l'utilisation d'une validation par preuve de l'enjeu est l'augmentation du coût d'une «attaque des 51%» de manière spectaculaire par rapport à la méthode de la preuve de travail. Ainsi la sécurité de la blockchain est renforcée.
    
 > «C'est comme si votre ferme ASIC brûlait si vous participiez à une attaque des 51%».
 >
