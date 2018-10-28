@@ -28,13 +28,13 @@ Les blockchains fonctionnant sur la méthode de preuve de travail ont en commun 
 
 En recherchant un algorithme plus économe pour remplir cette fonction, la blockchain pourrait voir son coût écologique se réduire et se présenter comme une alternative viable à grande échelle.
 
-Afin de miner, les individus ou institutions mettent à disposition du matériel afin de réaliser des calculs. 
+Afin de miner, les individus ou institutions mettent à disposition du matériel pour réaliser des calculs. 
 
 Sur certaines blockchains, comme bitcoin, il est inutile et non-rentable de s'essayer à la chose avec du matériel classique.
 
 Ce mode de calcul est réservé à des Blockchains plus récentes ou bénéficiant de moins d'engouement.
 
-Les mineurs professionnels ont recours à du matériel performant, qui exclut les mineurs amateurs de la course à la rémunération, dans le cadre de la preuve de travail seulement. Ceux-ci étant bien trop lents pour valider les transactions face à ces sprinteurs.
+Les mineurs professionnels ont recours à du matériel performant, qui exclut les mineurs amateurs de la course à la rémunération, dans le cadre de la preuve de travail seulement. Ceux-ci sont en effet bien trop lents pour valider les transactions face à ces sprinteurs.
 
 Le minage est divisé entre deux technologies, les puces dédiées: **FPGA / ASICS** et les puces généralistes **CPU / GPU**.
 
@@ -47,13 +47,13 @@ Explication des acronymes:
 | ASICS | *Application Specific Integrated Circuit* ( Circuit intégré spécifique à l'application ) |
 | FPGA | *Field-Programmable Gate Array* ( Réseau de portes programmables in situ ) |
 
-Les premières ne sont utilisées que dans le calcul cryptographique dans le cadre de la Blockchain, les secondes trouvent une utilisaiton dans les opérations courantes.
+Les premières ne sont utilisées que dans le calcul cryptographique dans le cadre de la Blockchain, les secondes trouvent une utilisation dans les opérations courantes.
 
 Les mineurs ASICS ET FPGA sont majoritairement utilisées dans le calcul SHA256 (Bitcoin), tandis que les CPU / GPU sont plutôt utilisés sur des cryptomonnaies plus récentes.
 
 Afin de maintenir la complexité de calcul au sein d'une blockchain, la difficulté doit augmenter au fil des avancées technologiques. 
 
-Lorsqu'on observe les capacités des puces de calculs, on constate une augmentation significative de leur puissance. Ainsi réaliser un calcul cryptographique considéré comme complexe dans les années 80 prend quelques secondes avec un téléphone protable actuel.
+Lorsqu'on observe les capacités des puces de calculs, on constate une augmentation significative de leur puissance. Ainsi, réaliser un calcul cryptographique considéré comme complexe dans les années 80 prend quelques secondes avec un téléphone protable actuel.
 
 Ce schéma présente l'augmentation de la puissance de calcul des puces CPU.
 
@@ -69,7 +69,7 @@ Lorsque l'on compare l'augmentation de la puissance de calcul des GPUs par rappo
 
 Sur cette dernière illustration, nous pouvons constater que la puissance de calcul des GPUs sur certaines opérations est spéctaculairement plus importante que les CPUs, or, dans le cadre de la Blockchain, les mineurs ASICS ET FPGA sont bien plus performants que les GPUs. 
 
-D'autres contraintes reposent également sur le choix du matériel, C'est ainsi que certains algorithmes nécessitant une importante utilisation de la mémoire rendaient les mineurs ASICS peu compétitif car les composants mémoires sont particulièrement couteux.
+D'autres contraintes reposent également sur le choix du matériel, c'est ainsi que certains algorithmes nécessitant une importante utilisation de la mémoire rendaient les mineurs ASICS peu compétitif car les composants mémoires sont particulièrement couteux.
 
 Mais 2017 a marqué un tournant dans l'utilisation de ces cartes avec une amélioration substantielle de ces modules mémoires. La solution pour maintenir la complexité fut de modifier les algorithmes, rendant le matériel obsolète car les fonctions d'un mineur ASICS sont gravées à même le silicium. On parle alors de fonctions câblées.
 
@@ -77,15 +77,15 @@ Ces fonctions câblées se retrouvent dans d'autres architectures de puces, comm
 
 **Un coût économique et écologique important pour garantir la sécurité et la scalabilité de ces blockchains.**
 
-Pour comprendre pourquoi les puces sont rendues obsolètes il faut intégrer  que la différence entre un CPU et un ASIC (ou entre un CPU et un GPU) réside dans le fait que le CPU est une puce programmable, et doté d'une grande polyvalence dans son utilisation au prix néanmoins d'une performance moindre.
+Pour comprendre pourquoi les puces sont rendues obsolètes, il faut intégrer  que la différence entre un CPU et un ASIC (ou entre un CPU et un GPU) réside dans le fait que le CPU est une puce programmable, et doté d'une grande polyvalence dans son utilisation au prix néanmoins d'une performance moindre.
  
- UN GPU ou un ASIC est une puce spécialisée, dont les performances sont excellentes dans l'accomplissement des taches pour lesquels elle est programmée, mais qui sont plus réduites en nombre que pour un CPU. 
+ Un GPU ou un ASIC est une puce spécialisée, dont les performances sont excellentes dans l'accomplissement des tâches pour lesquels elle est programmée, mais qui sont plus réduites en nombre que pour un CPU. 
  
- Par exemple, pour un GPU, spécialisé dans la représentation graphique, l'affichage d’un maillage 3D texturé à 60-100 frames par seconde.
+ Par exemple, pour un GPU spécialisé dans la représentation graphique, l'affichage d’un maillage 3D texturé à 60-100 frames par seconde.
  
  Cette performance permet d'obtenir des meilleures performances en termes de calcul brut sur ces tâches précises, mais également une consommation électrique plus faible.
  
- Cette amélioration de performance est rendue possible par le fait de graver directement dans le silicium de la puce les fonctions , nécessaires à la translation, rotation etc. On appelle cela «câbler» les fonctions. 
+ Cette amélioration de performance est rendue possible par le fait de graver directement dans le silicium de la puce les fonctions nécessaires à la translation, rotation etc. On appelle cela «câbler» les fonctions. 
  
  Pour un mineur ASIC, cette spécialisation se traduira dans une performance inégalable dans la résolution d'un algorithme de chiffrage par exemple. Mais il n’est pas possible d’utiliser un ASIC spécialisé dans le calcul de hashs SHA256 pour du KECCAK et inversement.
  
@@ -108,7 +108,8 @@ Malgré ces désavantages, des cartes FPGA aux capacités de calcul titanesque s
 Ces cartes permettent d'envisager une continuité d'utilisation future malgré les bifurcations ( forks ) et les évolutions des algorithmes, ce qui permet de limiter les coûts et de limiter l'impact écologique dû à l'obsolescence du matériel.
 
 ##### La normalisation par le câblage de fonctions
-Pour comprendre comment des cartes dédiées à la blockchain pourraient voir le jour, il faut revenir en arrière dans l'histoire de l'informatique. A l'origine seuls les CPUs effectuait des calculs attenant à la 3D. Puis vinrent les GPU, dont les fonctions câblées permettaient des performances plus grandes. Il est tout à fait envisageable de câbler les fonctions nécessaires aux algorithmes implémentés dans la blockchain, à la manière des Physics Processing Unit qui implémentaient une carte supplémentaire pour la gestion de la physique et qui sont depuis intégrés aux cartes graphiques Nvidia.
+
+Pour comprendre comment des cartes dédiées à la blockchain pourraient voir le jour, il faut revenir en arrière dans l'histoire de l'informatique. À l'origine seuls les CPUs effectuaient des calculs attenant à la 3D. Puis vinrent les GPU, dont les fonctions câblées permettaient des performances plus grandes. Il est tout à fait envisageable de câbler les fonctions nécessaires aux algorithmes implémentés dans la blockchain, à la manière des Physics Processing Unit qui implémentaient une carte supplémentaire pour la gestion de la physique et qui sont depuis intégrés aux cartes graphiques Nvidia.
 
 {% hint %}
 
