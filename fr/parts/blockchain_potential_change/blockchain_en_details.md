@@ -5,15 +5,15 @@ Le terme blockchain désigne à la fois le système et la technologie sous-jacen
 
 La blockchain est connue majoritairement du grand public comme étant la technologie utilisée par le bitcoin.
 
-Inventée en 2008, le Bitcoin est à l'origine un prototype pour montrer qu'il était possible de créer une crypto-monnaie dont le mécanisme repose sur un registre distribué et réparti entre de multiples nœuds d'un réseau.
+Inventé en 2008, le Bitcoin est à l'origine un prototype destiné à démontrer la possibilité de créer une crypto-monnaie dont le mécanisme repose sur un registre distribué et réparti entre de multiples nœuds d'un réseau.
 
-De part leur nature intrinsèquement open-source, les algorithmes de chiffrages sont un argument de plus au regard de la confiance en ce système.
+De part leur nature intrinsèquement open-source, les algorithmes de chiffrage sont un argument de plus au regard de la confiance en ce système.
 
 **Si le Bitcoin a bénéficié d'une telle exposition médiatique, c'est qu'il s'agit d'une monnaie limitée en volume qui sort du référentiel courant. Mais surtout, il s'agit d'une monnaie qui remet en question le rôle des institutions bancaires et des états en tant que tiers de confiance et en tant qu'entité légitimes à émettre et à réguler la monnaie.**
  
 ### Les trois piliers de la blockchain
 
-Celle-ci est basée sur trois piliers: deux sont technologiques, à savoir la cryptographie asymétrique et les systèmes distribués, et le troisième est sociologique.
+La blockchain est basée sur trois piliers: deux sont technologiques, à savoir la cryptographie asymétrique et les systèmes distribués, et le troisième est sociologique.
 
 #### 1. La cryptographie,
 
@@ -35,10 +35,11 @@ la privée et la publique. La clef qui est choisie privée n'est jamais transmis
 
 Cette technique permet:
 
-* ##### Le Chiffrement 
-    L'un des rôles de la clef publique est de permettre le chiffrement.c'est donc cette clef qu'utilisera un premier sujet pour envoyer des messages chiffrés à un second. L'autre clef — l'information secrète — sert à déchiffrer. Ainsi, le second sujet, et lui seul, peut prendre connaissance des messages du premier sujet. 
+* ##### Le chiffrement
+ 
+    L'un des rôles de la clef publique est de permettre le chiffrement. C'est donc cette clef qu'utilisera un premier sujet pour envoyer des messages chiffrés à un second. L'autre clef — l'information secrète — sert à déchiffrer. Ainsi, le second sujet, et lui seul, peut prendre connaissance des messages du premier sujet. 
 
-    **La connaissance d'une clef ne permet pas de déduire l'autre (clef).**
+    **La connaissance d'une clef ne permet pas de déduire l'autre clé.**
 
 * ##### L'Authentification de l'origine
 
@@ -67,7 +68,7 @@ Par exemple, l’un d’entre eux peut dire à la moitié des forces de polices 
 
 **La grande nouveauté apportée par la blockchain est de proposer un système qui permet de se défaire de cette autorité hierarchique.**
 
-En substance, chaque force de police peut envoyer qu’un seul ordre à la fois, associé à un horodatage.
+En substance, chaque force de police ne peut envoyer qu’un seul ordre à la fois, associé à un horodatage.
 
 Mais, surtout, les ordres sont agglomérés les uns aux autres, puis chiffrés, formant une chaîne stockée dans un «grand livre de transactions», lequel est redistribué à toutes les services de polices en présence. 
 
