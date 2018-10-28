@@ -3,11 +3,11 @@
 
 Nos sociétés font face à une crise de la confiance, les entreprises, institutions, associations et autres acteurs du champ public en subissent déjà les conséquences. 
 
-Ces effets délétères sont multiples, allant du scandale économique avec les pertes financières que cela implique, au désintérêt du grand public pour une cause, ou pour la participation citoyenne.
+Ces effets délétères sont multiples, allant du scandale économique avec les pertes financières que cela implique, au désintérêt du grand public pour une cause, ou, plus généralement, pour la participation citoyenne.
 
 Ces institutions sont observées de près et elles doivent se prémunir en agissant avec plus de transparence et de consultation du public.
 
-Le vote est la forme reine de la participation car bien qu'étant sa forme la plus embryonnaire, c'est cependant la plus simple à mettre en œuvre à grande échelle. 
+Le vote est la forme reine de la participation ; bien qu'il représente la forme la plus embryonnaire de la démocratie, il reste la solution la plus simple à mettre en oeuvre à grande échelle. 
 
 La Blockchain apparaît comme une solution potentielle à ces problématiques, lorsqu'elle encadre ce processus de participation.
 
