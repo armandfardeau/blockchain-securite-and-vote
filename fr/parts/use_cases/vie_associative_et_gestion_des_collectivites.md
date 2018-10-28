@@ -9,7 +9,7 @@ L'ensemble de ces points répondants à l'impératif de transparence que le gran
 
 ### Gestion des collectivités: le citoyen comme acteur du service public
 
-La Blockchain permet d'envisager un nouveau niveau d'intégration du citoyen dans la gestion des collectivités. Au-delà de la participation par le biais du vote, cela invite à repenser les modalités d'actions du service public.
+La blockchain permet d'envisager un nouveau niveau d'intégration du citoyen dans la gestion des collectivités. Au-delà de la participation par le biais du vote, cela invite à repenser les modalités d'actions du service public.
 
 De nombreuses expérimentations ont d'ailleurs lieu sous l'impulsion de Mounir Mahjoubi, secrétaire d'État au numérique lors d’un débat organisé le 20 juillet à l’Université Paris Dauphine sur la justice numérique et les legaltechs.
 

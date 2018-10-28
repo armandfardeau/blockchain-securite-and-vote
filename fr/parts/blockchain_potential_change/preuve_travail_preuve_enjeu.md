@@ -1,7 +1,7 @@
 ## Preuve de travail vs preuve de l'enjeu
 ---
 
-Nous avons vu précédemment qu'une blockchain est un registre distribué chiffré, et répliqué dans tous les nœuds du réseau, qui contient les chaînes d’ordres permettant, grâce à l’obtention d’un consensus, de gérer la confiance sans institution externe.
+Nous avons vu précédemment qu'une blockchain est un registre distribué chiffré et répliqué dans tous les nœuds du réseau, qui contient les chaînes d’ordres permettant, grâce à l’obtention d’un consensus, de gérer la confiance sans institution externe.
 
 ### Concernant la preuve de travail:
 
@@ -15,7 +15,7 @@ Pour certifier la transaction, de puissants ordinateurs constitués de nœuds en
 
 Le travail global de certification se nomme «preuve de travail» (proof of work). 
 
-On appelle les machines (ou institutions) qui effectuent ce travail de certification des «mineurs» de l'anglais mining.
+On appelle les machines (ou institutions) qui effectuent ce travail de certification des «mineurs» de l'anglais _*mining*_.
 
 L'objet cryptographique crée par le mineur est la preuve du temps passé à la certification, il constitue la preuve de travail. 
 
@@ -23,7 +23,7 @@ Il est essentiel de garantir la nature réelle du travail des parties prenantes 
 
 Fruit d'une invention d'Adam Back, inventeur du protocole Hashcash, elle évite un clonage facile qui aurait pour conséquences de pouvoir contrôler la blockchain de manière rétroactive.
 
-Le mécanisme est même plus sophistiqué:à intervalles de temps réguliers, la difficulté augmente.
+Le mécanisme est même plus sophistiqué : à intervalles de temps réguliers, la difficulté augmente.
 
 ![La difficulté de hash blochain](../../images/difficulty.jpeg)
 
@@ -35,7 +35,7 @@ La mise en concurrence est la méthode utilisée pour motiver à la certificatio
 
 Concernant le bitcoin, la tâche de certification était à l'origine accessible par les particuliers grâce à l'utilisation des cartes graphiques, dont la puissance pour le type de calcul nécessaire à la certification était supérieure.
 
-Depuis des mineurs spécifiques sont apparus pour réaliser la preuve de travail et les cartes graphiques grand-public sont délaissés car non compétitives.
+Depuis, des mineurs spécifiques sont apparus pour réaliser la preuve de travail et les cartes graphiques grand-public sont délaissés car non compétitives.
 
 Car plus la taille des chaînes augmente, plus la puissance de calcul doit augmenter. Cette relation d'interdépendance a chassé les particuliers de la course à la certification et ce sont désormais des institutions qui ont pris le relais.
 
@@ -45,7 +45,7 @@ Car plus la taille des chaînes augmente, plus la puissance de calcul doit augme
 >
 > Source: bitfarms.io
 
-En août 2018, il y avait 9 503 nœuds de traitement de la Blockchain Bitcoin dans le monde.
+En août 2018, il y avait 9 503 nœuds de traitement de la blockchain Bitcoin dans le monde.
 
 ![global bitcoin nodes distribution](../../images/GLOBAL_BITCOIN_NODES_DISTRIBUTION.png)
 
@@ -59,11 +59,11 @@ Les services de mining sont disponibles dans le cloud à travers le cloud-mining
 
 De l'anglais proof-of-stake. Abrégé PoS.
 
-Selon Usman W. Chohan, Proof-of-Stake Algorithmic Methods: A Comparative Summary
+#### Selon Usman W. Chohan, Proof-of-Stake Algorithmic Methods: A Comparative Summary
 
-La preuve de l'enjeu est un algorithme différant de la preuve de travail permettant d'obtenir un consensus distribué.
+La preuve de l'enjeu est un algorithme différent de la preuve de travail permettant d'obtenir un consensus distribué.
 
-Dans les crypto-monnaies basées sur les preuves d'enjeux, le créateur du bloc suivant est choisi par diverses combinaisons de sélection aléatoire et de richesse ou d'âge dépendant de l'enjeu économique d'un validateur dans le réseau. 
+Dans les crypto-monnaies basées sur les preuves d'enjeux, le créateur du bloc suivant est choisi par divers critères (ex. :combinaisons de sélection aléatoire, richesse ou âge). Ces critères dépendent de l'enjeu économique d'un validateur dans le réseau. 
 
 En preuve de travail (PoW), l'algorithme récompense les participants qui résolvent des puzzles cryptographiques afin de valider les transactions et de créer de nouveaux blocs (c.-à-d. l'exploitation minière).
 
@@ -82,11 +82,11 @@ Il existe deux types d'algorithmes de preuve par l'enjeu:
 
 ### Avantages de la preuve de l'enjeu par rapport à la preuve de travail: 
 
-La preuve de l'enjeu apporte un avantage indéniable par rapport à la preuve de travail, la quantité d'électricité nécessaire pour sécuriser une chaîne de blocs est réduite.
+La preuve de l'enjeu apporte un avantage indéniable par rapport à la preuve de travail : la quantité d'électricité nécessaire pour sécuriser une chaîne de blocs est réduite.
 
 Le coût du mécanisme de Bitcoin et d'Ethereum est estimé à plus d'un millions de dollars en électricité et en matériel informatique par jour. Le sujet est donc crucial pour le développement futur de la blockchain.
 
-Voir [Quid de ses impacts énergétiques](./impact_energetique.md)
+(Voir [Quid de ses impacts énergétiques](./impact_energetique.md))
 
 Une plus faible consommation en matière première implique un besoin moindre de motivation, et donc un coût par transaction plus faible et une meilleure participation du réseau.
 
@@ -94,7 +94,7 @@ Cela ouvre la porte à une meilleure régulation des dérives qui peuvent touche
 
 La preuve de l'enjeu introduit une réduction des risques de centralisation. Le fait de selectionner aléatoirement un validateur limite l'interêt de développer de grandes infrastructures et permet à de petits acteurs de subsister. 
 
-Un avantage annexe à l'utilisation d'une validation par preuve de l'enjeu est l'augmentation du coût d'une «attaque des 51%» de manière spectaculaire par rapport à la méthode de la preuve de travail. Ainsi la sécurité de la Blockchain est renforcée.
+Un avantage annexe à l'utilisation d'une validation par preuve de l'enjeu est l'augmentation du coût d'une «attaque des 51%» de manière spectaculaire par rapport à la méthode de la preuve de travail. Ainsi la sécurité de la blockchain est renforcée.
    
 > «C'est comme si votre ferme ASIC brûlait si vous participiez à une attaque des 51%».
 >

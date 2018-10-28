@@ -4,7 +4,7 @@ Si la transparence nécessite d'apporter la preuve de sa bonne foi, la preuve m�
 
 ### Qu'est ce qu'une preuve?
 
-Une preuve est un élément matériel (exemple document contractuel, attestation) qui démontre, établit, prouve la vérité ou la réalité d'une situation de fait ou de droit: La preuve d'un crime.
+Une preuve est un élément matériel (ex. : document contractuel, attestation) qui démontre, établit, prouve la vérité ou la réalité d'une situation de fait ou de droit.
 La preuve est également une opération par laquelle on contrôle l'exactitude d'un calcul ou la justesse de la solution d'un problème.
 C'est bien cette double nature qui nous intéresse ici au regard de la question du vote.
 
@@ -31,7 +31,7 @@ Bien que ce soit une manifestation du vote plus rare, ce type de vote pourrait �
 
 {% endhint %}
 
-En effet, le vote à bulletin secret à pour but de garantir que le votant n'a pas été corrompu, ou ne pourra subir de coercitions en conséquence de son vote. Il est difficile de garantir l'intégrité du processus tout en assurant la confidentialité du vote. Pour cette raison, ce type de vote est moins utlisé.
+En effet, le vote à bulletin secret a pour but de garantir que le votant n'a pas été corrompu, ou ne pourra subir de coercitions en conséquence de son vote. Il est difficile de garantir l'intégrité du processus tout en assurant la confidentialité du vote. Pour cette raison, ce type de vote est moins utlisé.
 
 Dans le processus démocratique actuel, l'identité du votant est contrôlée par l'existence d'une liste préalable, et la présentation d'un document d'identité attestant de l'état civil. 
 Il s'agit d'un très classique recours à un tiers de confiance. En effet, l'État joue un double rôle ici: il atteste de l'état civil de la personne et délivre une preuve matérielle, disposant d'outils de lutte contre la falsification afin d'attester de cet état civil. Il délivre également la liste des personnes légitimes à s'exprimer dans le cadre du scrutin.

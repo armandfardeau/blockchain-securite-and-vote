@@ -5,11 +5,9 @@ Selon un [rapport de l'Office parlementaire d’évaluation des choix scientifiq
 
 Celle des blockchains publiques (dont fait partie le Bitcoin) serait comprise 46,5 TWh/an et 200TWh/an selon les estimations.
 
-En comparaison la consommation énergétique annuelle de la France est de 530 TWh/an. La blockchain représenterait donc entre 8,68% et 37,74% des dépenses énergétiques Françaises si les fermes de minages étaient implantées sur le sol Français en exclusivité.
+En comparaison, la consommation énergétique annuelle de la France est de 530 TWh/an. La blockchain représenterait donc entre 8,68% et 37,74% des dépenses énergétiques Françaises si les fermes de minages étaient implantées sur le sol Français en exclusivité. Or, 60 % des fermes de minages sont situées en Chine dont la production énergétique provient majoritairement du charbon. Il y a là une problématique écologique majeure qui porte un préjudice considérable au développement de la technologie blockchain.
 
-Or 60 % des fermes de minages sont situées en Chine dont la production énergétique provient majoritairement du charbon. Il y a là une problématique écologique majeure qui porte un préjudice considérable au développement de la technologie blockchain.
-
-Par ailleurs Bitcoin opère aujourd’hui environ 80 transactions par minute, quand Visa et Mastercard en exécutent respectivement près de 100 000. Ce coût énergétique est donc faramineux lorsqu'il est comparé à d'autres alternatives centralisées. Cette comparaison est d'autant plus choquante lorsque la majorité des ressources sont gaspillées durant le processus de vérification de blocs non-valides.
+Par ailleurs, Bitcoin opère aujourd’hui environ 80 transactions par minute, quand Visa et Mastercard en exécutent respectivement près de 100 000. Ce coût énergétique est donc faramineux lorsqu'il est comparé à d'autres alternatives centralisées. Cette comparaison est d'autant plus choquante lorsque la majorité des ressources sont gaspillées durant le processus de vérification de blocs non-valides.
 
 Ces chiffres sont à manipuler avec prudence car l'estimation de la consommation énergétique des blockchains n'est pas fiable, le matériel évoluant en permanence et les mineurs se gardant bien de communiquer sur leur consommation électrique.
 

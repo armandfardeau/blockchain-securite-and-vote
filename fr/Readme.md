@@ -2,7 +2,7 @@
 
 ---
 
-*Sous l'aimable direction de Stéphane Dalbera, Atopos*.
+_*Sous l'aimable direction de Stéphane Dalbera, Atopos*_.
 
 
 > Ce qu'il y a d'intéressant à propos de la cryptographie, c'est qu'on peut commencer à créer des modèles institutionnels qui ne reposent plus sur la faillibilité de l'autorité humaine mais qui sont strictement basés sur le code, les mathématiques et le cryptage. On peut commencer à construire une réalité institutionnelle où les freins et contrepoids sont protégés par des promesses fermes, des constructions mathématiques fondamentales qui sont simplement impossibles à briser en raison des propriétés inhérentes au fonctionnement des informations.
@@ -17,11 +17,11 @@ Failles de sécurités, atteintes à la vie privée, manipulations de l’opinio
 Le temps de la croyance aveugle dans les bienfaits de la révolution internet et des fantasmes semble révolu.
 
 Cette crise de confiance n'est pas propre au secteur numérique, elle se diffuse dans toutes
-les strates de nos sociétés. Elle se manifeste dans le champ politique, dans le champ médiatique si bien que l'ère dans laquelle nous vivons porte désormais le nom d'ère post-vérité (post-factual era).
+les strates de nos sociétés. Elle se manifeste dans le champ politique, dans le champ médiatique si bien que l'ère dans laquelle nous vivons porte désormais le nom d'ère post-vérité (_*post-factual era*_).
 
-Cette crise de confiance a déjà de nombreuses conséquences dans le champ politique mais également dans le champ économique où la confiance est la clé de voûte de l'investissement et de l'adhésion à une marque ou à un produit
+Cette crise a déjà de nombreuses conséquences dans le champ politique ainsi que dans le champ économique où la confiance est la clé de voûte de l'investissement et de l'adhésion.
 
-L’opinion publique, les législateurs et les acteurs de l’industrie commencent à prendre la pleine mesure des chantiers qui s’annoncent pour sortir d’une période que l’on considèrera bientôt, peut-être, comme celle du Far West  
+L’opinion publique, les législateurs et les acteurs de l’industrie commencent à prendre la pleine mesure des chantiers qui s’annoncent pour sortir d’une période que l’on considèrera bientôt, peut-être, comme celle du Far West.
 
 Le travail de reconstruction de la confiance, qui commence seulement à s’effriter, sera dans les années à venir un des secteurs offrant les plus forts potentiels de croissance et d’innovation.
 
@@ -33,9 +33,9 @@ Des services sécurisés et décentralisés de vote offrent un large champ de cr
 
 {% hint style='tip' %}
 
-Dans ce travail nous analyserons les perspectives ouvertes par l’usage de la blockchain comme outil de sécurisation de la prise de décision collectives. À travers les impératifs réclamés par ces processus de décision, nous tenterons d'évaluer la capacité de la Blockchain à y répondre.
+Dans ce travail nous analyserons les perspectives ouvertes par l’usage de la blockchain comme outil de sécurisation de la prise de décision collectives. À travers les impératifs réclamés par ces processus de décision, nous tenterons d'évaluer la capacité de la blockchain à y répondre.
 
-Nous tenterons également d'évaluer le coût de l'utilisation de la Blockchain pour les prises de décisions collective en portant une attention particulière aux critères environnementaux. 
+Nous tenterons également d'évaluer le coût de l'utilisation de la blockchain pour les prises de décisions collective en portant une attention particulière aux critères environnementaux. 
 
 Enfin, nous illustrerons notre propos à l'aide de réalisations en cours ou de preuves de concept et émettrons des pistes prospectives.
 

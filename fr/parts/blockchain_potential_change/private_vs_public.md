@@ -1,4 +1,4 @@
-## Blockchain privée vs Blockchain publique
+## Blockchain privée vs blockchain publique
 ---
 |  | Blockchain publique | Blockchain privée |
 |:---------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8,6 +8,6 @@
 | ![Scalabilité](../../images/icons/scale.png) Scalabilité | Entre 3 et 7 transactions par seconde mais une transaction peut contenir plusieurs milliers de hash. | 1 000 transactions par seconde, voire plus. |
 | ![Accessibilité](../../images/icons/settings.png) Accessibilité | «Permisionless»: comme internet, accessible à tous. | Accès aux membres du consortium uniquement. |
 
-> Comparatif Blockchain privée et publique
+> Comparatif blockchain privée et publique
 >
 > Julien Maldonato et Rémi Foult dans La Blockchain, panorama des technologies existantes.

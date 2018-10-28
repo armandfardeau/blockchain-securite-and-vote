@@ -5,15 +5,15 @@ Le terme blockchain désigne à la fois le système et la technologie sous-jacen
 
 La blockchain est connue majoritairement du grand public comme étant la technologie utilisée par le bitcoin.
 
-Inventée en 2008, le Bitcoin est à l'origine un prototype pour montrer qu'il était possible de créer une crypto-monnaie dont le mécanisme repose sur un registre distribué et réparti entre de multiples nœuds d'un réseau.
+Inventé en 2008, le Bitcoin est à l'origine un prototype destiné à démontrer la possibilité de créer une crypto-monnaie dont le mécanisme repose sur un registre distribué et réparti entre de multiples nœuds d'un réseau.
 
-De part leur nature intrinsèquement open-source, les algorithmes de chiffrages sont un argument de plus au regard de la confiance en ce système.
+De part leur nature intrinsèquement open-source, les algorithmes de chiffrage sont un argument de plus au regard de la confiance en ce système.
 
 **Si le Bitcoin a bénéficié d'une telle exposition médiatique, c'est qu'il s'agit d'une monnaie limitée en volume qui sort du référentiel courant. Mais surtout, il s'agit d'une monnaie qui remet en question le rôle des institutions bancaires et des états en tant que tiers de confiance et en tant qu'entité légitimes à émettre et à réguler la monnaie.**
  
 ### Les trois piliers de la blockchain
 
-Celle-ci est basée sur trois piliers: deux sont technologiques, à savoir la cryptographie asymétrique et les systèmes distribués, et le troisième est sociologique.
+La blockchain est basée sur trois piliers: deux sont technologiques, à savoir la cryptographie asymétrique et les systèmes distribués, et le troisième est sociologique.
 
 #### 1. La cryptographie,
 
@@ -23,7 +23,7 @@ Il existe deux types de clés:  les symétriques et les asymétriques.
 Les premières sont connues depuis l'antiquité et les secondes ont vu le jour dans les années 1970.
 
 La seconde est essentielle à la technologie blockchain car elle permet de s'assurer 
-de l'authenticité de l'expéditeur du message. L'expéditeur utilise sa clef privée pour coder un message que le destinataire peut décoder avec la clef publique de l'expéditeur. La méthode du chiffrement symétrique a l'avantage d'être peu coûteuse en puissance de calcul, et de demeurer très sûre. Malheureusement elle présente des limites:
+de l'authenticité de l'expéditeur du message. L'expéditeur utilise sa clé privée pour coder un message que le destinataire peut décoder avec la clé publique de l'expéditeur. La méthode du chiffrement symétrique a l'avantage d'être peu coûteuse en puissance de calcul, et de demeurer très sûre. Malheureusement elle présente des limites:
 
 > L'inconvénient est que pour chiffrer un message de n bits, il faut au préalable avoir échangé une clé de n bits avec le destinataire du message, et cela par une voie absolument sûre, sinon chiffrer devient inutile. 
 
@@ -31,19 +31,20 @@ de l'authenticité de l'expéditeur du message. L'expéditeur utilise sa clef pr
 
 À cette méthode on préférera le chiffrement asymétrique qui permet de contourner l'obstacle de la clé commune aux parties prenantes.
 En effet, dans le cadre du chiffrement asymétrique, deux clés sont présentes: 
-la privée et la publique. La clef qui est choisie privée n'est jamais transmise à personne alors que la clef qui est choisie publique est transmissible sans restriction.
+la privée et la publique. La clé qui est choisie privée n'est jamais transmise à personne alors que la clé qui est choisie publique est transmissible sans restriction.
 
 Cette technique permet:
 
-* ##### Le Chiffrement 
-    L'un des rôles de la clef publique est de permettre le chiffrement.c'est donc cette clef qu'utilisera un premier sujet pour envoyer des messages chiffrés à un second. L'autre clef — l'information secrète — sert à déchiffrer. Ainsi, le second sujet, et lui seul, peut prendre connaissance des messages du premier sujet. 
+* ##### Le chiffrement
+ 
+    L'un des rôles de la clé publique est de permettre le chiffrement. C'est donc cette clé qu'utilisera un premier sujet pour envoyer des messages chiffrés à un second. L'autre clé — l'information secrète — sert à déchiffrer. Ainsi, le second sujet, et lui seul, peut prendre connaissance des messages du premier sujet. 
 
-    **La connaissance d'une clef ne permet pas de déduire l'autre (clef).**
+    **La connaissance d'une clé ne permet pas de déduire l'autre clé.**
 
 * ##### L'Authentification de l'origine
 
-    L'utilisation par l'un des sujets de sa clef privée sur le condensat d'un message permettra à ce dernier de vérifier que le message provient bien de l'interlocuteur attendu et de prévenir l'usurpation: 
-    il appliquera la clef publique que son interlocuteur lui a fournie sur le condensat (condensat chiffré avec la clef privée de l'autre sujet) et retrouve donc le condensat original du message.
+    L'utilisation par l'un des sujets de sa clé privée sur le condensat d'un message permettra à ce dernier de vérifier que le message provient bien de l'interlocuteur attendu et de prévenir l'usurpation: 
+    il appliquera la clé publique que son interlocuteur lui a fournie sur le condensat (condensat chiffré avec la clé privée de l'autre sujet) et retrouve donc le condensat original du message.
     
     Il lui suffira donc de comparer le condensat ainsi obtenu et le condensat réel du message pour savoir si son interlocuteur est bien celui qu'il prétend. C'est sur ce mécanisme notamment que fonctionne la signature numérique.
 
@@ -67,7 +68,7 @@ Par exemple, l’un d’entre eux peut dire à la moitié des forces de polices 
 
 **La grande nouveauté apportée par la blockchain est de proposer un système qui permet de se défaire de cette autorité hierarchique.**
 
-En substance, chaque force de police peut envoyer qu’un seul ordre à la fois, associé à un horodatage.
+En substance, chaque force de police ne peut envoyer qu’un seul ordre à la fois, associé à un horodatage.
 
 Mais, surtout, les ordres sont agglomérés les uns aux autres, puis chiffrés, formant une chaîne stockée dans un «grand livre de transactions», lequel est redistribué à toutes les services de polices en présence. 
 
@@ -81,7 +82,7 @@ Ceci implique bien entendu que le nombre de messagers honnêtes soit supérieur 
 
 ### Les différentes méthodes de consensus:
 
-| Type de consensus | Description | Avantages | Inconvénients | Type de Blockchain|
+| Type de consensus | Description | Avantages | Inconvénients | Type de blockchain|
 |:-----------------:|-------------|-----------|---------------|-------------------|
 | Preuve de travail (PoW) | Les ordinateurs des mineurs sont mis à disposition pour résoudre un problème mathématique compliqué. Le 1er qui trouve une solution gagne la récompense du prochain bloc de la chaîne. | Sécurisé, éprouvé et robuste. | Très consommateur d’électricité et de matériel informatique. | Publique
 | Preuve de l'enjeu (PoS) | Les validateurs de transactions doivent mettre en gage la possession de cryptomonnaie pour recevoir une récompense. Si un nœud est malveillant, il peut perdre sa mise en gage au profit des validateurs honnêtes. | Peu consommateur en ressources énergétiques. | Peu testé à grande échelle. | Publique |
