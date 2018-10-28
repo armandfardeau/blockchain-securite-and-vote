@@ -17,11 +17,11 @@ Failles de sécurités, atteintes à la vie privée, manipulations de l’opinio
 Le temps de la croyance aveugle dans les bienfaits de la révolution internet et des fantasmes semble révolu.
 
 Cette crise de confiance n'est pas propre au secteur numérique, elle se diffuse dans toutes
-les strates de nos sociétés. Elle se manifeste dans le champ politique, dans le champ médiatique si bien que l'ère dans laquelle nous vivons porte désormais le nom d'ère post-vérité (post-factual era).
+les strates de nos sociétés. Elle se manifeste dans le champ politique, dans le champ médiatique si bien que l'ère dans laquelle nous vivons porte désormais le nom d'ère post-vérité (*post-factual era*).
 
-Cette crise de confiance a déjà de nombreuses conséquences dans le champ politique mais également dans le champ économique où la confiance est la clé de voûte de l'investissement et de l'adhésion à une marque ou à un produit
+Cette crise a déjà de nombreuses conséquences dans le champ politique ainsi que dans le champ économique où la confiance est la clé de voûte de l'investissement et de l'adhésion.
 
-L’opinion publique, les législateurs et les acteurs de l’industrie commencent à prendre la pleine mesure des chantiers qui s’annoncent pour sortir d’une période que l’on considèrera bientôt, peut-être, comme celle du Far West  
+L’opinion publique, les législateurs et les acteurs de l’industrie commencent à prendre la pleine mesure des chantiers qui s’annoncent pour sortir d’une période que l’on considèrera bientôt, peut-être, comme celle du Far West.
 
 Le travail de reconstruction de la confiance, qui commence seulement à s’effriter, sera dans les années à venir un des secteurs offrant les plus forts potentiels de croissance et d’innovation.
 
