@@ -22,7 +22,7 @@ Les DAOs utilisent la technologie des smart-contracts (voir smart-contract) pour
 Selon Simon de la Rouviere, blockchain Consensys: il existe trois éléments fondamentaux apportés par une DAO. 
 Le premier est que la DAO est inarrêtable, elle ne peut ni être fermée ni stoppée. 
 Le second est que l'entité est forcée de faire acte de transparence et l'intégrité de ses données sont préservée, ainsi un individu ne peut prétendre à la manipuler ou la contrôler.
-Le dernièr, et non pas des moindres est le caractère auditable à l'échelle supranationale, en effet lors du contrôle d'une entité, les auditeurs s'appuient soit sur des organes de contrôle du pays de résidence, soit sur des auditeurs indépendants. Parfois il est impossible d'effectuer ces contrôles librement ou sans crainte d'une fraude. 
+Le dernier, et non pas des moindres, est le caractère auditable à l'échelle supranationale. En effet, lors du contrôle d'une entité, les auditeurs s'appuient soit sur des organes de contrôle du pays de résidence, soit sur des auditeurs indépendants. Parfois il est impossible d'effectuer ces contrôles librement ou sans crainte d'une fraude. 
 
 La DAO apparaît comme une organisation ouverte, globale, indépendante de toute juridiction et protégée d'une partie des fraudes qui agitent les organisations classiques grâce à l'application de la Loi par le code.
 
@@ -54,20 +54,19 @@ Le votant se verra alors retribué si sa proposition est financée.
 
 ##### Fin du projet
 
-En juin 2016, TheDAO a vu son développement arrêté suite à une attaque de grande ampleur.
- cela n'a donc été qu'une courte expérimentation qui a permis la mise en lumière des axes d'améliorations pour le développement de ce type d'organisation.
+En juin 2016, TheDAO a vu son développement arrêté suite à une attaque de grande ampleur. Cela n'aura donc été qu'une courte expérimentation qui a permis la mise en lumière des axes d'améliorations pour le développement de ce type d'organisation.
 
 On peut imaginer aisément que disposer d'une blockchain pour enregistrer les actions de son entreprise deviendra aussi indispensable qu'un expert comptable pour les marchés financiers.
 
 {% hint %}
 
-Afin de remettre en perspective cet échec et d'illustrer l'engouement du public pour la technologie blockchain il est de bon ton de rappeller que lors de sa crowdsale, la mise en vente publique de token, TheDAO était la plus grosse campagne de crowdfunding de tous les temps avec une levée de plus de 160 millions de dollars en seulement un mois.
+Afin de remettre en perspective cet échec et d'illustrer l'engouement du public pour la technologie blockchain, il est de bon ton de rappeller que lors de sa crowdsale, la mise en vente publique de token, TheDAO était la plus grosse campagne de crowdfunding de tous les temps avec une levée de plus de 160 millions de dollars en seulement un mois.
 
 {% endhint %}
 
 ### La co-gouvernance de l'entreprise: piste prospective
 
-La Blockchain est une opportunité pour les entreprises à plusieurs titres, elle offre à la fois la perspective de transparence que le grand public réclame, mais solutionne également l'implication des consommateurs au sein de la gouvernance de produits et de services.
+La Blockchain est une opportunité pour les entreprises à plusieurs titres. Elle offre à la fois la perspective de transparence que le grand public réclame, mais solutionne également l'implication des consommateurs au sein de la gouvernance de produits et de services.
 
 Cette participation peut s'envisager à deux échelons: au niveau de la gouvernance du produit ou du service, ou bien de l'entreprise.
 
