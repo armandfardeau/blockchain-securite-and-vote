@@ -23,7 +23,7 @@ Cette crise a déjà de nombreuses conséquences dans le champ politique ainsi q
 
 L’opinion publique, les législateurs et les acteurs de l’industrie commencent à prendre la pleine mesure des chantiers qui s’annoncent pour sortir d’une période que l’on considèrera bientôt, peut-être, comme celle du Far West.
 
-Le travail de reconstruction de la confiance, qui commence seulement à s’effriter, sera dans les années à venir un des secteurs offrant les plus forts potentiels de croissance et d’innovation.
+Le travail de reconstruction de la confiance, qui commence seulement à s’effriter, sera dans les années à venir un des secteurs offrant les plus forts potentiels de croissance et d’innovation. _*Du marché de la sécurité au marché de la confiance*_ (Y.ECHED et O. ARGAUT 2003)
 
 C’est dans ce cadre que nous comptons ici nous intéresser à l’impact que pourrait avoir une technologie largement médiatisée car au coeur des cryptomonnaies: la blockchain.
 
