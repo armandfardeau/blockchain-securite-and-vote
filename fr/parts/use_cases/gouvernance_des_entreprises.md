@@ -1,11 +1,11 @@
 ## Gouvernance des entreprises
 ---
 
-La blockchain propose un modèle de gouvernance des entreprises avec preuves, traçabilité et transparence.
+La blockchain propose un modèle de gouvernance des entreprises avec preuves, traçabilité et transparence. Certaines organisations s'appuient déjà sur cette technologie, c'est le cas des DAOs.
 
 ### DAO
-Une DAO (Decentralized Autonomous Organization) est une organisation décentralisée.
- Les règles la régissant sont inscrites dans une blockchain.
+Une DAO (Decentralized Autonomous Organization) est une organisation décentralisée s'appuyant sur la blockchain pour fonctionner. Les membres font l'acquisition de jetons (tokens) pour participer à des votes sur diverses décisions qui s'incarneront sous la forme de smart-contracts. 
+ Les règles la régissant sont inscrites au préalable dans cette même blockchain.
 
 Cela rejoint le principe de loi par le code (law by code). 
 

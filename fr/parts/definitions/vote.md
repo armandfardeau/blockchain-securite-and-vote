@@ -15,12 +15,12 @@ Le vote est généralement encadré par un processus électoral aussi dénommé 
 |------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Décidabilité | Le but premier est généralement de pouvoir décider d'une position, qu'il s'agisse d'une position consistant à prendre une décision, ou d'une position consistant à ne pas prendre de décision; c'est notamment le cas d'un référendum. |
 | Unicité du vote | Généralement on souhaite l'unicité du vote: pour permettre à chacun d'être justement représenté, il ne faut pas permettre à un électeur de voter plusieurs fois, c'est-à-dire d'être sur représenté. |
-| Représentativité | Certains systèmes de propriété (propriété au sens légal) conduisent à ce que les voix de chaque électeur soient pondérées par une quote-part de participation. |
+| Représentativité | Le vote doit ètre représentatif de l'opinion de l'ensemble. Dans certains systèmes, les voix de chaque électeur sont pondérées par une quote-part de participation. |
 | Secret et transparence | Suivant le scrutin, on peut souhaiter que le vote soit secret, afin de prévenir la corruption du vote, ou bien au contraire public, afin de contraindre à un positionnement assumé. |
 | Vérifiabilité | Afin de lever tout doute sur la légitimité du scrutin, lorsqu'un enjeu existe, on souhaite que le scrutin soit vérifiable, c'est-à-dire que l'on puisse démontrer aux yeux de tous l'absence de triche. On souhaite alors s'assurer que les personnes et matériels impliqués dans l'organisation ne soient pas détournés aux profits d'intérêts spécifiques. |
 | Attractivité | Certaines organisations commerciales promeuvent des votes dans le but inavoué de susciter la participation à une action qui sans le dire est un acte d'achat. C'est notamment le cas des votes visant à l'achat par «numéros de services à valeur ajoutée» également connues sous l’appellation de communication téléphonique surtaxée. |
 | Non-participation | Pour éviter qu'une décision ne soit prise par défaut ou pour pallier certains aléas, il est de coutume de permettre la non-participation, par exemple au travers de l'abstention, ou du vote nul ou blanc. |
-| Quorum et majorité | Pour donner une légitimité accrue à la prise de décision, la méthode de vote peut être corrélée à un système de quorum et/ou de majorité qualifiée. |
+| Quorum et majorité | Pour donner une légitimité accrue à la prise de décision, la méthode de vote peut être corrélée à un système de quorum, c'est à dire un nombre de présence minimal parmi les membres d'une assemblée sans lequel une délibération au sein de celle-ci ne peut être valide |
 | Rapidité | Dans un vote où l'on attend un résultat positif, il est d'usage de demander d'abord qui est contre et ensuite qui s'abstient. Les personnes qui ne se prononcent pas sont alors supposées en faveur de la décision. Ceci présente une double avantage: cela évite de devoir compter les nombreux pour, tout en maximisant leur nombre. |
 
 ---
@@ -31,6 +31,7 @@ Le vote est généralement encadré par un processus électoral aussi dénommé 
 
 * Vote à main levée: 
 Le vote à main levée consiste à lever sa main pour donner son avis entre plusieurs propositions. Il permet une prise de décision rapide, car le dépouillement est quasi immédiat. Mais cela oblige à ce que tous les votants soient présents en même temps. La procédure peut commencer par le vote par acclamation, où on estime le volume sonore de chaque option comme à l'assemblée spartiate ou lors de la conclusion de primaires présidentielles aux États-Unis.
+Le vote à main levée ne garantit pas la confidentialité du vote, ce mode de scrutin garantit une forme de transparence dans les démocraties représentatives. 
 
 ![Vote à main levée](../../images/vote-main-levée.jpg)
 >
