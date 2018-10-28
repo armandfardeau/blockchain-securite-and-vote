@@ -30,7 +30,7 @@ La sécurité des systèmes d'information vise les objectifs suivants:
 | La disponibilité | Le système doit fonctionner sans faille durant les plages d'utilisation prévues et garantir l'accès aux services et ressources installées avec le temps de réponse attendu. |
 | L'intégrité | Les données doivent être celles que l'on attend, et ne doivent pas être altérées de façon fortuite, illicite ou malveillante. En clair, les éléments considérés doivent être exacts et complets. |
 | La confidentialité | Seules les personnes autorisées peuvent avoir accès aux informations qui leur sont destinées. Tout accès indésirable doit être empêché. |
-| La traçabilité (ou «preuve») | Garantie que les accès et tentatives d'accès aux éléments considérés sont tracés et que ces traces sont conservées et exploitables. |
+| La traçabilité (ou «preuve») | Il faut garantir que les accès et tentatives d'accès aux éléments considérés sont tracés et que ces traces sont conservées et exploitables. |
 | L'authentification | L'identification des utilisateurs est fondamentale pour gérer les accès aux espaces de travail pertinents et maintenir la confiance dans les relations d'échange. |
 | La non-répudiation et l'imputation | Aucun utilisateur ne doit pouvoir contester les opérations qu'il a réalisées dans le cadre de ses actions autorisées et aucun tiers ne doit pouvoir s'attribuer les actions d'un autre utilisateur.Une fois les objectifs de la sécurisation déterminés, les risques pesant sur chacun de ces éléments peuvent être estimés en fonction des menaces. |
 

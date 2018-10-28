@@ -1,15 +1,15 @@
 # Les origines de la crise de confiance et l'aspiration à la transparence
 
-## l'ère de la post-vérité
+## L'ère de la post-vérité
 
-«Post-vérité»: c'est le néologisme que le dictionnaire de l'université d'Oxford a choisi de nommer mot international de l'année 2016. Il provient du livre The Post-Truth Era de Ralph Keyes.
+«Post-vérité»: c'est le néologisme que le dictionnaire de l'université d'Oxford a choisi de nommer mot international de l'année 2016. Il provient du livre _*The Post-Truth Era de Ralph Keyes*_.
 
 > Cette notion est généralement associée aux affirmations fantaisistes et mensongères de Donald Trump et à ceux qui ont voté pour lui, issus des classes populaires de la société américaine. Mais, en réalité, la responsabilité de l'ère post-vérité revient aux professionnels des classes moyennes qui ont préparé le terrain à son récent triomphe. Universitaires, journalistes, «créatifs» et traders: tous ont contribué à l'avènement de la 
 «post-vérité» ; même les politiciens de centre gauche, pourtant durement touchés par le succès du courant anti-factuel.
 >
 > *Andrew Calcutt, The Conversation*
 
-Déjà en 1964 dans Vérité et politique, Hannah Arendt se posait la question de l'objectivité de l'histoire. Dès la première phrase, en évoluant l'opinion et l'interprétation, elle engage la réflexion sur le terrain de la supposée subjectivité de l'historien. 
+Déjà en 1964, dans Vérité et politique, Hannah Arendt se posait la question de l'objectivité de l'histoire. Dès la première phrase, en évoluant l'opinion et l'interprétation, elle engage la réflexion sur le terrain de la supposée subjectivité de l'historien. 
 
 Cette remise en question et ce questionnement, légitime, ont ouvert la porte à une remise en question plus profonde. Il existerait un pan entier de la réalité qui ne serait appréhendable qu'à travers le regard subjectif de l'observateur.
 
@@ -38,8 +38,10 @@ Aujourd'hui il apparait comme un défi pour les entités s'adressant à ces cito
 >
 > Source Étude Cevipof Sciences Po
 
-Comme nous pouvons le voir sur l'infographie ci-dessus, les grandes entreprises privées, les banques, les syndicats, les médias et les partis politiques sont parmi les moins dignes de confiance pour le grand public. 
-
-Nous traiterons dans ce mémoire essentiellement de ces derniers.
+Comme nous pouvons le voir sur l'infographie ci-dessus, les grandes entreprises privées, les banques, les syndicats, les médias et les partis politiques sont parmi les moins dignes de confiance pour le grand public.
+ 
+[//]: # (TODO: Check if correct)
+ 
+Nous traiterons dans ce mémoire essentiellement des institutions publiques, des entreprises privées et des associations.
 
 Il serait vain de tenter de lister toutes les manifestations de cette crise de confiance ni même ses origines qui sont sujettes à controverses. Néanmoins, il convient de constater que celle-ci existe indubitablement, en témoignent les nombreux articles de presse sur ce sujet, et que son existence impose de repenser profondément le rapport au monde des entreprises, associations, et États en intégrant ses nouveaux impératifs de transparence.

@@ -1,10 +1,10 @@
 # B. De la blockchain comme potentiel cœur de ce changement
 ---
 
-Les entreprises, institutions et associations traversent une crise de la confiance. Elles sont désormais scrutées, analysées et le moindre faux-pas peut leur coûter le prix. 
+Les entreprises, institutions et associations traversent une crise de la confiance. Elles sont désormais scrutées, analysées et le moindre faux-pas peut avoir des conséquences coûteuses. 
 Si la participation par le biais du vote est un premier pas facile vers la réconciliation, il n'est pas pour autant suffisant. 
 En effet, le grand public réclame désormais des processus fiables et transparents, afin de permettre un contrôle par le plus grand nombre. 
-La Blockchain apparaît alliée au vote comme une opportunité de redonner confiance et comme moteur de réengagement auprès de ces organisations. 
+La blockchain apparaît comme une opportunité de redonner confiance et comme moteur de réengagement auprès de ces organisations. 
 
 #### [1. Qu'est-ce que la blockchain ?](../../parts/blockchain_potential_change/blockchain_en_details.md)
 #### [2. Qu'est-ce que les smart-contracts ?](../parts/blockchain_potential_change/smart_contract.md)

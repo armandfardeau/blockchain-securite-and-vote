@@ -86,7 +86,7 @@ En preuve de travail (PoW), l'algorithme récompense les participants qui résol
 ## proof-of-stake
 Dans les blockchains publiques basées sur la preuve de mise en jeu (par exemple, l'implémentation prochaine d'Ethereum Casper), un ensemble de validateurs se relaient pour proposer et voter sur le bloc suivant, et le poids du vote de chaque validateur dépend de la taille de son dépôt (c'est-à-dire la mise en jeu).
 
-## John Biggs, TechCrunch
+## Leonardo Gammar dans «La Sierra Leone vient d'organiser les premières élections basées sur une blockchain.»
 Titre: Sierra Leone just ran the first blockchain-based election
 Auteur: John Biggs
 Source: [Techcrunch](https://techcrunch.com/2018/03/14/sierra-leone-just-ran-the-first-blockchain-based-election/)
@@ -173,7 +173,7 @@ Source: [Whitepaper](https://github.com/DemocracyEarth/paper#Paper)
 La démocratie liquide, aussi appelée démocratie délégative, est une forme de gouvernement démocratique où le pouvoir de vote est confié à un délégué plutôt qu'à un représentant. Le déléguataire est soumis au contrôle des délégants. 
 
 ## La signature de cercle 
-La signature de cercle est un procédé cryptographique permettant à une personne de signer électroniquement de façon anonyme un message ou un document au nom d’un « cercle ». Les membres de ce cercle sont choisis par l’auteur de la signature et ne sont pas nécessairement informés de leur implication dans la création de la signature électronique. La seule contrainte est qu’ils doivent tous avoir une clef cryptographique publique.
+La signature de cercle est un procédé cryptographique permettant à une personne de signer électroniquement de façon anonyme un message ou un document au nom d’un « cercle ». Les membres de ce cercle sont choisis par l’auteur de la signature et ne sont pas nécessairement informés de leur implication dans la création de la signature électronique. La seule contrainte est qu’ils doivent tous avoir une clé cryptographique publique.
 
 ## Zcash à propos de zk-SNARKS
 Source: [site zcash](https://z.cash/technology/zksnarks/)
