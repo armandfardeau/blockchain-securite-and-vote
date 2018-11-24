@@ -1,0 +1,674 @@
+
+<!DOCTYPE HTML>
+<html lang="en" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>5. Gestion de l'identification et confidentialité · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../../../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-language-picker/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-hints/plugin-hints.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+        <link rel="stylesheet" href="../../styles/website.css">
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../../../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="blockchain_securite.html" />
+    
+    
+    <link rel="prev" href="private_vs_public.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../../">
+            
+                <a href="../../">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../../executive_summary.html">
+            
+                <a href="../../executive_summary.html">
+            
+                    
+                    Résumé
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../../acknowledgement.html">
+            
+                <a href="../../acknowledgement.html">
+            
+                    
+                    Remerciements
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="../definitions.html">
+            
+                <a href="../definitions.html">
+            
+                    
+                    Définitions
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.4.1" data-path="../definitions/blockchain.html">
+            
+                <a href="../definitions/blockchain.html">
+            
+                    
+                    Blockchain
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.2" data-path="../definitions/security.html">
+            
+                <a href="../definitions/security.html">
+            
+                    
+                    Modalité de sécurisation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.3" data-path="../definitions/decision.html">
+            
+                <a href="../definitions/decision.html">
+            
+                    
+                    Prise de décision collective
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.4" data-path="../definitions/vote.html">
+            
+                <a href="../definitions/vote.html">
+            
+                    
+                    Vote
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="../tools-and-impact.html">
+            
+                <a href="../tools-and-impact.html">
+            
+                    
+                    A. Du besoin d’outils sécurisés de prise de décision collective et de leur potentiel impact
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.5.1" data-path="../tools_and_impact/crise_confiance.html">
+            
+                <a href="../tools_and_impact/crise_confiance.html">
+            
+                    
+                    1. Les origines de la crise de confiance
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.2" data-path="../tools_and_impact/aspiration_transparence.html">
+            
+                <a href="../tools_and_impact/aspiration_transparence.html">
+            
+                    
+                    2. Une aspiration à la transparence
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.3" data-path="../tools_and_impact/preuve_vote.html">
+            
+                <a href="../tools_and_impact/preuve_vote.html">
+            
+                    
+                    3. Du statut de la preuve au vote
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.4" data-path="../tools_and_impact/areas_of_concern.html">
+            
+                <a href="../tools_and_impact/areas_of_concern.html">
+            
+                    
+                    4. Les domaines d'enjeux
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="../blockchain-potential-change.html">
+            
+                <a href="../blockchain-potential-change.html">
+            
+                    
+                    B. De la blockchain comme potentiel cœur de ce changement
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.6.1" data-path="blockchain_en_details.html">
+            
+                <a href="blockchain_en_details.html">
+            
+                    
+                    1. Qu'est-ce que la blockchain ?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.2" data-path="smart_contract.html">
+            
+                <a href="smart_contract.html">
+            
+                    
+                    2. Qu'est-ce que les smart-contracts ?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.3" data-path="preuve_travail_preuve_enjeu.html">
+            
+                <a href="preuve_travail_preuve_enjeu.html">
+            
+                    
+                    3. Preuve de Travail vs Preuve de l’Enjeu
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.4" data-path="private_vs_public.html">
+            
+                <a href="private_vs_public.html">
+            
+                    
+                    4. Blockchain privée vs Blockchain publique
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.6.5" data-path="identity_and_confidentiality.html">
+            
+                <a href="identity_and_confidentiality.html">
+            
+                    
+                    5. Gestion de l'identification et confidentialité
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.6" data-path="blockchain_securite.html">
+            
+                <a href="blockchain_securite.html">
+            
+                    
+                    6. Quid de la sécurité de la blockchain ?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.7" data-path="impact_energetique.html">
+            
+                <a href="impact_energetique.html">
+            
+                    
+                    7. Quid de ses impacts énergétiques ?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.8" data-path="blockchain_normalisation.html">
+            
+                <a href="blockchain_normalisation.html">
+            
+                    
+                    8. Vers une normalisation ?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.9" data-path="blockchain_limite.html">
+            
+                <a href="blockchain_limite.html">
+            
+                    
+                    9. Les limites de la blockchain
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" data-path="../use-cases.html">
+            
+                <a href="../use-cases.html">
+            
+                    
+                    C. Scénarios d’usages
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.7.1" data-path="../use_cases/gouvernance_des_entreprises.html">
+            
+                <a href="../use_cases/gouvernance_des_entreprises.html">
+            
+                    
+                    1. Gouvernance des entreprises
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.2" data-path="../use_cases/management_collboratif.html">
+            
+                <a href="../use_cases/management_collboratif.html">
+            
+                    
+                    2. Management collaboratif de projet
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.3" data-path="../use_cases/democratie_participative.html">
+            
+                <a href="../use_cases/democratie_participative.html">
+            
+                    
+                    3. Démocratie participative
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.4" data-path="../use_cases/vie_associative_et_gestion_des_collectivites.html">
+            
+                <a href="../use_cases/vie_associative_et_gestion_des_collectivites.html">
+            
+                    
+                    4. Vie associative et gestion des collectivités.
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8" data-path="../../conclusion.html">
+            
+                <a href="../../conclusion.html">
+            
+                    
+                    Conclusion
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9" data-path="../../GLOSSARY.html">
+            
+                <a href="../../GLOSSARY.html">
+            
+                    
+                    Sources et glossaire
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="../.." >5. Gestion de l'identification et confidentialité</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h2 id="identification-management-and-confidentiality">Identification management and confidentiality</h2>
+<hr>
+<p>On the Bitcoin and <a href="../../GLOSSARY.html#ethereum" class="glossary-term" title="D&#xE9;finition: Ethereum est une plate-forme d&#xE9;centralis&#xE9;e qui g&#xE8;re des contrats intelligents (smart-contract): des applications qui fonctionnent exactement comme programm&#xE9;e sans aucune possibilit&#xE9; de temps d&apos;arr&#xEA;t, de censure, de fraude ou d&apos;interf&#xE9;rence de tiers.
+Source: Ethreum project">Ethereum</a> blockchain (before 2017), the identification of a user can be discovered. It therefore does not ensure the confidentiality required for a <strong> secret ballot vote</strong>..</p>
+<p>Indeed, the nature of the public block chain means that each transaction that takes place will be published and linked to a publication of a public cryptographic key. This key is encrypted so that a person looking at the history of the block chain would not be able to identify the actual identification of the individual behind this key. </p>
+<p>This anonymity could be preserved if this public key were used only once. But if this key is used several times, it is possible to determine that the same individual is hiding behind this public key.</p>
+<p><img src="../../images/identification_bitcoin_pub_key.png" alt="Sch&#xE9;ma d&#xE9;montrant la possibilit&#xE9; de relier un utilisateur &#xE0; de multiples transactions sur la blockchain Bitcoin"></p>
+<blockquote>
+<p>Diagram showing the possibility of linking a user to multiple transactions on the Bitcoin blockchain</p>
+</blockquote>
+<p>Of course, the purpose of the public key is to distinguish one user from another on the network to ensure that the transaction is assigned to the right author.</p>
+<p>One solution to this problem is to use the Zero knowledge proof (ZKP) method of proof.</p>
+<p>The most widespread form at present is zk-SNARKs (zero-knowledge Succinct Non-Interactive ARgument of Knowledge), native to <a href="../../GLOSSARY.html#ethereum" class="glossary-term" title="D&#xE9;finition: Ethereum est une plate-forme d&#xE9;centralis&#xE9;e qui g&#xE8;re des contrats intelligents (smart-contract): des applications qui fonctionnent exactement comme programm&#xE9;e sans aucune possibilit&#xE9; de temps d&apos;arr&#xEA;t, de censure, de fraude ou d&apos;interf&#xE9;rence de tiers.
+Source: Ethreum project">Ethereum</a> since the Metropolis (Byzantium Fork) update on 12 October 2017 and native to Zcash. Another form of ZKP is also found on the Monera blockchain, which implements a circle signing system: Monero Ring Confidential Transactions (RingCT).</p>
+<p>In order to have &quot;unconscious privacy&quot; in Zcash, the function determining the validity of a transaction according to the network&apos;s consensus rules must return the answer on whether or not the transaction is valid, without revealing any information about the calculations performed on it. This is done by coding some of the network&apos;s consensus rules in zk-SNARKs. </p>
+<p>At a high level, zk-SNARKs work by first transforming what you want to prove into an equivalent form on the knowledge of a solution to certain algebraic equations. </p>
+<p><img src="../../images/arithmetic-circuit_zk-snarks.png" alt="D&#xE9;monstration du circuit arithm&#xE9;tique pour calculer (a+b)*(b*c) &#xE0; l&apos;aide de zk-SNARKS"></p>
+<blockquote>
+<p>Demonstration of the arithmetic circuit for calculating (a+b)<em>(b</em>c) using zk-SNARKS</p>
+<p>Source: Zcash about zk-SNARKS</p>
+</blockquote>
+<p>Looking at such a circuit, one can consider the input values a, b, c as &quot;moving&quot; from left to right on the wires to the output wire. The next step is to build what is called a Rank 1 Constraint System (R1CS) to verify that the values move &quot;correctly&quot;. In this example, R1CS will confirm, for example, that the value that comes out of the multiplication gate where b and c are entered is b*c.</p>
+<p>In this R1CS representation, the auditor must check many constraints - one for almost all the wires in the circuit.  This method uses a representation of the circuit called the Quadratic Arithmetic Program (QAP). The only constraint that needs to be checked is now between polynomials rather than between numbers. Polynomials can be quite large, but that&apos;s okay, because when an identity doesn&apos;t hold between polynomials, it won&apos;t hold on to most points. Therefore, it is sufficient to verify that the two polynomials correspond to a randomly selected point in order to correctly verify the proof with a high probability.</p>
+<p>In concrete terms, this means that it is possible to obtain a transaction without sharing information.</p>
+<p>To better understand how zk-SNARKS works in practice, let&apos;s look at an example of &quot;how Alice can transfer money from one of her bank accounts to another, without providing Bob at Acme Bank with information to guarantee her identity&quot;.</p>
+<p>For this scenario, we will need four entities:</p>
+<ul>
+<li>Alice - an individual who wishes to prove his identity without transmitting it</li>
+<li>Acme Bank - Trusted third party for bank account attestations, and a trusted third party for the installation of zk-SNARK.</li>
+<li>Bob - Acme Bank Call Centre Representative</li>
+<li>Self-Sovereign Identity Solution - Provider of digital identity data to Acme Bank App, and a trusted third party for the installation of zk-SNARK.</li>
+</ul>
+<p><img src="../../images/zk_snarks_ethereum.png" alt="Exemple d&apos;utilisation de zk-SNARKS poour l&apos;authentification aupr&#xE8;s d&apos;un centre d&apos;appel bancaire"></p>
+<p>To perform this authentication operation, it is necessary to use a third party &quot;ACME BANK&quot;: this third party will authenticate Alice using a third party application and return the true value if Alice is the person she claims to be.</p>
+<p><div class="alert alert-info hints-alert"><div class="hints-icon"><i class="fa fa-info-circle"></i></div><div class="hints-container"><p>The advantage of this system is that neither the Bank nor Bob has Alice&apos;s identifying information, nor does the third party have any idea of the nature of the transaction between the Bank and Alice. There is therefore a perfect separation between the operations performed and authentication.          </p>
+</div></div></p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="private_vs_public.html" class="navigation navigation-prev " aria-label="Previous page: 4. Blockchain privée vs Blockchain publique">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="blockchain_securite.html" class="navigation navigation-next " aria-label="Next page: 6. Quid de la sécurité de la blockchain ?">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"5. Gestion de l'identification et confidentialité","level":"1.6.5","depth":2,"next":{"title":"6. Quid de la sécurité de la blockchain ?","level":"1.6.6","depth":2,"path":"parts/blockchain_potential_change/blockchain_securite.md","ref":"parts/blockchain_potential_change/blockchain_securite.md","articles":[]},"previous":{"title":"4. Blockchain privée vs Blockchain publique","level":"1.6.4","depth":2,"path":"parts/blockchain_potential_change/private_vs_public.md","ref":"parts/blockchain_potential_change/private_vs_public.md","articles":[]},"dir":"ltr"},"config":{"plugins":["pdf-multi-link","language-picker","hints","word-count"],"styles":{"website":"styles/website.css"},"pluginsConfig":{"language-picker":{"grid-columns":3},"search":{},"pdf-multi-link":{"label":{"en":"Download PDF","fr":"Télécharger le PDF"},"base":{"en":"https://github.com/armandfardeau/blockchain-securite-and-vote/raw/master/book_en.pdf","fr":"https://github.com/armandfardeau/blockchain-securite-and-vote/raw/master/book_fr.pdf"},"multilingual":true,"file":true},"word-count":{},"hints":{"danger":"fa fa-exclamation-circle","info":"fa fa-info-circle","tip":"fa fa-mortar-board","working":"fa fa-wrench"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"en","gitbook":"*"},"file":{"path":"parts/blockchain_potential_change/identity_and_confidentiality.md","mtime":"2018-11-24T15:07:27.515Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-11-24T15:55:36.580Z"},"basePath":"../..","book":{"language":"en"}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../../../gitbook/gitbook.js"></script>
+    <script src="../../../gitbook/theme.js"></script>
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-pdf-multi-link/plugin.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-language-picker/plugin.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+

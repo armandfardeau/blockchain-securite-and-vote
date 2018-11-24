@@ -1,0 +1,723 @@
+
+<!DOCTYPE HTML>
+<html lang="en" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>6. Quid de la sécurité de la blockchain ? · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../../../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-language-picker/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-hints/plugin-hints.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+        <link rel="stylesheet" href="../../styles/website.css">
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../../../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="impact_energetique.html" />
+    
+    
+    <link rel="prev" href="identity_and_confidentiality.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../../">
+            
+                <a href="../../">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../../executive_summary.html">
+            
+                <a href="../../executive_summary.html">
+            
+                    
+                    Résumé
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../../acknowledgement.html">
+            
+                <a href="../../acknowledgement.html">
+            
+                    
+                    Remerciements
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="../definitions.html">
+            
+                <a href="../definitions.html">
+            
+                    
+                    Définitions
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.4.1" data-path="../definitions/blockchain.html">
+            
+                <a href="../definitions/blockchain.html">
+            
+                    
+                    Blockchain
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.2" data-path="../definitions/security.html">
+            
+                <a href="../definitions/security.html">
+            
+                    
+                    Modalité de sécurisation
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.3" data-path="../definitions/decision.html">
+            
+                <a href="../definitions/decision.html">
+            
+                    
+                    Prise de décision collective
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.4" data-path="../definitions/vote.html">
+            
+                <a href="../definitions/vote.html">
+            
+                    
+                    Vote
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="../tools-and-impact.html">
+            
+                <a href="../tools-and-impact.html">
+            
+                    
+                    A. Du besoin d’outils sécurisés de prise de décision collective et de leur potentiel impact
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.5.1" data-path="../tools_and_impact/crise_confiance.html">
+            
+                <a href="../tools_and_impact/crise_confiance.html">
+            
+                    
+                    1. Les origines de la crise de confiance
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.2" data-path="../tools_and_impact/aspiration_transparence.html">
+            
+                <a href="../tools_and_impact/aspiration_transparence.html">
+            
+                    
+                    2. Une aspiration à la transparence
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.3" data-path="../tools_and_impact/preuve_vote.html">
+            
+                <a href="../tools_and_impact/preuve_vote.html">
+            
+                    
+                    3. Du statut de la preuve au vote
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.4" data-path="../tools_and_impact/areas_of_concern.html">
+            
+                <a href="../tools_and_impact/areas_of_concern.html">
+            
+                    
+                    4. Les domaines d'enjeux
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="../blockchain-potential-change.html">
+            
+                <a href="../blockchain-potential-change.html">
+            
+                    
+                    B. De la blockchain comme potentiel cœur de ce changement
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.6.1" data-path="blockchain_en_details.html">
+            
+                <a href="blockchain_en_details.html">
+            
+                    
+                    1. Qu'est-ce que la blockchain ?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.2" data-path="smart_contract.html">
+            
+                <a href="smart_contract.html">
+            
+                    
+                    2. Qu'est-ce que les smart-contracts ?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.3" data-path="preuve_travail_preuve_enjeu.html">
+            
+                <a href="preuve_travail_preuve_enjeu.html">
+            
+                    
+                    3. Preuve de Travail vs Preuve de l’Enjeu
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.4" data-path="private_vs_public.html">
+            
+                <a href="private_vs_public.html">
+            
+                    
+                    4. Blockchain privée vs Blockchain publique
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.5" data-path="identity_and_confidentiality.html">
+            
+                <a href="identity_and_confidentiality.html">
+            
+                    
+                    5. Gestion de l'identification et confidentialité
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.6.6" data-path="blockchain_securite.html">
+            
+                <a href="blockchain_securite.html">
+            
+                    
+                    6. Quid de la sécurité de la blockchain ?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.7" data-path="impact_energetique.html">
+            
+                <a href="impact_energetique.html">
+            
+                    
+                    7. Quid de ses impacts énergétiques ?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.8" data-path="blockchain_normalisation.html">
+            
+                <a href="blockchain_normalisation.html">
+            
+                    
+                    8. Vers une normalisation ?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.9" data-path="blockchain_limite.html">
+            
+                <a href="blockchain_limite.html">
+            
+                    
+                    9. Les limites de la blockchain
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" data-path="../use-cases.html">
+            
+                <a href="../use-cases.html">
+            
+                    
+                    C. Scénarios d’usages
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.7.1" data-path="../use_cases/gouvernance_des_entreprises.html">
+            
+                <a href="../use_cases/gouvernance_des_entreprises.html">
+            
+                    
+                    1. Gouvernance des entreprises
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.2" data-path="../use_cases/management_collboratif.html">
+            
+                <a href="../use_cases/management_collboratif.html">
+            
+                    
+                    2. Management collaboratif de projet
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.3" data-path="../use_cases/democratie_participative.html">
+            
+                <a href="../use_cases/democratie_participative.html">
+            
+                    
+                    3. Démocratie participative
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.4" data-path="../use_cases/vie_associative_et_gestion_des_collectivites.html">
+            
+                <a href="../use_cases/vie_associative_et_gestion_des_collectivites.html">
+            
+                    
+                    4. Vie associative et gestion des collectivités.
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8" data-path="../../conclusion.html">
+            
+                <a href="../../conclusion.html">
+            
+                    
+                    Conclusion
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9" data-path="../../GLOSSARY.html">
+            
+                <a href="../../GLOSSARY.html">
+            
+                    
+                    Sources et glossaire
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="../.." >6. Quid de la sécurité de la blockchain ?</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h2 id="what-about-the-blockchain-security">What about the blockchain security?</h2>
+<hr>
+<h3 id="the-blockchains-security-guarantees">The blockchain&apos;s security guarantees:</h3>
+<p>There is no safe technology as safety and security are an ideal, not an absolute. But it is possible to approach this ideal, and we can consider that the blockchain meets these requirements insofar as it ensures the following points:</p>
+<ul>
+<li><p>Availability: As data is distributed and decentralized, it is available as long as a node is able to transmit the register. </p>
+</li>
+<li><p>Integrity: the consensus mechanism is designed to allow information to be integrated and retained without altering it. The prerequisite for this provision is that a sufficient number of nodes are connected to the network and that the conditions for a 51% attack are not met.</p>
+</li>
+<li><p>Confidentiality: Confidentiality is a complex issue regarding the blockchain since the data are publicly available to ensure transparency.</p>
+<p>  Nevertheless, this confidentiality can be made possible by the implementation of a system of proof with zero disclosure of knowledge. Knowledgeless protocols allow the transfer of resources through a distributed network, peer-to-peer blockchain, in complete confidentiality. In regular block chain transactions, when an asset is sent from one party to another, the details of that transaction are visible to all other parties in the network. In an unconscious transaction, however, the other parties do not know that a valid transaction has occurred, but no information on the sender, recipient, asset class and quantity is disclosed. <a href="identity_and_confidentiality.html">Voir Gestion de l&apos;identification et confidentialit&#xE9;</a></p>
+</li>
+<li><p>Traceability: Because it is based on a stack of cryptographic blocks, the blockchain makes it possible to record all transactions and go back to block zero, ensuring the best traceability.</p>
+</li>
+<li><p>Authentication: To ensure the correct identity of a transaction, the issuer signs it with his private key, which &quot;until it is known, ensures the veracity of the transaction&quot;. </p>
+</li>
+<li><p>Non-repudiation and imputation: Through consensus-based validation, the blockchain natively allows data non-repudiation. As for imputation, each minor certifying a transaction is authenticated on the network, so it is possible to identify and disqualify an offending minor.</p>
+</li>
+</ul>
+<hr>
+<h3 id="security-threats-threatening-the-blockchain">Security threats threatening the blockchain:</h3>
+<p>According to Patricia Egger and Dusko Karaklajic in The Security of the Blockchain, threats to the emerging ecosystem are posed by the immaturity and complexity of the technology.</p>
+<p>Indeed, the many consensus algorithms available, the blockchain types and the underlying complex cryptographic protocols make the technology difficult to understand.</p>
+<p>The lack of standards and regulations on blockchain technology is also a risk. These legal loopholes are fertile ground for piracy and fraudulent manipulation, making technology still unreliable for serious use. </p>
+<p>The most important risk remains the belief in absolute security around the blockchain although it is based on reliable and proven cryptographic mechanisms. This security will never be complete by nature: cryptographic protocols have their limits and global security also integrates peripheral elements, so the human risk is always present. In this last point, the blockchain provides a new way of processing certain data but does not free us from the traditional approaches to information system security.</p>
+<p>In addition, the blockchain is sensitive to particular attacks, such as the Golfinger attack.</p>
+<h4 id="51-attack-or-goldfinger-attack">51% attack or Goldfinger attack</h4>
+<p>A 51% attack targets blockchains based on proof of work and proof of stake.  </p>
+<p>The purpose of this attack is to prevent transaction validations and paralyze the network, or to manipulate the history to validate a transaction twice without the expense being effective. </p>
+<p>The validation of blockchains is done through <a href="../../GLOSSARY.html#mining" class="glossary-term" title="Miner des cryptomonnaies signifie r&#xE9;aliser des calculs cryptographiques pour v&#xE9;rifier la cha&#xEE;ne de blocs. On d&#xE9;signe par la pr&#xE9;sente &#xE0; la fois la machine, la pratique, et la personne ou l&apos;institution effectuant l&apos;op&#xE9;ration.">mining</a>.</p>
+<p>In order to guarantee themselves remuneration within the framework of a blockchain operating under the proof of work method, miners are formed in groups (or pools), in order to have more power and to pool costs. They then share the effort and the gains.</p>
+<p>But the danger of a group with too much power is that it can make a 51% attack.</p>
+<p>Indeed, one of the founding principles of the blockchain is that the calculation is distributed among all the nodes where the calculation is validated by the consensus method. Thus if a single individual introduces a miscalculation voluntarily or falsifiedly, the other miners will automatically disqualify his work and his block will remain orphaned and will never be integrated. Thus alone, he cannot harm.</p>
+<p><div class="alert alert-danger hints-alert"><div class="hints-icon"><i class="fa fa-exclamation-circle"></i></div><div class="hints-container"><p>When a group of minors has at least 51% of the calculation capacities, it becomes possible in theory to bypass the consensus mechanism and thus to impose fallacious blocks that will be added to the official register. 
+So if a group becomes too powerful, it is able to define what information is legitimate within a blockchain.</p>
+</div></div></p>
+<h5 id="double-spending-example">&apos;Double spending&apos; example.</h5>
+<p>Assuming that a group has more than 51% of the total power, it can then fraudulently manipulate the registry called the double expense hack.</p>
+<p>This hack consists of making transactions between two accounts. He debits from the first account to the second, and with the power to manipulate the blockchain, erases the transaction. To do this, do not include the transaction in the mined blocks, and wait until a blockchain longer than the current blockchain replaces it.</p>
+<p>Once the transaction has been deleted from the distributed registry, the second account appears as never having been debited as long as the second account has received the sum.
+ It is a creation of ex-nihilo currency of crypto-currency units.</p>
+<p>Such an operation will quickly lead to a drop in the price of cryptomonnaise. The group carrying out fraudulent activities will then have to quickly convert its assets into a current currency such as the euro or the dollar, which will accelerate the fall in the price.</p>
+<p>The operation is facilitated by automated means.</p>
+<p>This attack is unthinkable on well-established blockchains such as Bitcoin, because of the cost of such an operation, at least such an approach is inaccessible to a private company, but not to a rogue state, which has the necessary budgets and may have as its motivation to disrupt a competing blockchain or causing disorder.</p>
+<p>On the other hand, on blockchains with a low <a href="../../GLOSSARY.html#mining" class="glossary-term" title="Miner des cryptomonnaies signifie r&#xE9;aliser des calculs cryptographiques pour v&#xE9;rifier la cha&#xEE;ne de blocs. On d&#xE9;signe par la pr&#xE9;sente &#xE0; la fois la machine, la pratique, et la personne ou l&apos;institution effectuant l&apos;op&#xE9;ration.">mining</a> capacity (recent or small), this attack is easily possible. </p>
+<p>In the latter case, a low computing power, which could be available to an average organization, would be sufficient to carry out the attack.</p>
+<p><div class="alert alert-danger hints-alert"><div class="hints-icon"><i class="fa fa-exclamation-circle"></i></div><div class="hints-container"><p>The newly created blockchains are therefore in an extremely vulnerable position.</p>
+</div></div></p>
+<h5 id="51-attack-objectives">51% attack objectives</h5>
+<ul>
+<li><p>Fraudulent records and disappearance of transactions:</p>
+<p> In the context of a private blockchain, for example allowing the implementation of the vote or allowing food traceability, this would make it possible to falsify the information. </p>
+<p>   In the case of a cryptomonnaise, this allows for double spending, which both enriches and destabilizes the exchange rate.</p>
+</li>
+<li><p>Breaking the bond of trust: </p>
+<p>  Because of their decentralized operation, blockchains pose governance problems and are perceived as a threat by certain states or institutions. This is why disrupting the operation of these blockchains can alienate the trust of users towards the blockchain.</p>
+</li>
+</ul>
+<h5 id="resilience-of-blockchains-to-attack">Resilience of blockchains to attack</h5>
+<p>The cryptocurrency system is designed to be resilient to 51% attacks, when such an attack is detected. A patch can be deployed and limits the damage caused by the attack. </p>
+<h6 id="estimated-costs-of-a-51-attack">Estimated costs of a 51% attack</h6>
+<p>The costs to carry out a 51% attack vary according to the scale of the blockchain targeted.</p>
+<p><em><em>Concerning Bitcoin, various estimates were made by Jean-Paul Delahaye in L&apos;attaque Goldfinger d&apos;une blockchain.</em></em></p>
+<p>Based on his calculations, the cost in May 2017 can be estimated at <strong>878 million dollars</strong>.</p>
+<p>In comparison, the budget of the French State is 400 billion euros per year, that of a government agency such as the NSA is 45 billion dollars.</p>
+<p>The attack is therefore inaccessible to a normal institution.</p>
+<h4 id="selfish-miner-strategy">Selfish miner strategy</h4>
+<hr>
+<p><em><em>The example of the selfish minor is explained in Les risques des blockchains, by Laurent Dehouck, Senior Lecturer in Management Sciences, ENS Rennes and Audrey Thomas, ENSAM.</em></em></p>
+<p>When a transaction takes place, the minor who discovers the solution first has a Be block.</p>
+<p> This block is supposed to be communicated to the other nodes in order to be integrated into the blockchain. </p>
+<p> But this dishonest minor can keep this block secret and work immediately on the validation of the next block.</p>
+<p>As soon as another &quot;honest&quot; miner validates a Bh block, he wants to broadcast it to the other nodes. </p>
+<p>The dishonest minor will then broadcast his Be block. The network is thus in the presence of two blocks validated almost at the same time and temporarily stored on the blockchain.</p>
+<p>Some nodes in the network will be aware of the Be block and others will be aware of the Bh block. </p>
+<p>New blocks will then be added following Be and Bh. </p>
+<p>For the dishonest minor, the advantage remains in the act of not disclosing the Be block. This gives it a strategic advantage over the rest of the network users in the search for the next solution, because each validated block is linked to the previous blocks.</p>
+<p>The simultaneous creation of two blocks causes what is called a &quot;bifurcation&quot;, so the containing chain will be preserved because the chain containing the Be block will be longer.</p>
+<p>The dishonest miner disqualifies his competitors by making them work at a loss, their yields quickly collapsing. </p>
+<p> <img src="../../images/illustration_bifurcation.png" alt="illustration d&apos;une bifurcation"></p>
+<blockquote>
+<p>Illustration d&apos;une bifurcation</p>
+</blockquote>
+<p><div class="alert alert-info hints-alert"><div class="hints-icon"><i class="fa fa-info-circle"></i></div><div class="hints-container"><p>This type of strategy invites us to rethink the question of blockchain standardization and consensus techniques to protect against these harmful practices.</p>
+</div></div></p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="identity_and_confidentiality.html" class="navigation navigation-prev " aria-label="Previous page: 5. Gestion de l'identification et confidentialité">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="impact_energetique.html" class="navigation navigation-next " aria-label="Next page: 7. Quid de ses impacts énergétiques ?">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"6. Quid de la sécurité de la blockchain ?","level":"1.6.6","depth":2,"next":{"title":"7. Quid de ses impacts énergétiques ?","level":"1.6.7","depth":2,"path":"parts/blockchain_potential_change/impact_energetique.md","ref":"parts/blockchain_potential_change/impact_energetique.md","articles":[]},"previous":{"title":"5. Gestion de l'identification et confidentialité","level":"1.6.5","depth":2,"path":"parts/blockchain_potential_change/identity_and_confidentiality.md","ref":"parts/blockchain_potential_change/identity_and_confidentiality.md","articles":[]},"dir":"ltr"},"config":{"plugins":["pdf-multi-link","language-picker","hints","word-count"],"styles":{"website":"styles/website.css"},"pluginsConfig":{"language-picker":{"grid-columns":3},"search":{},"pdf-multi-link":{"label":{"en":"Download PDF","fr":"Télécharger le PDF"},"base":{"en":"https://github.com/armandfardeau/blockchain-securite-and-vote/raw/master/book_en.pdf","fr":"https://github.com/armandfardeau/blockchain-securite-and-vote/raw/master/book_fr.pdf"},"multilingual":true,"file":true},"word-count":{},"hints":{"danger":"fa fa-exclamation-circle","info":"fa fa-info-circle","tip":"fa fa-mortar-board","working":"fa fa-wrench"},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"en","gitbook":"*"},"file":{"path":"parts/blockchain_potential_change/blockchain_securite.md","mtime":"2018-11-24T15:04:11.036Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-11-24T15:55:36.580Z"},"basePath":"../..","book":{"language":"en"}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../../../gitbook/gitbook.js"></script>
+    <script src="../../../gitbook/theme.js"></script>
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-pdf-multi-link/plugin.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-language-picker/plugin.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../../../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
