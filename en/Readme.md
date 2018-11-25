@@ -1,4 +1,4 @@
-# Blockchain as a method of securing the process of collective decision-making through voting.
+# Blockchain as a method of securing collective decision-making processes through voting.
 
 ---
 
@@ -9,8 +9,7 @@ _*Under the kind direction of Stéphane Dalbera, Atopos*_.
 >
 > Santiago Siri, Democraty Earth Foundation
 
-Many observers agree that we 
-we are entering a period of crisis of confidence in the services offered by the Internet.
+Many observers agree that we are entering a period of crisis of confidence in the services offered by the Internet.
 
 Security breaches, breaches of privacy, public opinion manipulation, cybercrime, cyberwar, etc. are nowadays issues that are widely covered by the media outside insider circles.
 
