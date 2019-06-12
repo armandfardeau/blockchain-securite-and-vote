@@ -15,7 +15,7 @@ But if these new methods are not to be a palliative, they must set up a real vir
 
 To do this, these systems must be designed in an open way (Open Source) but also respect the principles of security by design and privacy by design.
 
-{% adhered %}
+{% endhint %}
 
 #### Shared trust: the emergence of the "trustless
  
