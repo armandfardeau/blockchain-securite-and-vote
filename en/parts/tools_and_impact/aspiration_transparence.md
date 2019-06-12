@@ -1,24 +1,24 @@
-## Une aspiration à la transparence
+## An aspiration for transparency
 ---
 
-Pour répondre à la problématique de la transparence, une solution semble apparaître: «montrer patte blanche».
+To address the issue of transparency, a solution seems to appear: "show white paw".
 
-Les entreprises engagées dans des actions de communications doivent prendre conscience qu'elles sont hyper-scrutées et qu'elles doivent engager das actions pour prouver leur bonne-foi.
+Companies engaged in communications actions must be aware that they are hyper-recruited and that they must take action to prove their good faith.
 
-Nous entendons par là de faire usage le plus possible de la preuve, la plus irréfutable possible et d'instaurer la transparence comme un principe fondamental de la communication nouvelle des entreprises, des états et des entités émettrices de messages envers le public.
+By this we mean making the greatest possible use of evidence, as irrefutable as possible, and establishing transparency as a fundamental principle for the new communication of companies, states and entities sending messages to the public.
 
-Pour accompagner cette restauration de la confiance, des outils technologiques ont vu le jour: plateforme participative, management holacratique, consultation publique. Le besoin en transparence est d'ailleurs bien compris par certains acteurs, par exemple, ces outils font partie des propositions attendues par les collectivités dans le cadre des grands appels à projets urbains tels que "Inventons la Métropole du Grand Paris".
+To support this restoration of trust, technological tools have been developed: participatory platform, holacratic management, public consultation. The need for transparency is well understood by some stakeholders, for example, these tools are part of the proposals expected by local authorities in the context of major urban calls for projects such as "Inventing the Greater Paris Metropolis".
 
-Mais pour que ces nouvelles méthodes ne soient pas un palliatif, il faut qu'elles mettent en place un réel système vertueux et orienté sur le long terme.
+But if these new methods are not to be a palliative, they must set up a real virtuous and long-term oriented system.
 
 {% hint %}
 
-Pour cela, ces systèmes doivent être conçus de manière ouverte (Open Source) mais également respecter des principes de sécurité par conception (security by design) et de protection de la vie privée (privacy by design).
+To do this, these systems must be designed in an open way (Open Source) but also respect the principles of security by design and privacy by design.
 
-{% endhint %}
+{% adhered %}
 
-### La confiance partagée:  l'émergence du «trustless»
+#### Shared trust: the emergence of the "trustless
  
-La blockchain intègre ces attentes et les dépasse: elle pose le concept de non-nécessité de la confiance (trustlessness). À l'origine, ce mot désignait une personne ou une ressource à laquelle on ne pouvait pas faire confiance. Mais dans le cadre de la blockchain, le terme «sans confiance» (trustless) signifie qu'il existe des mécanismes en place par lesquels toutes les parties dans le système peuvent parvenir à un consensus sur une vérité canonique. 
+The blockchain integrates these expectations and exceeds them: it posits the concept of the non-necessity of trust (trustlessness). Originally, this word referred to a person or resource that could not be trusted. But in the context of the blockchain, the term "trustless" means that there are mechanisms in place by which all parties in the system can reach a consensus on a canonical truth. 
 
-Le pouvoir et la confiance sont répartis (ou partagés) entre les parties prenantes du réseau (par exemple, les promoteurs, les mineurs et les consommateurs), plutôt que concentrés dans une seule personne ou entité (par exemple, les banques, les gouvernements et les institutions financières).
+Power and trust are distributed (or shared) among network stakeholders (e.g., promoters, minors and consumers), rather than concentrated in a single person or entity (e.g., banks, governments and financial institutions).
