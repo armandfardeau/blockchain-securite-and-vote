@@ -1,86 +1,86 @@
-## Les domaines d'enjeux
+## The areas of concern
 ---
 
-La sphère publique, au sens arrendtien, est agitée des nombreuses problématiques que nous avons illustrées précédemment. Dans cette dimension publique, le vote est la forme d'expression reine : elle permet la consultation du plus grand nombre au moindre effort. 
+The public sphere, in the Arrendtian sense, is agitated by the many issues we have illustrated above. In this public dimension, voting is the queen form of expression: it allows the greatest number of people to be consulted at the least effort. 
 
-Le vote dans la sphère publique invite à s'interroger sur la représentativité en matière de prise de décision, de disponibilité physique des votants, de la transparence du processus démocratique, de l'intégrité et de la traçabilité. 
+Voting in the public sphere raises questions about representativeness in terms of decision-making, the physical availability of voters, the transparency of the democratic process, integrity and traceability. 
 
-De nombreuses implémentations du vote sont connexes au sein des institutions publiques, des associations, des entreprises dont la gestion se veut collaborative. Par conséquent, les réponses apportées à ces besoins peuvent être proches, voir similaires.
+Many voting implementations are related within public institutions, associations, companies whose management is collaborative. As a result, the responses to these needs may be similar or even similar.
 
-Par exemple, la participation aux élections nationales en France voit sa participation chuter d'année en année: 
+For example, participation in national elections in France is declining from year to year: 
 
 ![](../../images/abstention-france.png)
 >
-> L'abstention en France depuis 2002, source INSEE
+> Abstentions in France since 2002, source INSEE
 
 {% hint %}
 
-La blockchain, parce qu'elle supprime en partie le besoin de confiance, pourrait rassurer le grand public dans son acte de participation et pourrait constituer un moteur de ré-engagement de ce dernier.
+The blockchain, because it partially eliminates the need for trust, could reassure the general public in its act of participation and could constitute an engine for its re-engagement.
 
 {% endhint %}
 
 ---
 
-### Les différentes formes de vote dans la sphère publique: 
+### The different forms of voting in the public sphere:
 
-#### Le vote dans les conseils d'administration:
+#### Voting on boards of directors:
 
-Ils ont pour champ de compétence l'administration des institutions, associations, entreprises ou un établissement public.
+Their field of competence is the administration of institutions, associations, companies or a public establishment.
 
-L’organisation, le fonctionnement et les prérogatives du conseil d’administration sont fixés par le statut de l'institution et dépendent du droit des sociétés. (Art. L.225-36-1 C. com.).
+The organisation, functioning and prerogatives of the Board of Directors are laid down by the Statute of the institution and depend on company law. (Art. L.225-36-1 C. com.).
 
-En général, les statuts prévoient la périodicité des réunions et les modalités de convocations des administrateurs. 
+In general, the Articles of Association provide for the frequency of meetings and the procedures for convening directors. 
 
-Un conseil d'administration doit théoriquement se tenir dès lors que la situation de l'entreprise l'exige. Or, la tenue de celui-ci est _*de facto*_ conditionné à la disponibilité physique des parties prenantes.  
+In theory, a board of directors should meet whenever the company's situation so requires. However, the holding of this one is _*de facto*_ conditioned on the physical availability of the stakeholders.  
 
-Les décisions sont prises par le vote au sein d'un conseil d'administration, en général à main levée. Ce qui implique la confiance dans le déroulé honnête de celui-ci, la traçabilité n'étant assurée que par le tiers de confiance qui le rapporte. 
+Decisions are taken by vote within a board of directors, usually by show of hands. This implies trust in the honest process, traceability being ensured only by the trusted third party who reports it. 
 
-* La participation de la personne morale au conseil d'administration:
-    Si une personne morale est membre d'un conseil d'administration, elle désigne une personne physique pour la représenter. De la délégation de ce vote découle un doute: le délégataire est dans la capacité de dépasser ou d'outrepasser les choix préalables du ou des délégants.
+* The participation of the legal entity in the board of directors:
+    If a legal entity is a member of a board of directors, it shall appoint a natural person to represent it. From the delegation of this vote comes a doubt: the delegate is in the position to exceed or exceed the prior choices of the delegator(s).
 
-* L'intégration du salarié: 
-    Le projet de loi sur la croissance des entreprises, dit loi Pacte, prévoit de renforcer la présence des représentants salariés dans les conseils d'administration (Projet de loi PACTE article 62, alinéa II). 
+* The employee's integration: 
+    The draft law on the growth of companies, known as the Pact law, provides for strengthening the presence of employee representatives on boards of directors (Draft law PACTE article 62, paragraph II). 
     
-   Ce projet de loi introduit une plus grande participation des salariés comme vecteur de croissance économique selon le Rapport d'étude d'impact du projet de loi relatif à la croissance et la transformation des entreprises.
+   This bill introduces greater employee participation as a vehicle for economic growth according to the Impact Assessment Report on the draft law on business growth and transformation.
     
-#### Le vote dans la consultation publique
+##### Voting in the public consultation
 
-* Dans le cadre de la pétition: La pétition consiste à apporter son soutien à une cause en la ratifiant. Bien qu'elle n'appartienne pas directement au vote, elle partage avec ce dernier de nombreux attributs qui font que nous pouvons traiter les deux sujets conjointement sans perdre en pertinence.
+* In the context of the petition: The petition consists of supporting a cause by ratifying it. Although it does not belong directly to the vote, it shares many attributes with the vote that make it possible to deal with both subjects together without losing relevance.
 
-* Dans le cadre de l'administration du bien public: L'administration du bien public en toute transparence est une préoccupation majeure de ces dernières années. Elle se pose à deux niveaux ; le premier concerne la prise de décision  et implique la concertation. Le second implique la gestion continue du bien et sa gouvernance. Les biens publics sont multiples et les propositions les concernant peuvent provenir des citoyens mais également des institutions.
+* In the context of the administration of the public good: The transparent administration of the public good has been a major concern in recent years. It arises at two levels; the first concerns decision-making and involves consultation. The second involves the ongoing management of the property and its governance. There are many public goods and the proposals concerning them can come from citizens but also from institutions.
 
-#### Le vote dans la gestion collaborative:
+###### Voting in collaborative management:
 
-* La co-gestion avec les utilisateurs: 
-    Le crowdfunding désigne tous les outils et méthodes de transactions financières qui font appel à   un grand nombre de personnes afin de financer un projet. Les manifestations de soutiens provenant des utilisateurs de ces outils sont de deux types: un soutien financier qui consiste en une transaction dont le montant représente un pourcentage d'un objectif, et l'acte de transaction qui représente un soutien en tant que tel. Le montant de la transaction ne représentant qu'une échelle du soutien.
+* Co-management with users: 
+    Crowdfunding refers to all financial transaction tools and methods that involve a large number of people to finance a project. The expressions of support from users of these tools are of two types: financial support, which consists of a transaction whose amount represents a percentage of an objective, and the transaction act, which represents support as such. The amount of the transaction represents only one scale of support.
 
-* Du besoin spécifique des associations:
+* The specific needs of associations:
 
-    Les associations peuvent recourir à la consultation du public par le vote dans plusieurs cas: 
-    * Choix des projets associatifs
-    * Allocations des budgets
-    * Désignation des administrateurs
-    * Détermination des processus opérationnels
+    Associations can use public consultation by voting in several cases: 
+    * Choice of associative projects
+    * Allocation of budgets
+    * Appointment of directors
+    * Determination of business processes
     
-    L'action des associations est soumise à la confiance de ses donateurs. De nombreux scandales ont illustré que cette confiance était parfois abusée menant au mieux à un désintérêt pour la cause défendue, au pire à un lynchage médiatique discréditant durablement les actions entreprises.
+    The action of the associations is subject to the trust of its donors. Many scandals have illustrated that this trust is sometimes abused, leading at best to a lack of interest in the cause defended, at worst to a media lynching that permanently discredits the actions undertaken.
 
-### Les promesses de la blockchain: 
+#### The promises of the blockchain: 
 
-Le recours a la blockchain dans ces méthodes de prises de décisions par le vote permettrait:
-* Une plus grande représentativité par l'intégration d'un grand nombre d'acteurs (dans les limites d'échelle permise).
-* Une indépendance quant à la disponibilité physique des votants. Particulièrement avantageuse dans le cadre d'organisations internationales ou éclatées.
-* Intégrité de la décision, par des processus de lutte contre la falsification.
-* Traçabilité de la donnée.
-* Transparence des décisions et des processus.
+The use of blockchain in these voting decision-making methods would allow:
+* Greater representativeness through the integration of a large number of actors (within the limits of the permitted scale).
+* An independence as to the physical availability of voters. Particularly advantageous in the context of international or fragmented organizations.
+* Integrity of the decision, through processes to fight against falsification.
+* Traceability of the data.
+* Transparency of decisions and processes.
 
-### En synthèse
+### In summary
 
-| Acteur / Forme de vote présent | Conseil d'administration | Management Participatif |  Consultation publique | Élection des administrateurs et représentants | 
+| Actor / Form of vote present | Board of Directors | Participative Management |  Public consultation | Election of directors and representatives | 
 |:------:|:------------------------:|:-----------------------:|:----------------------:|:--------------------------------------------:|
 | Institution | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) |
 | Association | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | 
-| Entreprise | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | 
-| Établissements public | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | 
-| Grand public | ![Non](../../images/icons/no.png) | ![Non](../../images/icons/no.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | 
+| Company | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | 
+| Public institutions | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | 
+| Public in general | ![Non](../../images/icons/no.png) | ![Non](../../images/icons/no.png) | ![Oui](../../images/icons/yes.png) | ![Oui](../../images/icons/yes.png) | 
 
-> Tableau récapitulatif des formes de vote présents au sein d'un acteur.
+> Summary table of the forms of voting present within an actor.
