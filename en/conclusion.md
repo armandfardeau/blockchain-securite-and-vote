@@ -10,3 +10,5 @@ While many experiments and proofs of concept support the interest of these quest
 This revolution is not without its friction points, especially around the environmental issues that the blockchain will have to resolve. It will also be necessary to rethink the algorithms in order to make them more viable at the desired scales.
 
 We must consider the blockchain as it is today, in its embryonic stage, and not lose sight of the many challenges and successes that this technology promises.
+
+Armand Fardeau

@@ -11,4 +11,6 @@ Cette révolution n'est pas exempte de points de friction, en particulier autour
 
 Il faut considérer la blockchain comme elle est aujourd'hui, à son stade embryonnaire, et ne pas perdre de vue les nombreux défis et succès que cette technologie présage.
 
+Armand Fardeau
+
 
