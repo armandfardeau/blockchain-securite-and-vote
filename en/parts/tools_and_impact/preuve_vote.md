@@ -1,40 +1,39 @@
-## Du statut de la preuve au vote
+## From the status of evidence to the vote
 ---
-Si la transparence nécessite d'apporter la preuve de sa bonne foi, la preuve mérite que l'on s'intéresse à son statut et aux conséquences qu'elle fait peser sur le vote.
+While transparency requires proof of good faith, proof deserves attention for its status and the consequences it has on the vote.
 
-### Qu'est ce qu'une preuve?
+#### What is proof?
 
-Une preuve est un élément matériel (ex. : document contractuel, attestation) qui démontre, établit, prouve la vérité ou la réalité d'une situation de fait ou de droit.
-La preuve est également une opération par laquelle on contrôle l'exactitude d'un calcul ou la justesse de la solution d'un problème.
-C'est bien cette double nature qui nous intéresse ici au regard de la question du vote.
+Proof is a material element (e. g. contractual document, certificate) that demonstrates, establishes, proves the truth or reality of a factual or legal situation.
+Proof is also an operation by which the accuracy of a calculation or the correctness of the solution of a problem is checked.
+It is this dual nature that interests us here with regard to the question of voting.
 
-### Le vote et la preuve
+#### The vote and proof
 
-Le rapport entre le vote et la preuve est comme nous l'avons évoqué, duale. Parce que la preuve doit être présente autour du processus de vote et autour du vote en tant qu'acte matériel.
+The relationship between the vote and proof is, as we have mentioned, dual. Because the evidence must be present around the voting process and around the vote as a material act.
 
-**Preuve entourant le processus:** 
-* Fiabilité
-* Traçabilité
+**Evidence surrounding the process:** 
+* Reliability
+* Traceability
 
-Ce processus doit être réfutable, c'est-à-dire qu'il doit présenter des éléments tangibles et objectifs permettant sa potentielle disqualification ou non.
-Si le processus ne présente des critères de réfutabilité potentielles, il est jugé corrompu a priori.
+This process must be refuted, i.e. it must present tangible and objective elements allowing its potential disqualification or not.
+If the process does not have potential refutability criteria, it is considered corrupt a priori.
 
-**Preuve entourant le vote:** 
-* Authenticité
-* Intégrité
-* Confidentialité
+**Proof surrounding the vote:** 
+* Authenticity
+* Integrity
+* Confidentiality
 
 {% hint style='danger' %}
 
-La confidentialité est une question épineuse dans le cadre du vote car elle n'est requise que dans le cas du vote à bulletin secret. 
-Bien que ce soit une manifestation du vote plus rare, ce type de vote pourrait être le plus critique.
+Confidentiality is a thorny issue in voting because it is only required in the case of secret ballots. 
+Although this is a rarer manifestation of the vote, this type of vote could be the most critical.
 
 {% endhint %}
 
-En effet, le vote à bulletin secret a pour but de garantir que le votant n'a pas été corrompu, ou ne pourra subir de coercitions en conséquence de son vote. Il est difficile de garantir l'intégrité du processus tout en assurant la confidentialité du vote. Pour cette raison, ce type de vote est moins utlisé.
+Indeed, the purpose of the secret ballot is to ensure that the voter has not been corrupted, or will not be subjected to coercion as a result of his vote. It is difficult to guarantee the integrity of the process while ensuring the confidentiality of the vote. For this reason, this type of vote is less used.
 
-Dans le processus démocratique actuel, l'identité du votant est contrôlée par l'existence d'une liste préalable, et la présentation d'un document d'identité attestant de l'état civil. 
-Il s'agit d'un très classique recours à un tiers de confiance. En effet, l'État joue un double rôle ici: il atteste de l'état civil de la personne et délivre une preuve matérielle, disposant d'outils de lutte contre la falsification afin d'attester de cet état civil. Il délivre également la liste des personnes légitimes à s'exprimer dans le cadre du scrutin.
+In the current democratic process, the identity of the voter is controlled by the existence of a preliminary list and the presentation of an identity document attesting to civil status. 
+This is a very classic recourse to a trusted third party. Indeed, the State plays a dual role here: it certifies the person's civil status and issues material proof, using tools to combat falsification in order to certify this civil status. It also issues a list of legitimate persons to be heard during the voting.
 
-Cette confusion des rôles fait reposer une lourde responsabilité sur l'organe étatique, car il est à la fois juge et partie: il doit garantir la sécurité du processus, en étant le bénéficiaire du résultat de celui-ci, et en déterminant les processus de validation, de contrôle et de méta-contrôle .
-
+This confusion of roles places a heavy responsibility on the State body, as it is both judge and party: it must guarantee the security of the process, by being the beneficiary of its outcome, and by determining the validation, control and meta-control processes.
