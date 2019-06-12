@@ -42,46 +42,46 @@ Finally, we will illustrate our point with ongoing projects or proofs of concept
 
 ---
 
-## Table des matières
+## Table of Contents
 
 ### [Introduction](Readme.md)
 
-### [Résumé](executive_summary.md)
+### [Executive summary](executive_summary.md)
 
-### [Remerciements](acknowledgement.md)
+### [Acknowledgements](acknowledgement.md)
 
-### [Définitions](/parts/definitions.md)
-   
-* [Blockchain](/parts/definitions/blockchain.md)
-* [Modalité de sécurisation](parts/definitions/security.md)
-* [Prise de décision collective](parts/definitions/decision.md)
+### [Definitions of the terms](parts/definitions.md)
+
+* [Blockchain](parts/definitions/blockchain.md)
+* [Method of securing](parts/definitions/security.md)
+* [Collective decision-making](parts/definitions/decision.md)
 * [Vote](parts/definitions/vote.md)
 
-### [A. Du besoin d’outils sécurisés de prise de décision collective et de leur potentiel impact](parts/tools-and-impact.md)
-* [1. Les origines de la crise de confiance](parts/tools_and_impact/crise_confiance.md) 
-* [2. Une aspiration à la transparence](parts/tools_and_impact/aspiration_transparence.md) 
-* [3. Du statut de la preuve au vote](parts/tools_and_impact/preuve_vote.md) 
-* [4. Les domaines d'enjeux](parts/tools_and_impact/areas_of_concern.md)
- 
-### [B. De la blockchain comme potentiel cœur de ce changement](parts/blockchain-potential-change.md)
-* [1. Qu'est-ce que la blockchain?](parts/blockchain_potential_change/blockchain_en_details.md)
-* [2. Qu'est-ce que les smart-contracts?](parts/blockchain_potential_change/smart_contract.md)
-* [3. Preuve de Travail vs Preuve de l’Enjeu](parts/blockchain_potential_change/preuve_travail_preuve_enjeu.md)
-* [4. Blockchain privée vs Blockchain publique](parts/blockchain_potential_change/private_vs_public.md)
-* [5. Gestion de l'identification et confidentialité](parts/blockchain_potential_change/identity_and_confidentiality.md)
-* [6. Quid de la sécurité de la blockchain?](parts/blockchain_potential_change/blockchain_securite.md)
-* [7. Quid de ses impacts énergétiques?](parts/blockchain_potential_change/impact_energetique.md)
-* [8. Vers une normalisation?](parts/blockchain_potential_change/blockchain_normalisation.md)
-* [9. Les limites de la blockchain](parts/blockchain_potential_change/blockchain_limite.md)
+### [A. The necessity of secure collective decision-making tools and their potential impact](parts/tools-and-impact.md)
+* [1. The origins of the crisis of confidence](parts/tools_and_impact/crise_confiance.md) 
+* [2. An aspiration for transparency](parts/tools_and_impact/aspiration_transparence.md) 
+* [3. From the status of evidence to the vote](parts/tools_and_impact/preuve_vote.md) 
+* [4. The areas of concern](parts/tools_and_impact/areas_of_concern.md)
 
-### [C. Scénarios d’usages](parts/use-cases.md)
-* [1. Gouvernance des entreprises](parts/use_cases/gouvernance_des_entreprises.md)
-* [2. Management collaboratif de projet](parts/use_cases/management_collboratif.md)
-* [3. Démocratie participative](parts/use_cases/democratie_participative.md)
-* [4. Vie associative et gestion des collectivités.](parts/use_cases/vie_associative_et_gestion_des_collectivites.md)
- 
+### [B. Blockchain as the potential centrepiece of this change](parts/blockchain-potential-change.md)
+* [1. What is the blockchain?](parts/blockchain_potential_change/blockchain_en_details.md)
+* [2. What are smart-contracts?](parts/blockchain_potential_change/smart_contract.md)
+* [3. Proof of Work vs. Proof of Stake](parts/blockchain_potential_change/preuve_travail_preuve_enjeu.md)
+* [4. Private blockchain vs. public blockchain](parts/blockchain_potential_change/private_vs_public.md)
+* [5. Identification management and confidentiality](parts/blockchain_potential_change/identity_and_confidentiality.md)
+* [6. What about the security of the blockchain?](parts/blockchain_potential_change/blockchain_securite.md)
+* [7. What about its environmental impact?](parts/blockchain_potential_change/impact_energetique.md)
+* [8. Towards standardization?](parts/blockchain_potential_change/blockchain_normalisation.md)
+* [9. The blockchain limits](parts/blockchain_potential_change/blockchain_limite.md)
+
+### [C. Use cases scenarios](parts/use-cases.md)
+* [1. Company governance](parts/use_cases/gouvernance_des_entreprises.md)
+* [2. Collaborative project management](parts/use_cases/management_collboratif.md)
+* [3. Participatory democracy](parts/use_cases/democratie_participative.md)
+* [4. Associative life and community management.](parts/use_cases/vie_associative_et_gestion_des_collectivites.md)
+    
 ### [Conclusion](conclusion.md)
-
-### [Sources et glossaire](GLOSSARY.md)
+ 
+### [Sources and glossary of terms](GLOSSARY.md)
 
 
